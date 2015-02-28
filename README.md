@@ -7,5 +7,6 @@ ikuku.cn
 [ikuku学院(academy.ikuku.cn)](https://github.com/caadxyz/ikuku.cn/wiki/academy)  
 [移动影像](https://github.com/caadxyz/ikuku.cn/wiki/moving-image)  
 [学生社区](https://github.com/caadxyz/ikuku.cn/wiki/student)  
+[礼士乐道](https://github.com/caadxyz/ikuku.cn/wiki/lsld)  
 建筑地图  
 建筑问答  
