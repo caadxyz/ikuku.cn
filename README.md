@@ -1,7 +1,7 @@
 ikuku.cn
 ========
 
-1. [社区](http://www.ikuku.cn)  
+1. [社区](https://github.com/caadxyz/ikuku.cn/wiki/community)  
 2. [学院(academy.ikuku.cn)](https://github.com/caadxyz/ikuku.cn/wiki/academy)   
 3. [云工作室(studio.ikuku.cn)](https://github.com/caadxyz/ikuku.cn/wiki/studio)     
 4. [问答](http://wenda.ikuku.cn/)     
