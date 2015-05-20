@@ -24,3 +24,6 @@
 3. faverite
 
 
+![ikuku生态圈及市场拓展](10.pic.jpg)
+
+
