@@ -25,7 +25,7 @@
 
 
 ![ikuku生态圈及市场拓展](10.pic.jpg)  
-copyright 马海东 
+示意图: ikuku生态圈及市场拓展 copyright 马海东 
 
 
 
