@@ -1,2 +1,178 @@
-# 学院
+academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）研究机构，期望得到公益基金的支持，形成良性循环。
 
+**什么是academy.ikuku.cn**
+--------
+
+
+academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions. 
+
+ikuku学院是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
+
+领域包括媒体、社会学、科技、时尚、策展、出版和图形设计等其研究范围与ikuku.cn上的建筑实践相辅相成。
+
+1. 互联网时代的建筑策划该怎么做?  
+2. 媒体、科技、时尚、策展、出版及图形设计...  
+3. 建筑设计、室内设计、影像等在互联网时代有什么变化？    
+
+
+**TARGET**
+* for all: 知识分享(媒体属性)
+* by professionals: 专业研究
+* as think-tank: 学术智囊（库）
+* to society: 跨学科+大众
+
+**IDENTITY**
+* 集体的知识网络 （wikipedia for architecture and urban research）
+* 跨学科和专业地研究城市和建筑（社会学、心理学、人类学、经济学、地理学、计算机科学 etc）
+* 预测和解决城市化中的问题  （人、资本、空间、生活）
+
+Aacademy.ikuku.cn was founded in 2015.1.1.
+
+
+
+**academy.ikuku.cn正在做什么？**
+--------
+
+
+The organisation has aperiodic [seminars](academy-seminar) + [workshop]().  The organisation initiated and manages the very successful database  This is a very valuable resource for researchers, educators and others in the field. The organisation also fosters and promotes the interchange of [projects](academy-project), ideas, information and personnel between member organisations.
+
+academy.ikuku.cn also runs a List server for general communication and information interchange.
+
+
+
+
+**academy.ikuku.cn未来可能做什么？**
+--------
+
+an annual [workshop](academy-workshop) + [conference]() + [public events]().
+
+archive of research [publications](academy-paper) + [exhibition]() in the field of **internet + urban strategy（互联网+城市策略）**.
+
+
+
+**为什么我要加入academy.ikuku.cn**
+--------
+
+There are many advantages to being a member of academy.ikuku.cn that include:
+
+* Access to the comprehense archive of research [papers](studio-paper) on studio.ikuku.cn, that is regularly updated and refreshed with new papers etc.  
+
+* Communication and interchange of ideas at **a global level** as well as **a local level**, with those working in the same area of research and education.  
+
+* The facility to form interest groups to work on collaborative [projects](academy-project) and bid proposals.  
+
+* Aperiodic [seminars](academy-seminar) with a rich mix of papers.  
+
+* An annual [workshop](academy-workshop) with a variety of practical sessions.  
+
+* mutlidescipline
+
+
+
+**如何成为academy.ikuku.cn的成员？** 
+----- 
+
+需要向已有的成员提出申请。
+
+目前已有成员见：[成员列表](people)
+
+
+**academy.ikuku.cn已经得到哪些基金的支持？**  
+-----
+1.学术机构  
+2.规划部门  
+3.民间团体  
+
+
+**academy.ikuku.cn已经与哪些研究机构一起合作过？**  
+-----
+1.学术机构   
+2.民间团体 
+
+
+**公益资金来源**
+
+1.众筹  
+追梦网  众筹网  腾讯公益   
+
+**to do list**
+--------
+1. booklet
+2. [team built](people)
+
+
+**实习机会**
+-------
+
+[实习生列表](internship)
+
+职位名称:项目协调   
+
+岗位职责:  
+1.  策划并组织项目。   
+2.  对项目进行协调管理、预算执行控制以及后期评估;   
+3.  管理和协调项目活动合作伙伴、供应方及实习生;   
+4.  与机构与专家等拓展合作关系;   
+
+
+职位名称:项目执行    
+
+岗位职责:  
+1.  进行项目的具体策划及执行，促进项目的具体实施；  
+2.  带领项目组对拟资助对象进行走访审核；  
+3.  与各地教育部门、民政部门建立良好的合作关系。  
+
+职位：实习生
+
+Q：对在校生有什么硬性要求？  
+A：没有硬性要求，重要的是做事有热情！  
+
+Q：请问除了要求会海报中提到的技能外，还有什么具体要求呢？这些技能又如何考核呢？  
+A：技能越多越好！再多考核都没用，时间证明一切。  
+
+Q：请问实习的时间是多久？  
+A：原则上最短两个月，时间越长越好！  
+
+Q：可以具体介绍一下实习的事情吗？  
+A：工作内容见海报。可以透露的是，将与经验丰富的建筑师团队一起做有趣的工作，一定会开阔眼界。  
+
+Q：去贵公司实习会有工资的还是0工资0住宿和伙食的呢？   
+A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工资。但据项目情况和个人表现，或有奖金。参与的项目会有名誉收获。  
+
+
+**对志愿者有什么样的要求？**
+--------
+
+1.  academy 是公益机构每一个参与其中的人都是志愿者。
+2.  每一个项目所有权属于共同参与者所有（每一个人的付出对需要严格的记录），academy拥有永久的使用权。
+3.  academy很大的一份任务是拉取赞助费，用与academy的日常开销。
+4.  要求志愿者意识到工作的社会意义，对项目感兴趣是最重要的考核标准
+
+
+
+**2015年的目标：30个项目**   
+ 
+
+**正在进行中的academy.ikuku.cn项目列表**
+-----  
+
+
+* [90年代建筑群体观察](90s)
+* [Simulation Algorithm of Macro Thinking & Micro action](http://www.academia.edu/1990355/Macro_Thinking_and_Micro_action)
+* [影像工作室(image studio)](imagestudio)
+* [百年华人建筑库](100)
+* [BIM & CAAD](https://github.com/caadxyz/bim)
+* [eth caad alumni](ethcaad)
+* [乡村工具包](vallage)
+* [de talk](detalk)
+
+
+
+
+
+
+
+
+
+
+ 
