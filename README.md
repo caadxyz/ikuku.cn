@@ -6,9 +6,10 @@ ikuku.cn|在库言库（www.ikukku.cn）是中国第一个建筑设计行业的�
 
 
 1. [社区](social_network.md)  
-2. [学院(academy.ikuku.cn)](academy.md)   
+2. [研究学院(academy.ikuku.cn)](academy.md)   
 3. [云工作室(studio.ikuku.cn)](studio.md)     
 4. [问答](http://wenda.ikuku.cn/)     
-5. [地图](http://www.ikuku.cn/map.php)   
+5. [地图](http://www.ikuku.cn/map.php)  
+6. [案例](cases.md)
 6. [手册](guide.md)
  
