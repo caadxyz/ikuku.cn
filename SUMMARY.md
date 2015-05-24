@@ -4,7 +4,7 @@
 1. [O2O社区](o2o_sn.md)  
    * [社区](o2o_sn/social_network.md)  
    * [O2O](o2o_sn/o2o.md)
-1. [研究学院](academy.md)
+1. [开放学院](academy.md)
 1. [云工作室](studio.md)
 1. [地图](map.md)
 2. [案例](cases.md)
