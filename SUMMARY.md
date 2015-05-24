@@ -9,5 +9,5 @@
 3. [人员](team.md)
 1. [使用手册](guide.md)
  * [新手入门](101.md)
- * [详细教程](detail.md)
+ * [详细教程](detail)
 
