@@ -1,5 +1,5 @@
 
-**案例(cases)**  
+**商业案例(cases)**  
 
 ------------
 
@@ -14,5 +14,18 @@ DotGeek，不只是一家咖啡馆。在不同领域中最专注和追求极致�
 3. 项目经理：马海东   
 
 **ikuku+加意**  
-建筑设计+创意产品    
+建筑设计+创意产品  
+
+------
+
+**学术研究案例(cases)** 
+
+* [90年代建筑群体观察](90s)
+* [Simulation Algorithm of Macro Thinking & Micro action](http://www.academia.edu/1990355/Macro_Thinking_and_Micro_action)
+* [影像工作室(image studio)](imagestudio.md)
+* [百年华人建筑库](100.md)
+* [BIM & CAAD](https://github.com/caadxyz/bim)
+* [eth caad alumni](ethcaad.md)
+* [乡村工具包](vallage.md)
+* [de talk](detalk.md)
 
