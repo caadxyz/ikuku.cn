@@ -104,7 +104,6 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 **实习机会**
 -------
 
-[实习生列表](internship)
 
 职位名称:项目协调   
 
