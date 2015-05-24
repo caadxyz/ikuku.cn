@@ -44,9 +44,9 @@ academy.ikuku.cn also runs a List server for general communication and informati
 **academy.ikuku.cn未来可能做什么？**
 --------
 
-an annual [workshop](academy-workshop) + [conference]() + [public events]().
+an annual workshop + conference + public events.
 
-archive of research [publications](academy-paper) + [exhibition]() in the field of **internet + urban strategy（互联网+城市策略）**.
+archive of research publications + exhibition in the field of **internet + urban strategy（互联网+城市策略）**.
 
 
 
@@ -55,15 +55,15 @@ archive of research [publications](academy-paper) + [exhibition]() in the field 
 
 There are many advantages to being a member of academy.ikuku.cn that include:
 
-* Access to the comprehense archive of research [papers](studio-paper) on studio.ikuku.cn, that is regularly updated and refreshed with new papers etc.  
+* Access to the comprehense archive of research papers on studio.ikuku.cn, that is regularly updated and refreshed with new papers etc.  
 
 * Communication and interchange of ideas at **a global level** as well as **a local level**, with those working in the same area of research and education.  
 
-* The facility to form interest groups to work on collaborative [projects](academy-project) and bid proposals.  
+* The facility to form interest groups to work on collaborative projects and bid proposals.  
 
-* Aperiodic [seminars](academy-seminar) with a rich mix of papers.  
+* Aperiodic seminars with a rich mix of papers.  
 
-* An annual [workshop](academy-workshop) with a variety of practical sessions.  
+* An annual workshop with a variety of practical sessions.  
 
 * mutlidescipline
 
