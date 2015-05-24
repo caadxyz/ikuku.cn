@@ -98,7 +98,7 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 **to do list**
 --------
 1. booklet
-2. [team built](people)
+2. [team built](team.md)
 
 
 **实习机会**
