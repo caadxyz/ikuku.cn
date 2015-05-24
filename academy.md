@@ -166,7 +166,7 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 * [影像工作室(image studio)](imagestudio.md)
 * [百年华人建筑库](100.md)
 * [BIM & CAAD](https://github.com/caadxyz/bim)
-* [eth caad alumni](ethcaad)
+* [eth caad alumni](ethcaad.md)
 * [乡村工具包](vallage)
 * [de talk](detalk)
 
