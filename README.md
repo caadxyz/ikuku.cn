@@ -15,7 +15,7 @@ ikuku学院是一个跨学科和非盈利的城市研究组织。它由建筑实
 ikuku云工作室基于大数据及云办公的优势，在合理的成本范围内，协助建筑师提高项目的完成度。
 
 
-1. [O2O社区](social_network.md)  
+1. [O2O社区](o2o_sn.md)  
 2. [研究学院(academy.ikuku.cn)](academy.md)   
 3. [云工作室(studio.ikuku.cn)](studio.md)     
 5. [地图](http://www.ikuku.cn/map.php)  
