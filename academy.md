@@ -6,7 +6,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）研究机构�
 
 academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions. 
 
-ikuku学院是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
+academy.ikuku.cn是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
 
 领域包括媒体、社会学、科技、时尚、策展、出版和图形设计等其研究范围与ikuku.cn上的建筑实践相辅相成。
 
