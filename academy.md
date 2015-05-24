@@ -158,7 +158,7 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 
 
 * [90年代建筑群体观察](90s.md)
-* [Simulation Algorithm of Macro Thinking & Micro action](http://www.academia.edu/1990355/Macro_Thinking_and_Micro_action)
+* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [影像工作室(image studio)](imagestudio.md)
 * [百年华人建筑库](100.md)
 * [BIM & CAAD](https://github.com/caadxyz/bim)
