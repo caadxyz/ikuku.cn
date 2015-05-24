@@ -20,8 +20,8 @@ DotGeek，不只是一家咖啡馆。在不同领域中最专注和追求极致�
 
 **学术研究案例(cases)** 
 
-* [90年代建筑群体观察](90s)
-* [Simulation Algorithm of Macro Thinking & Micro action](http://www.academia.edu/1990355/Macro_Thinking_and_Micro_action)
+* [90年代建筑群体观察](90s.md)
+* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [影像工作室(image studio)](imagestudio.md)
 * [百年华人建筑库](100.md)
 * [BIM & CAAD](https://github.com/caadxyz/bim)
