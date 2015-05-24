@@ -1,8 +1,7 @@
 find a new way to design a building
 ========
 
-问：当传统的建筑设计行为(offline)与线上行为(online)相遇时，建筑设计会发生什么样的变化？  
-答：free
+2012.1.1 
 
 
 **O2O社区**  
