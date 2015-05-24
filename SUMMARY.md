@@ -1,8 +1,8 @@
 # Summary
 
 1. [introduction](README.md)  
-1. [O2O社区](social_network.md)  
-   * [社区]  
+1. [O2O社区](o2o_sn.md)  
+   * [社区](social_network.md)  
    * [O2O](o2o.md)
 1. [研究学院](academy.md)
 1. [云工作室](studio.md)
