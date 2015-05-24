@@ -18,7 +18,6 @@ ikuku云工作室基于大数据及云办公的优势，在合理的成本范围
 1. [社区](social_network.md)  
 2. [研究学院(academy.ikuku.cn)](academy.md)   
 3. [云工作室(studio.ikuku.cn)](studio.md)     
-4. [问答](http://wenda.ikuku.cn/)     
 5. [地图](http://www.ikuku.cn/map.php)  
 6. [案例](cases.md)
 6. [ikuku使用手册](guide.md)
