@@ -164,7 +164,7 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 * [BIM & CAAD](https://github.com/caadxyz/bim)
 * [eth caad alumni](ethcaad.md)
 * [乡村工具包](vallage.md)
-* [de talk](detalk)
+* [de talk](detalk.md)
 
 
 
