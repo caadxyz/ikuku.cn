@@ -20,7 +20,7 @@
 3. faverite
 
 
-![ikuku生态圈及市场拓展](images/scoical_network/eco.jpg)  
+![ikuku生态圈及市场拓展](images/social_network/eco.jpg)  
 示意图: ikuku生态圈及市场拓展 copyright 马海东 
 
 
