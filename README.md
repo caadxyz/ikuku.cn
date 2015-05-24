@@ -31,5 +31,6 @@ ikuku云工作室基于大数据及云办公的优势，在合理的成本范围
 3. [云工作室](studio.md)     
 5. [地图](http://www.ikuku.cn/map.php)  
 6. [案例](cases.md)
+7. [团队](team.md)
 6. [ikuku使用手册](guide.md)
  
