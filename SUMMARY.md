@@ -16,6 +16,6 @@
     * [eth caad alumni](cases/ethcaad.md)
     * [乡村工具包](cases/vallage.md)
     * [de talk](cases/detalk.md)
-3. [人员](team.md)
+3. [团队](team.md)
 1. [使用手册](guide.md)
 
