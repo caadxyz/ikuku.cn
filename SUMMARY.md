@@ -1,6 +1,6 @@
 # Summary
 
-1. [introduction](README.md)  
+1. [概述](README.md)  
 1. [O2O社区](o2o_sn.md)  
    * [社区](o2o_sn/social_network.md)  
    * [O2O](o2o_sn/o2o.md)
