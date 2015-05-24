@@ -160,7 +160,7 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 * [90年代建筑群体观察](cases/90s.md)  
   参与人及机构: mat 马海东 影像工作室
 
-* [Simulation Algorithm of Macro Thinking & Micro action](http://www.academia.edu/1990355/Macro_Thinking_and_Micro_action)  
+* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)  
   参与人及机构: 马海东  
 
 * [影像工作室(image studio)](imagestudio)
