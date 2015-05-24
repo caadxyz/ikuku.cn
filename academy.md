@@ -34,7 +34,7 @@ Aacademy.ikuku.cn was founded in 2015.1.1.
 --------
 
 
-The organisation has aperiodic seminars + [workshop]().  The organisation initiated and manages the very successful database  This is a very valuable resource for researchers, educators and others in the field. The organisation also fosters and promotes the interchange of [projects](academy-project), ideas, information and personnel between member organisations.
+The organisation has aperiodic seminars + workshop.  The organisation initiated and manages the very successful database  This is a very valuable resource for researchers, educators and others in the field. The organisation also fosters and promotes the interchange of projects, ideas, information and personnel between member organisations.
 
 academy.ikuku.cn also runs a List server for general communication and information interchange.
 
