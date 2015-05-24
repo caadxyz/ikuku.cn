@@ -74,7 +74,7 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 
 需要向已有的成员提出申请。
 
-目前已有成员见：[成员列表](people)
+目前已有成员见：[成员列表](team.md)
 
 
 **academy.ikuku.cn已经得到哪些基金的支持？**  
