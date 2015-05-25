@@ -7,7 +7,7 @@
 1. [开放学院](academy.md)
 1. [云工作室](studio.md)
 1. [地图](map.md)
-2. [案例](cases.md)
+1. [案例](cases.md)
     * [90年代建筑群体观察](cases/90s.md)
     * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
     * [影像工作室(image studio)](cases/imagestudio.md)
@@ -17,6 +17,6 @@
     * [乡村工具包](cases/vallage.md)
     * [de talk](cases/detalk.md)  
     * [尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
-3. [团队](team.md)
+1. [团队](team.md)
 1. [使用手册](guide.md)
 
