@@ -164,7 +164,9 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 * [eth caad alumni](cases/ethcaad.md)
 * [乡村工具包](cases/vallage.md)
 * [de talk](cases/detalk.md)
-* [find a new way to design a building](README.md)
+* [find a new way to design a building](README.md)  
+* [尼泊尔大地震
+全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 
 
 
