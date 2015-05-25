@@ -1,5 +1,6 @@
 #team   
 
+我们相信开放是一种力量  
 
 O2O coummunity
 ------
