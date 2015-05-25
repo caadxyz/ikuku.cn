@@ -24,3 +24,6 @@
 
 已有实习生:  
 晁酷酷   万林潇谊
+
+
+&copy;academy.ikuku.cn 2015
