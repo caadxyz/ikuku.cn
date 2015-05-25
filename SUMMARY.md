@@ -15,7 +15,9 @@
     * [BIM & CAAD](https://github.com/caadxyz/bim)
     * [eth caad alumni](cases/ethcaad.md)
     * [乡村工具包](cases/vallage.md)
-    * [de talk](cases/detalk.md)
+    * [de talk](cases/detalk.md)  
+    * [尼泊尔大地震
+全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 3. [团队](team.md)
 1. [使用手册](guide.md)
 
