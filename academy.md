@@ -19,7 +19,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究�
 * [尼泊尔大地震
 全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 
-**2015年的目标：30个项目**   
+
 
 **什么是academy.ikuku.cn**
 --------
@@ -121,7 +121,7 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 --------
 1. booklet
 2. [team built](team.md)
-
+3. 2015年的目标：30个项目   
 
 **实习机会**
 -------
