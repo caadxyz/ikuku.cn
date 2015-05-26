@@ -51,19 +51,15 @@ Aacademy.ikuku.cn was founded in 2015.1.1.
 
 
 
-**academy.ikuku.cn正在做什么？**
+**academy.ikuku.cn在做什么？**
 --------
 
-
+**now**  
 The organisation has aperiodic seminars + workshop.  The organisation initiated and manages the very successful database  This is a very valuable resource for researchers, educators and others in the field. The organisation also fosters and promotes the interchange of projects, ideas, information and personnel between member organisations.
 
 academy.ikuku.cn also runs a List server for general communication and information interchange.
 
-
-
-
-**academy.ikuku.cn未来可能做什么？**
---------
+**future**
 
 an annual workshop + conference + public events.
 
@@ -101,21 +97,16 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 
 **academy.ikuku.cn已经得到哪些基金的支持？**  
 -----
-1.学术机构  
-2.规划部门  
-3.民间团体  
-
+* 学术机构  
+* 规划部门  
+* 民间团体  
+* 众筹 追梦网  众筹网  腾讯公益  
 
 **academy.ikuku.cn已经与哪些研究机构一起合作过？**  
 -----
 1.学术机构   
 2.民间团体 
 
-
-**公益资金来源**
-
-1.众筹  
-追梦网  众筹网  腾讯公益   
 
 **to do list**
 --------
