@@ -6,7 +6,7 @@
 
 **二年级**   
 **三年级**  
- * [胡同邻里中心——CAFA三年级室内专业课题](http://www.ikuku.cn/article/hutonglinlizhongxineeeecafasannianjishineizhuanyeketi)     
+ * [胡同邻里中心——CAFA室内专业课题](http://www.ikuku.cn/article/hutonglinlizhongxineeeecafasannianjishineizhuanyeketi)     
 
 
 **四年级**    
