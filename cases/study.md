@@ -1,6 +1,9 @@
 # 各年级在校生作业展
 
 **一年级**   
+ * [“林间巧筑”——CAFA季学生展厅设计](http://www.ikuku.cn/article/linjianqiaozhueeeecafajixueshengzhantingsheji)
+
+
 **二年级**   
 **三年级**  
  * [胡同邻里中心——CAFA三年级室内专业课题](http://www.ikuku.cn/article/hutonglinlizhongxineeeecafasannianjishineizhuanyeketi)     
