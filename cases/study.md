@@ -15,6 +15,5 @@
 
  * [哈尔滨工业大学建筑学院四年级开放设计——OFFICE 3.0](http://www.ikuku.cn/article/haerbingongyedaxuejianzhuxueyuansinianjikaifangshejieeeeoffice3-0yi)   
 
-
- 
-**毕业作品** 
+**毕业作品**  
+ * [中国美院建筑系10级毕业设计及理论课展二 : 画](http://www.ikuku.cn/activity/zhongguomeiyuanjianzhuxi10jibiyeshejijililunkezhanerhua)
