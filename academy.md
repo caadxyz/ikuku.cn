@@ -1,5 +1,5 @@
 # 开放学院
-academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）研究机构，期望得到公益基金的支持，形成良性循环。
+academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究机构，资金来专项的自公益基金。
 
 
  **项目列表**
