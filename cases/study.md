@@ -4,7 +4,9 @@
  * [“林间巧筑”——CAFA季学生展厅设计](http://www.ikuku.cn/article/linjianqiaozhueeeecafajixueshengzhantingsheji)
 
 
-**二年级**   
+**二年级**  
+ * [山地小别墅 北京交通大学](http://www.ikuku.cn/article/jiaoxueshilu)  
+
 **三年级**  
  * [胡同邻里中心——CAFA室内专业课题](http://www.ikuku.cn/article/hutonglinlizhongxineeeecafasannianjishineizhuanyeketi)     
 
