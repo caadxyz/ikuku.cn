@@ -27,7 +27,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究�
 
 academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions. 
 
-academy.ikuku.cn是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
+开放学院是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
 
 领域包括媒体、社会学、科技、时尚、策展、出版和图形设计等其研究范围与ikuku.cn上的建筑实践相辅相成。
 
@@ -51,7 +51,7 @@ Aacademy.ikuku.cn was founded in 2015.1.1.
 
 
 
-**academy.ikuku.cn在做什么？**
+**what academy.ikuku.cn do？**
 --------
 
 **now**  
@@ -67,7 +67,7 @@ archive of research publications + exhibition in the field of **internet + urban
 
 
 
-**为什么我要加入academy.ikuku.cn**
+**为什么我要加入开放学院？**
 --------
 
 There are many advantages to being a member of academy.ikuku.cn that include:
@@ -86,33 +86,30 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 
 
 
-**如何成为academy.ikuku.cn的成员？** 
+**如何成为开放学院的成员？** 
 ----- 
 
-需要向已有的成员提出申请。
-
-目前已有成员见：  
-[成员列表](team.md)
+* 需要向已有的[成员](team.md)提出申请。
 
 
 **academy.ikuku.cn已经得到哪些基金的支持？**  
 -----
-* 学术机构  
-* 规划部门  
-* 民间团体  
-* 众筹 追梦网  众筹网  腾讯公益  
+    学术机构  
+    规划部门  
+    民间团体  
+    众筹 追梦网  众筹网  腾讯公益  
 
 **academy.ikuku.cn已经与哪些研究机构一起合作过？**  
 -----
-1.学术机构   
-2.民间团体 
+    1. 学术机构   
+    2. 民间团体 
 
 
 **to do list**
 --------
-1. booklet
-2. [team built](team.md)
-3. 2015年的目标：30个项目   
+    1. booklet
+    2. [team built](team.md)
+    3. 2015年的目标：30个项目   
 
 **实习机会**
 -------
@@ -120,35 +117,35 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 职位名称:项目协调   
 
 岗位职责:  
-1.  策划并组织项目。   
-2.  对项目进行协调管理、预算执行控制以及后期评估;   
-3.  管理和协调项目活动合作伙伴、供应方及实习生;   
-4.  与机构与专家等拓展合作关系;   
+    1.  策划并组织项目。   
+    2.  对项目进行协调管理、预算执行控制以及后期评估;   
+    3.  管理和协调项目活动合作伙伴、供应方及实习生;   
+    4.  与机构与专家等拓展合作关系;   
 
 
 职位名称:项目执行    
 
 岗位职责:  
-1.  进行项目的具体策划及执行，促进项目的具体实施；  
-2.  带领项目组对拟资助对象进行走访审核；  
-3.  与各地教育部门、民政部门建立良好的合作关系。  
+    1.  进行项目的具体策划及执行，促进项目的具体实施；  
+    2.  带领项目组对拟资助对象进行走访审核；  
+    3.  与各地教育部门、民政部门建立良好的合作关系。  
 
-职位：实习生
+Q&A
 
-Q：对在校生有什么硬性要求？  
-A：没有硬性要求，重要的是做事有热情！  
-
-Q：请问除了要求会海报中提到的技能外，还有什么具体要求呢？这些技能又如何考核呢？  
-A：技能越多越好！再多考核都没用，时间证明一切。  
-
-Q：请问实习的时间是多久？  
-A：原则上最短两个月，时间越长越好！  
-
-Q：可以具体介绍一下实习的事情吗？  
-A：工作内容见[海报](http://www.ikuku.cn/activity/ikukuxueyuantigongshixijihui)。可以透露的是，将与经验丰富的建筑师团队一起做有趣的工作，一定会开阔眼界。  
-
-Q：去贵公司实习会有工资的还是0工资0住宿和伙食的呢？   
-A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工资。但据项目情况和个人表现，或有奖金。参与的项目会有名誉收获。  
+    Q：对在校生有什么硬性要求？  
+    A：没有硬性要求，重要的是做事有热情！  
+    
+    Q：请问除了要求会海报中提到的技能外，还有什么具体要求呢？这些技能又如何考核呢？  
+    A：技能越多越好！再多考核都没用，时间证明一切。  
+    
+    Q：请问实习的时间是多久？  
+    A：原则上最短两个月，时间越长越好！  
+    
+    Q：可以具体介绍一下实习的事情吗？  
+    A：工作内容见[海报](http://www.ikuku.cn/activity/ikukuxueyuantigongshixijihui)。可以透露的是，将与经验丰富的建筑师团队一起做有趣的工作，一定会开阔眼界。  
+    
+    Q：去贵公司实习会有工资的还是0工资0住宿和伙食的呢？   
+    A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工资。但据项目情况和个人表现，或有奖金。参与的项目会有名誉收获。  
 
 
 **对志愿者有什么样的要求？**
