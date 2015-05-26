@@ -1,26 +1,25 @@
 # 开放学院
-academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究机构，资金来专项的自公益基金。
+academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究机构，资金来专项的自公益基金。  
 
-
+版权协议： [MIT License](http://opensource.org/licenses/MIT)
  **项目列表**
 -----  
 
 
 * [90年代建筑群体观察](cases/90s.md)
 * [各年级在校生作业展](cases/study.md)
-* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [影像工作室(image studio)](cases/imagestudio.md)
 * [百年华人建筑库](cases/100.md)
+* [乡村工具包](cases/vallage.md)
 * [BIM & CAAD](https://github.com/caadxyz/bim)
 * [eth caad alumni](cases/ethcaad.md)
-* [乡村工具包](cases/vallage.md)
+* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [de talk](cases/detalk.md)
 * [find a new way to design a building](README.md)  
 * [尼泊尔大地震
 全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 
-
-
+**2015年的目标：30个项目**   
 
 **什么是academy.ikuku.cn**
 --------
@@ -96,7 +95,8 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 
 需要向已有的成员提出申请。
 
-目前已有成员见：[成员列表](team.md)
+目前已有成员见：  
+[成员列表](team.md)
 
 
 **academy.ikuku.cn已经得到哪些基金的支持？**  
@@ -125,7 +125,6 @@ There are many advantages to being a member of academy.ikuku.cn that include:
 
 **实习机会**
 -------
-
 
 职位名称:项目协调   
 
@@ -164,14 +163,14 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 **对志愿者有什么样的要求？**
 --------
 
-1.  academy 是公益机构每一个参与其中的人都是志愿者。
-2.  每一个项目所有权属于共同参与者所有（每一个人的付出对需要严格的记录），academy拥有永久的使用权。
+1.  版权协议： [MIT License](http://opensource.org/licenses/MIT) 
+2.  academy 是公益机构每一个参与其中的人都是志愿者。
 3.  academy很大的一份任务是拉取赞助费，用与academy的日常开销。
 4.  要求志愿者意识到工作的社会意义，对项目感兴趣是最重要的考核标准
 
 
 
-**2015年的目标：30个项目**   
+
 
 
 
