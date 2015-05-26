@@ -1,4 +1,4 @@
-# 开放学院
+# 开放学院(academy.ikuku.cn)
 academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究机构，资金来专项的自公益基金。  
 
 版权协议： [MIT License](http://opensource.org/licenses/MIT)
