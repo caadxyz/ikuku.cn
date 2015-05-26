@@ -1,5 +1,28 @@
 academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）研究机构，期望得到公益基金的支持，形成良性循环。
 
+
+ 
+
+**正在进行中的academy.ikuku.cn项目列表**
+-----  
+
+
+* [90年代建筑群体观察](cases/90s.md)
+* [各年级在校生作业展](cases/study.md)
+* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
+* [影像工作室(image studio)](cases/imagestudio.md)
+* [百年华人建筑库](cases/100.md)
+* [BIM & CAAD](https://github.com/caadxyz/bim)
+* [eth caad alumni](cases/ethcaad.md)
+* [乡村工具包](cases/vallage.md)
+* [de talk](cases/detalk.md)
+* [find a new way to design a building](README.md)  
+* [尼泊尔大地震
+全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
+
+
+
+
 **什么是academy.ikuku.cn**
 --------
 
@@ -150,25 +173,6 @@ A：ikuku学院是公益机构，成员都是志愿参与，原则上没有工�
 
 
 **2015年的目标：30个项目**   
- 
-
-**正在进行中的academy.ikuku.cn项目列表**
------  
-
-
-* [90年代建筑群体观察](cases/90s.md)
-* [各年级在校生作业展](cases/study.md)
-* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
-* [影像工作室(image studio)](cases/imagestudio.md)
-* [百年华人建筑库](cases/100.md)
-* [BIM & CAAD](https://github.com/caadxyz/bim)
-* [eth caad alumni](cases/ethcaad.md)
-* [乡村工具包](cases/vallage.md)
-* [de talk](cases/detalk.md)
-* [find a new way to design a building](README.md)  
-* [尼泊尔大地震
-全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
-
 
 
 
