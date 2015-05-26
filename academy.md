@@ -151,10 +151,10 @@ Q&A
 **对志愿者有什么样的要求？**
 --------
 
-1.  版权协议： [MIT License](http://opensource.org/licenses/MIT) 
-2.  academy 是公益机构每一个参与其中的人都是志愿者。
-3.  academy很大的一份任务是拉取赞助费，用与academy的日常开销。
-4.  要求志愿者意识到工作的社会意义，对项目感兴趣是最重要的考核标准
+    1.  版权协议： [MIT License](http://opensource.org/licenses/MIT) 
+    2.  academy 是公益机构每一个参与其中的人都是志愿者。
+    3.  academy很大的一份任务是拉取赞助费，用与academy的日常开销。
+    4.  要求志愿者意识到工作的社会意义，对项目感兴趣是最重要的考核标准
 
 
 
