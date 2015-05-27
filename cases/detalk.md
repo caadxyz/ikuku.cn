@@ -12,7 +12,7 @@ We collaborate with the most influential architecture and design website: www.ik
 
 
 Phyllis – Wong
-Architect, chef, entrepreneur, owner of greensparrow (http://www.greensparrow.nl)
+Architect, chef, entrepreneur, owner of Green Sparrow (http://www.greensparrow.nl)
 
 Born in Singapore, trained and practiced as a professional architect in Los Angeles and London, Phyllis’ interest and curiosity in cooking embarked after entering motherhood.  She saw the need of a warm and nourishing meal; ready whenever needed even more than before.  Hence the birth of a catering company – Green Sparrow (http://www.greensparrow.nl) that provides nutritious meal for families with busy parents and to any customers who enjoys eating in a healthy way.  Trained at La Cuisine Francaise in Amsterdam NL and The Ashburton Cookery School in Devon UK, Phyllis cooks with seasonal, local and organic/free range ingredients, 100% (home) made with love and creativity.
 
