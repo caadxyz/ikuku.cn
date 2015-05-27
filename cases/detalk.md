@@ -45,6 +45,7 @@ Grow up in Singapore; trained and practiced as architect in LA and London; move 
 
 ## interview list
 
+
 **Phyllis – Wong**  
 
 Architect, chef, entrepreneur, owner of Green Sparrow (http://www.greensparrow.nl)
@@ -55,6 +56,10 @@ Phyllis has a diverse background.  She is born and raised in tropical Singapore 
 
 
 **special question**  
+* 问题1
+* 问题2等等
+
+
 
 
 &copy;academy.ikuku.cn 2015
