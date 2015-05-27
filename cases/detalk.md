@@ -22,7 +22,7 @@ Phyllis has a diverse background.  She is born and raised in tropical Singapore 
 Question
 
 Introduction
-1. Tell us about yourself? (Anything you want to talk more here?)
+1. Tell us about yourself?
 Grow up in Singapore; trained and practiced as architect in LA and London; move to Rotterdam and start Green Sparrow…
 
 Creative working
