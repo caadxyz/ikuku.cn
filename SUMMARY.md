@@ -21,5 +21,4 @@
 * [团队](team.md)
 * [使用手册](guide.md)
 * 申请&招募实习
-   * [【对招募实习的回复】](3010_dui_zhao_mu_shi_xi_de_hui_fu_3011.md)
 
