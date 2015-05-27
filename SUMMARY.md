@@ -20,5 +20,6 @@
    * [尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 1. [团队](team.md)
 1. [使用手册](guide.md)
+   * [编写规则](guide/editor.md)
    * [招募&申请实习](guide/find.md)
 
