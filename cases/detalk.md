@@ -52,7 +52,7 @@ Architect, chef, entrepreneur, owner of Green Sparrow (http://www.greensparrow.n
 Born in Singapore, trained and practiced as a professional architect in Los Angeles and London, Phyllis’ interest and curiosity in cooking embarked after entering motherhood.  She saw the need of a warm and nourishing meal; ready whenever needed even more than before.  Hence the birth of a catering company – Green Sparrow (http://www.greensparrow.nl) that provides nutritious meal for families with busy parents and to any customers who enjoys eating in a healthy way.  Trained at La Cuisine Francaise in Amsterdam NL and The Ashburton Cookery School in Devon UK, Phyllis cooks with seasonal, local and organic/free range ingredients, 100% (home) made with love and creativity.
 
 Phyllis has a diverse background.  She is born and raised in tropical Singapore but spent her last 20 years living in Los Angeles, London and now Rotterdam. Her story is very inspiring as an architecture professional extending her interests and creativity to home-cooking and create her own business. Her experience also shows how a talented woman tried to balance life and career, fighting for her own independency in the society. Moreover, having living almost all over the world, Phyllis opended an exciting adventure, like her cooking, rooted from the East, grow in the west, blossom after her own mingle. 
-
+**special question**  
 
 
 &copy;academy.ikuku.cn 2015
