@@ -12,15 +12,15 @@ We collaborate with the most influential architecture and design website: www.ik
 
 
 
-**Question**  
+## Question   
 
 
 
-## Introduction
+**Introduction**  
 1. Tell us about yourself?
 Grow up in Singapore; trained and practiced as architect in LA and London; move to Rotterdam and start Green Sparrow…
 
-## Creative working
+**Creative working**  
 2. How do you like about being an architect, especially a female architect? Which office and what kind of projects did you work for? 
 
 3. What make you want to do something else, shift to catering business?
@@ -35,11 +35,12 @@ Grow up in Singapore; trained and practiced as architect in LA and London; move 
 
 8. What is your ambition or perspective about Green Sparrow and yourself?
 
-## Inspiration and life
+**Inspiration and life**  
 9. What is daily routine? Where do u find your inspiration?
 
 10. What excites you about being in Rotterdam after travel and live in so many places in the world?
  
+
 
 
 ## interview list
