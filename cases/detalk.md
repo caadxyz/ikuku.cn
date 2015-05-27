@@ -32,7 +32,7 @@ Creative working
 
 4. I found your cooking, and everything around it very creative, such as the website, the presentation of the dish, the organization of events etc. From architect to Green Sparrow, do you find any correlations between the two? Do you think your previous experience influence your current business?
 
-5. Catering business is a highly competitive and creative that requires both technique and imagination –similar with architecture from this perspective. What do you think the most important thing in cooking, the ingredient, the presentation, the atmosphere, or the taste, or? What’s your food philosophy? 
+5. Catering business is highly competitive and creative that requires both technique and imagination –similar with architecture from this perspective. What do you think the most important thing in cooking, the ingredient, the presentation, the atmosphere, or the taste, or? What’s your food philosophy? 
 
 6. Europe has been in crisis for quite some time, and many architects, designers, or people in relevant fields have lost their jobs. Design may seem luxury at this moment. But I find it more important to think and work creatively, in order to minimize the cost and generate jobs and profits. How do you see this? Do you think Green Sparrow well fits in the current economy in EU? 
 
