@@ -1,5 +1,6 @@
 ## De Talk
 
+
 **概述**
 
 采访针对创意工作的创业和从业人员，可以是做local市场的也可以是全球市场的，除了专业讨论，也希望更贴近生活，就是真实体现国外的创意人群工作生活状态，他们背后的文化，灵感，和很多设计/创意领域内新型的产业职业，让大家能开眼界受启发，让国内的人看了觉得听得懂想象的到，也拉近国内外设计行业人士彼此的认识  
@@ -11,6 +12,9 @@ De Talk is an independent and international platform documenting inspiring peopl
 We collaborate with the most influential architecture and design website: www.ikuku.cn, as a series special column/album on ikuku, and will be viewed by more than thousands of readers. 
 
 
+**发起及策划人**  
+haidong ma  
+deng xiaofan  
 
 ## Common Question   
 
