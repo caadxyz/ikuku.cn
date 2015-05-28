@@ -2,6 +2,8 @@ find a new way to design a building
 ========
 alpha version  
 
+**events**  
+
 2012.1.1 ikuku.cn|在库言库上线。  
 2015.4.18 第一个由ikuku.cn匹配而完成的建筑项目开业。  
 2015.4.22 ikuku.cns上用户上传的作品达到6666件。     
