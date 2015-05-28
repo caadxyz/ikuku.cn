@@ -25,7 +25,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究�
 --------
 
 
-academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions. 
+academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions.   
 
 website: http://academy.ikuku.cn
 
