@@ -1,5 +1,6 @@
-find a new way to design a building(草稿)
+find a new way to design a building 
 ========
+alpha version  
 
 2012.1.1 ikuku.cn|在库言库上线。  
 2015.4.18 第一个由ikuku.cn匹配而完成的建筑项目开业。  
