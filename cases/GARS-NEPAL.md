@@ -32,7 +32,7 @@ Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.
 
 
 
-**1、设计内容**  
+**1、设计内容/Design content**  
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
@@ -160,7 +160,7 @@ B、灾后重建建筑
 注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
 
 
-Design content：
+：
 Two types are included: emergency buildings in disaster and post-disaster construction. 
 A. emergency buildings in disaster:
 a Emergency shelters for residents.
