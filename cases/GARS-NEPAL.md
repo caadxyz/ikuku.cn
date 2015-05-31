@@ -24,7 +24,6 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 二等奖4位（AB类型各2位），奖金各10000美元，并获得证书及奖牌  
 三等奖10位（AB类型各5位），奖金各2000美元，并获得证书及奖牌  
 入围24位（AB类型各12位），获得证书及奖品  
-
 Total bonus:100,000 dollars.  
 Two first prize(each type A and B has one) ,each bonus is ten 10,000 dollars.  
 Four second prize(each type A and B has two),each bonus is 7500 dollars.  
@@ -33,7 +32,7 @@ Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.
 
 
 
-1、设计内容
+**1、设计内容**  
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
@@ -145,7 +144,10 @@ B、灾后重建建筑
 
 建筑高度：尽量控制在两层以内，包括两层。
 
-2、成果要求
+
+
+
+**2、成果要求**  
 
 • 效果图（包括模型照片）
 
