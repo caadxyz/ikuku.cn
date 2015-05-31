@@ -253,9 +253,10 @@ Note：All texts are in both Chinese and English.The organizer encourages all fo
 Electronic documentaries are required in duplicate.
 
 ikuku方案格式/ikuku concept format
-• 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
-• 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
-
+* 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
+* 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
+In "ucenter -> My competition", user can click on "update" button to submit or  update each proposal.
+In you are in a team you need click on "participants" to fill out each participator.
 
 pdf格式/format
 * 300dpi，不多于5张的A3横构图图纸
