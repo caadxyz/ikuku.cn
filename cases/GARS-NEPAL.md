@@ -272,6 +272,23 @@ Sujet ：中国-尼泊尔经贸促进会会长
 
 Lamo thpa ：尼泊尔建筑师
 
+
+Panel of experts:
+We have already invited:
+ Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far east outstanding architectural design merit award; Contribution award of reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;he 2nd Life Award of the 《The Sound of Man》monthly magazine; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
+
+Zhu Jingxiang: Architect, scholar, Doctor of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the annual WA award，2004；The highest award of the annual WA award,2010;Special mention award of the 2nd Chinese Media Architecture Committee; “Chinese innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
+
+Qiu Wenjie: Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA award; finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.
+
+Yuan Ye: Architect, Doctor of the Department of Architecture of Tsinghua University, deputy chief architect of China Construction Engineering Design Group Corporation Limited.（headquarter），postgraduate supervisor, who received the 10th Young Architect Award of Architectural Society of China. Representative works：The Memorial Park of Tangshan Earthquake Ruins，the gold winner in 2013’s Architectural design (Landscape architecture) of Architectural Society of China; finalist of WA Achievement Award ，WAACA Chinese Architectural award,2013.
+
+Fei Bigang: Expert of the secure and identification of Structural Engineering, Doctor of the Department of Civil Engineering, Tsinghua University; professor;director of GUOZHI (Beijing) Construction Engineering detection and identification center. Member of the Standardization Technology Committee of Construction Quality，Building Maintenance and Reinforcement ，real estate etc, which all belongs to the  Ministry of Housing and Urban-Rural Development of China. Mr. Fei took part in the emergency identification operation of post-earthquake housing of Wenchuan 5.12 Earthquake as a member of expert group of MOHURD.
+Noted Sociologist we invited(uncertain)
+Sujet：President of China-Nepal Economy and Trade Promotion Association
+Lamo thpa ： native architect from Nepal.
+
+
 主办单位
 
 GCRS全球铸爱应急救灾物资交易中心
@@ -354,20 +371,6 @@ Bao Qianshi：Founder and CEO of GCRS .
 Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
 Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
-Panel of experts:
-We have already invited:
- Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far east outstanding architectural design merit award; Contribution award of reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;he 2nd Life Award of the 《The Sound of Man》monthly magazine; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
-
-Zhu Jingxiang: Architect, scholar, Doctor of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the annual WA award，2004；The highest award of the annual WA award,2010;Special mention award of the 2nd Chinese Media Architecture Committee; “Chinese innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
-
-Qiu Wenjie: Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA award; finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.
-
-Yuan Ye: Architect, Doctor of the Department of Architecture of Tsinghua University, deputy chief architect of China Construction Engineering Design Group Corporation Limited.（headquarter），postgraduate supervisor, who received the 10th Young Architect Award of Architectural Society of China. Representative works：The Memorial Park of Tangshan Earthquake Ruins，the gold winner in 2013’s Architectural design (Landscape architecture) of Architectural Society of China; finalist of WA Achievement Award ，WAACA Chinese Architectural award,2013.
-
-Fei Bigang: Expert of the secure and identification of Structural Engineering, Doctor of the Department of Civil Engineering, Tsinghua University; professor;director of GUOZHI (Beijing) Construction Engineering detection and identification center. Member of the Standardization Technology Committee of Construction Quality，Building Maintenance and Reinforcement ，real estate etc, which all belongs to the  Ministry of Housing and Urban-Rural Development of China. Mr. Fei took part in the emergency identification operation of post-earthquake housing of Wenchuan 5.12 Earthquake as a member of expert group of MOHURD.
-Noted Sociologist we invited(uncertain)
-Sujet：President of China-Nepal Economy and Trade Promotion Association
-Lamo thpa ： native architect from Nepal.
 
 Timings
 Start-up：June 1,2015
