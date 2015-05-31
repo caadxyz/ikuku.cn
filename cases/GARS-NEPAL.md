@@ -3,7 +3,7 @@
 尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动  
 Emergency Aid Operations：calling for designing projects, aiming at post-disaster construction, facing architects globaly（Draft）
 
-主题/theme
+**主题/theme**
 
 1、征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
 2、积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
