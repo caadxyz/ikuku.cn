@@ -248,6 +248,13 @@ B、灾后重建建筑
 
 结果发布时间：2015年7月25日
 
+Timings
+Start-up：June 1,2015
+Activity Deadline：June 30，2015.
+Reviewing time : July 1, 2015 –July 15,2015.
+
+Results releasing time：July 20，2015
+
 专家评审团
 
 谢英俊：
@@ -307,21 +314,39 @@ www.ikuku.cn
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
 
+Social organizations: China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
+
+
 协办建筑媒体
 
 台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑知识杂志、设计家杂志等
+
+Mainstream media support  plans to invite: ifeng.com, People.cn, qq.com, 163.com, baidu.com, Financial Times, The New York Times and the magazine of CRS.
+
+Professional directing units：We plans to invite： Architectural Society of China, Architectural Society of Taiwan, Architectural Society of Hongkong and World Associations of Chinese Architects.
+
+
 
 赞助单位
 
 广药集团等
 
+Sponsors: Guangzhou Pharmaceutical Company Limited（Bonus sponsorship）.
+
 策划单位
 
 中国慈展会、特劳斯定位公司
 
+The scheming units：China Charity Fair,Traus positioning company.
+
+
+
 活动成果展览展示地点
 
 GCRS全球应急救灾物资云计算展示大厦
+
+Location of exhibition of the activity results: The exhibition mansion of cloud computing of GCRS.
+
 
 活动发起人
 
@@ -333,9 +358,16 @@ GCRS全球应急救灾物资云计算展示大厦
 
 Sujet 中国-尼泊尔经贸促进会会长
 
+Activity  promotors：
+Bao Qianshi：Founder and CEO of GCRS .
+Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
+Sujet: President of China-Nepal Economic and Trade Promotion Association.
+
 活动新闻发言人
 
 包千石
+
+spokesman for this activity: Bao Qianshi.
 
 活动联系人
 
@@ -360,28 +392,17 @@ Q&A ikuku问答中心
 
 
 
-Professional directing units：We plans to invite： Architectural Society of China, Architectural Society of Taiwan, Architectural Society of Hongkong and World Associations of Chinese Architects.
-
-Social organizations: China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
-Mainstream media support  plans to invite: ifeng.com, People.cn, qq.com, 163.com, baidu.com, Financial Times, The New York Times and the magazine of CRS.
-
-The scheming units：China Charity Fair,Traus positioning company.
-Sponsors: Guangzhou Pharmaceutical Company Limited（Bonus sponsorship）.
-Location of exhibition of the activity results: The exhibition mansion of cloud computing of GCRS.
-Activity  promotors：
-Bao Qianshi：Founder and CEO of GCRS .
-Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
-Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 
-Timings
-Start-up：June 1,2015
-Activity Deadline：June 30，2015.
-Reviewing time : July 1, 2015 –July 15,2015.
 
-Results releasing time：July 20，2015
 
-spokesman for this activity: Bao Qianshi.
+
+
+
+
+
+
+
 
 Activity forms:
 1.	Sign-up:
