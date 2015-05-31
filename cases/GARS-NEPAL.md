@@ -242,27 +242,30 @@ Note：All texts are in both Chinese and English.The organizer encourages all fo
 * 在"用户中心->我的竞赛"中点击"立即参加"按钮,立即获得参加资格及注册号。
 * 参加者同时需要填写个人简介。
 * Login to ikuku user center(if you are not ikuku userm you need registor first).
-* After click 'apply now' button in 'user center->my competition', you will get a registration number ofqualification for competition and get eligible for the activity.
+* After click 'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number ofqualification for competition and get eligible for the activity.
 * Participants need to fill Profile in ikuku user center. 
 
 
 
 **4、成果提交/Instructions of submission**  
 
-本竞赛只接受电子版本的设计成果。
+本竞赛只接受电子版本（一式两份）的设计成果。  
+Electronic documentaries are required in duplicate.
 
-以上成果排版在不多于5张的A3横构图图纸上，每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm。
+ikuku方案格式/ikuku concept format
+• 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
+• 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
 
-电子文件需一式两份：
 
-• jpg格式，参加者提交电子版文件至ikuku在库言库网方案征集平台，根据方案的类型上传到ikuku.cn注册用户账号上，并投稿到ikuku，需要注明标签GARS,用于网络评选及排名
+pdf格式/format
+* 300dpi，不多于5张的A3横构图图纸
+* 每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm
+* 发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
+* 300dpi, The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
+* Please send the results to nepaltibet@163.com with the title in this format：GARS-registration number.
 
-• pdf格式，300dpi，发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
 
-The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
-Electronic documentaries  are required in duplicate.
-a, In jpg format: Candidates can submit the electronic documents to the projects collecting platform	of www.ikuku.cn, at the same time he needs to contribute to www.ikuku.cn  by uploading the projects to his own registered user account on ikuku.cn according to the type of his project. Additionally, 	the label “GARS-NEPAL ”needs to be indicated.
-b, In pdf format,300dpi: Please send the results to the organizer’s special email address: gcrs001@gcrs.com.cn with the title in this format：GARS-NEPAL+registration number.
+
 
 
 **5、评选规则/Forms of selection**  
