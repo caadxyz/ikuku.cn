@@ -9,6 +9,11 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 2、积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
 3、为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
+Activities aiming at:
+1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster construction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
+2. Accumulating experience for post-disaster architectural designs and construction, setting up an open-ended platform which contains various solutions for replying to the natural disasters like earthquake. 
+3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for post-construction.
+
 
 
 奖金及规则
@@ -319,10 +324,7 @@ Q&A ikuku问答中心
 
 
 
-Activities aiming at:
-1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster construction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
-2. Accumulating experience for post-disaster architectural designs and construction, setting up an open-ended platform which contains various solutions for replying to the natural disasters like earthquake. 
-3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for post-construction.
+
 
 Organizers：
 GCRS Global-Building Love disaster-aid material trade center.
