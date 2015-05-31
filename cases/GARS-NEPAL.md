@@ -3,11 +3,12 @@
 尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动  
 Emergency Aid Operations：calling for designing projects, aiming at post-disaster construction, facing architects globaly（Draft）
 
-**主题/theme**
+## 主题/theme
 
-1、征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
-2、积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
-3、为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
+
+1. 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
+2. 积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
+3. 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
 
 1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster construction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
@@ -15,25 +16,20 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for post-construction.
 
 
-奖金及规则
+##奖金及规则/Prizes & Rules
 
 总奖金10万美元。
 
-一等奖2名（AB类型各1位），奖金各20000美元，并获得证书及奖牌
+一等奖2名（AB类型各1位），奖金各20000美元，并获得证书及奖牌  
+二等奖4位（AB类型各2位），奖金各10000美元，并获得证书及奖牌  
+三等奖10位（AB类型各5位），奖金各2000美元，并获得证书及奖牌  
+入围24位（AB类型各12位），获得证书及奖品  
 
-二等奖4位（AB类型各2位），奖金各10000美元，并获得证书及奖牌
-
-三等奖10位（AB类型各5位），奖金各2000美元，并获得证书及奖牌
-
-入围24位（AB类型各12位），获得证书及奖品
-
-
-Awards
-Total bonus:100,000 dollars.
-Two first prize(each type A and B has one) ,each bonus is ten 10,000 dollars.
-Four second prize(each type A and B has two),each bonus is 7500 dollars.
-Ten third prize(each type A and B has five),each bonus is 3000 dollars.
-Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.
+Total bonus:100,000 dollars.  
+Two first prize(each type A and B has one) ,each bonus is ten 10,000 dollars.  
+Four second prize(each type A and B has two),each bonus is 7500 dollars.  
+Ten third prize(each type A and B has five),each bonus is 3000 dollars.  
+Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.  
 
 
 
