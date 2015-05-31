@@ -338,7 +338,7 @@ The awarded projects confirmed by GCRS committee of experts will be exhibited at
 Online exhibition: permanent exhibition on www.ikuku.cn , cooperative reports on other co-host online media.
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).
 
-**活动时间**
+**活动时间/Timings**
 
 活动启动时间：2015年6月1日
 
@@ -350,14 +350,13 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 
 结果发布时间：2015年7月25日
 
-Timings
 Start-up：June 1,2015
 Activity Deadline：June 30，2015.
 Reviewing time : July 1, 2015 –July 15,2015.
 
 Results releasing time：July 20，2015
 
-专家评审团
+**专家评审团/Panel of experts**
 
 谢英俊：
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。
@@ -382,7 +381,6 @@ Sujet ：中国-尼泊尔经贸促进会会长
 Lamo thpa ：尼泊尔建筑师
 
 
-Panel of experts:
 We have already invited:
  Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far east outstanding architectural design merit award; Contribution award of reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;he 2nd Life Award of the 《The Sound of Man》monthly magazine; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
 
