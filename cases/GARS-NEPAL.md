@@ -144,23 +144,6 @@ B、灾后重建建筑
 
 建筑高度：尽量控制在两层以内，包括两层。
 
-
-
-
-**2、成果要求**  
-
-• 效果图（包括模型照片）
-
-• 平面图、立面图、剖面图
-
-• 建构分析图
-
-• 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
-
-注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
-
-
-：
 Two types are included: emergency buildings in disaster and post-disaster construction. 
 A. emergency buildings in disaster:
 a Emergency shelters for residents.
@@ -222,22 +205,35 @@ construction and operation costing（pluses）
 Provide cost estimation lists as clear as possible, consider comprehensive cost and the relief effect.
 Building height: Within two storeys (two storeys included) 
 
-4. The outcome requirements:
-A. renderings（model photo included）
-B.Plans，elevations and	sectional drawings.
-C. Construction analysis diagrams。
-D．Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)
+
+**2、成果要求/The outcome requirements**  
+
+• 效果图（包括模型照片）
+
+• 平面图、立面图、剖面图
+
+• 建构分析图
+
+• 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
+
+注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
+
+• renderings（model photo included）  
+• Plans，elevations and	sectional drawings.  
+• Construction analysis diagrams.    
+• Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
+
 Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
 
 
-3、注册报名
+**3、注册报名**  
 
 报名条件：
 
 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。
 
-报名方法：
+报名方法  
 
 • 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 
@@ -245,12 +241,11 @@ Note：All texts are in both Chinese and English.The organizer encourages all fo
 
 • 参加者同时需要填写个人简介。
 
-Sign-up:
 Architects,students，individuals and groups who are dedicated to post-disaster architectural design and full of sense of social responsibility are all welcomed .Once you sign up you will get a registration number ofqualification for competition and get eligible for the activity. Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and phd students）share equal qualifications. At the same time, upload your individual resume.  
 Enrollment website：Accessing the site: www.ikuku.com,sign up at the activity platform.
 
 
-4、成果提交/Instructions of submission
+**4、成果提交/Instructions of submission**  
 
 本竞赛只接受电子版本的设计成果。
 
@@ -262,14 +257,13 @@ Enrollment website：Accessing the site: www.ikuku.com,sign up at the activity p
 
 • pdf格式，300dpi，发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
 
-
 The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
 Electronic documentaries  are required in duplicate.
 a, In jpg format: Candidates can submit the electronic documents to the projects collecting platform	of www.ikuku.cn, at the same time he needs to contribute to www.ikuku.cn  by uploading the projects to his own registered user account on ikuku.cn according to the type of his project. Additionally, 	the label “GARS-NEPAL ”needs to be indicated.
 b, In pdf format,300dpi: Please send the results to the organizer’s special email address: gcrs001@gcrs.com.cn with the title in this format：GARS-NEPAL+registration number.
 
 
-5、评选规则
+**5、评选规则/Forms of selection**  
 
 • 评选形式：全部评选在网络上完成
 
@@ -279,13 +273,13 @@ b, In pdf format,300dpi: Please send the results to the organizer’s special em
 
 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。
 
-* Forms of selection:All will be completed online.
-* The selection method:
+All will be completed online.
+The selection method:
 Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
 Experts selection：All experts will vote on finalists online to select one first prize,two second prize,five third prize from type A and type B.
 
 
-6、颁奖方式/Prize-giving ceromony
+**6、颁奖方式/Prize-giving ceromony**  
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。
 
@@ -308,7 +302,7 @@ Organizers will select the “National Award” and “Institution Award” who 
 The time of ceremony to be determined.
 
 
-7、知识产权
+**7、知识产权/Intellectual property rights**  
 
 作品的知识产权属于作者。
 
@@ -320,9 +314,20 @@ The time of ceremony to be determined.
 
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。
 
-8、建造实施
+
+Intellectual property rights belong to the author of the works
+Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and other related rights publicly without any other payment or premium after date.
+The author need to declare the contents of the related documents and materials of registration do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , I (team) will bear legal responsibility, and return the bonuses and awards.
+During the process of the use of the works for global public goods free of charge, the user must carve the author’s introduction and designing background at a proper place of the building. In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, the concrete expense will be negotiated additionally
+
+
+
+**8、建造实施/Implementation of the construction**  
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
+
+Among the award-winning works(both from network and expert evaluation),several prototypes， adjustments and deepening design can be made from projects emphatically recommended by the judges .And these projects will have the opportunity to be built in disaster areas whose construction cost is responsible by the organizers. 
+
 
 9、展览展示/Exhibition:
 
@@ -522,13 +527,8 @@ For consultations and online answering, please send E-mails to  nepaltibet@163.c
 
 
 
-Intellectual property rights
-Intellectual property rights belong to the author of the works
-Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and other related rights publicly without any other payment or premium after date.
-The author need to declare the contents of the related documents and materials of registration do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , I (team) will bear legal responsibility, and return the bonuses and awards.
-During the process of the use of the works for global public goods free of charge, the user must carve the author’s introduction and designing background at a proper place of the building. In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, the concrete expense will be negotiated additionally
-Implementation of the construction
-Among the award-winning works(both from network and expert evaluation),several prototypes， adjustments and deepening design can be made from projects emphatically recommended by the judges .And these projects will have the opportunity to be built in disaster areas whose construction cost is responsible by the organizers. 
+
+
 
 
 
