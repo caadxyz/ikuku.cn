@@ -18,8 +18,8 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 
 ##奖金及规则/Prizes & Rules
 
+**Prizes**  
 总奖金10万美元。
-
 一等奖2名（AB类型各1位），奖金各20000美元，并获得证书及奖牌  
 二等奖4位（AB类型各2位），奖金各10000美元，并获得证书及奖牌  
 三等奖10位（AB类型各5位），奖金各2000美元，并获得证书及奖牌  
