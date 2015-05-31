@@ -161,6 +161,77 @@ B、灾后重建建筑
 
 注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
 
+
+Design content：
+Two types are included: emergency buildings in disaster and post-disaster construction. 
+A. emergency buildings in disaster:
+a Emergency shelters for residents.
+b Victims temporary housing
+c.Temporary classrooms for the disaster areas(primary schools and middle schools). 
+d. Temporary kindergartens for the disaster areas.
+(Pick any one or more).
+
+Design requirements
+Construction base: no specific bases and it should have a strong base adaptability.
+Regional characteristics: Fully consider the regional characteristics of architecture.
+Materials，transportation and construction:
+Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
+Easy to obtain the building materials locally within 48 hours.
+Suitable for international air aid by small cargo planes in batch.
+Suitable for emergency airdrop aid by domestic helicopters.Can be rapidly built and massively repreduced,can be constructed with light machine and small tools by local residents or volunteers.
+Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
+
+Safety and comfort
+Meet the structure security requirements.
+Consider using fire proof materials as much as possible.
+Favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
+Simple lightning and air fans, temporary power generation.
+Take guarding against insects or snakes into consideration.
+Rainwater collecting and recycling. 
+
+Psychological aid and humanistic concern：
+Take Psychological counseling and comforting into consideration.
+Reflect humanitarianism concern.
+You may consider additional elements like the  Photos, Articles and music about the themes such as Global Citizen and Boundless.
+
+ Construction and operation costing（pluses）
+Provide cost estimation lists as clear as possible, consider comprehensive cost and the relief effect.
+
+Building height: Within two storeys (two storeys included) 
+
+B.Post-disaster construction: permanent housing for residents .
+Design requirements:
+Construction base: no specific bases and it should have a strong base adaptability.
+Regional characteristics: Fully consider the regional characteristics of architecture.
+Materials and construction: Easy to obtain the building materials locally; Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
+ Safety and comfort
+Meet the structure security requirements.
+Consider using fire proof materials as much as possible;
+Favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
+Simple lightning and air fans, temporary power 
+generation。 
+Take guarding against insects or snakes into consideration.
+Rainwater collecting and recycling. 
+psychological aid and humanistic concern：
+Take Psychological counseling and comforting into consideration.
+ Reflect humanitarianism concern.
+You may consider additional elements like the  Photos,Articles and music about the themes such as Global Citizen and Boundless.
+Form and style of architecture 
+Fully consider the regional characterisitics,and the form and style are supposed to have a sense of cultural identity.
+(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
+
+construction and operation costing（pluses）
+Provide cost estimation lists as clear as possible, consider comprehensive cost and the relief effect.
+Building height: Within two storeys (two storeys included) 
+
+4. The outcome requirements:
+A. renderings（model photo included）
+B.Plans，elevations and	sectional drawings.
+C. Construction analysis diagrams。
+D．Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)
+Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
+
+
 3、注册报名
 
 报名条件：
@@ -176,7 +247,12 @@ B、灾后重建建筑
 
 • 参加者同时需要填写个人简介。
 
-4、成果提交
+Sign-up:
+Architects,students，individuals and groups who are dedicated to post-disaster architectural design and full of sense of social responsibility are all welcomed .Once you sign up you will get a registration number ofqualification for competition and get eligible for the activity. Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and phd students）share equal qualifications. At the same time, upload your individual resume.  
+Enrollment website：Accessing the site: www.ikuku.com,sign up at the activity platform.
+
+
+4、成果提交/Instructions of submission
 
 本竞赛只接受电子版本的设计成果。
 
@@ -188,17 +264,30 @@ B、灾后重建建筑
 
 • pdf格式，300dpi，发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
 
+
+The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
+Electronic documentaries  are required in duplicate.
+a, In jpg format: Candidates can submit the electronic documents to the projects collecting platform	of www.ikuku.cn, at the same time he needs to contribute to www.ikuku.cn  by uploading the projects to his own registered user account on ikuku.cn according to the type of his project. Additionally, 	the label “GARS-NEPAL ”needs to be indicated.
+b, In pdf format,300dpi: Please send the results to the organizer’s special email address: gcrs001@gcrs.com.cn with the title in this format：GARS-NEPAL+registration number.
+
+
 5、评选规则
 
 • 评选形式：全部评选在网络上完成
 
-• 评选办法：
+• 评选办法/The selection rules：
 
 网络排名：网络热门评选，从AB两种类型中（A灾中应急建筑，B灾后重建建筑），各评选出20名入围方案，并产生排名。产生的办法是基于方案的热度，其衡量的因素主要包括点击数、分享数、收藏数以及评论数等。
 
 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。
 
-6、颁奖方式
+* Forms of selection:All will be completed online.
+* The selection method:
+Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
+Experts selection：All experts will vote on finalists online to select one first prize,two second prize,five third prize from type A and type B.
+
+
+6、颁奖方式/Prize-giving ceromony
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。
 
@@ -211,6 +300,15 @@ B、灾后重建建筑
 主办方评选出支持活动的“国家奖”和 “机构奖”。
 
 （颁奖典礼时间待定）
+
+
+We will invite world-famous post-disaster reconstruction experts to present the awards at the live webcast ceremony, and winners deliver their acceptance speech by video.
+Other consultants’ fee ,awards and certificates shall be borne by the organizers and sponsors.
+Designers of the finalists will all get awards and certificates 
+All the authors with submitted works can get a medal of “GCRS Hope Design”.
+Organizers will select the “National Award” and “Institution Award” who are supportive to our activity.
+The time of ceremony to be determined.
+
 
 7、知识产权
 
@@ -228,7 +326,7 @@ B、灾后重建建筑
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
-9、展览展示
+9、展览展示/Exhibition:
 
 获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。
 
@@ -236,7 +334,11 @@ B、灾后重建建筑
 
 线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）
 
-活动时间
+The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The cost of exhibition will be in the charge of the  organizors.
+Online exhibition: permanent exhibition on www.ikuku.cn , cooperative reports on other co-host online media.
+Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).
+
+**活动时间**
 
 活动启动时间：2015年6月1日
 
@@ -404,101 +506,22 @@ Q&A ikuku问答中心
 
 
 
-Activity forms:
-1.	Sign-up:
-Architects,students，individuals and groups who are dedicated to post-disaster architectural design and full of sense of social responsibility are all welcomed .Once you sign up you will get a registration number ofqualification for competition and get eligible for the activity. Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and phd students）share equal qualifications. At the same time, upload your individual resume.  
-Enrollment website：Accessing the site: www.ikuku.com,sign up at the activity platform.
-
-2.Design content：
-Two types are included: emergency buildings in disaster and post-disaster construction. 
-A. emergency buildings in disaster:
-a Emergency shelters for residents.
-b Victims temporary housing
-c.Temporary classrooms for the disaster areas(primary schools and middle schools). 
-d. Temporary kindergartens for the disaster areas.
-(Pick any one or more).
-
-3.Design requirements
-Construction base: no specific bases and it should have a strong base adaptability.
-Regional characteristics: Fully consider the regional characteristics of architecture.
-Materials，transportation and construction:
-Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
-Easy to obtain the building materials locally within 48 hours.
-Suitable for international air aid by small cargo planes in batch.
-Suitable for emergency airdrop aid by domestic helicopters.Can be rapidly built and massively repreduced,can be constructed with light machine and small tools by local residents or volunteers.
-Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
-
-Safety and comfort
-Meet the structure security requirements.
-Consider using fire proof materials as much as possible.
-Favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
-Simple lightning and air fans, temporary power generation.
-Take guarding against insects or snakes into consideration.
-Rainwater collecting and recycling. 
-
-Psychological aid and humanistic concern：
-Take Psychological counseling and comforting into consideration.
-Reflect humanitarianism concern.
-You may consider additional elements like the  Photos, Articles and music about the themes such as Global Citizen and Boundless.
-
- Construction and operation costing（pluses）
-Provide cost estimation lists as clear as possible, consider comprehensive cost and the relief effect.
-
-Building height: Within two storeys (two storeys included) 
-
-B.Post-disaster construction: permanent housing for residents .
-Design requirements:
-Construction base: no specific bases and it should have a strong base adaptability.
-Regional characteristics: Fully consider the regional characteristics of architecture.
-Materials and construction: Easy to obtain the building materials locally; Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
- Safety and comfort
-Meet the structure security requirements.
-Consider using fire proof materials as much as possible;
-Favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
-Simple lightning and air fans, temporary power 
-generation。 
-Take guarding against insects or snakes into consideration.
-Rainwater collecting and recycling. 
-psychological aid and humanistic concern：
-Take Psychological counseling and comforting into consideration.
- Reflect humanitarianism concern.
-You may consider additional elements like the  Photos,Articles and music about the themes such as Global Citizen and Boundless.
-Form and style of architecture 
-Fully consider the regional characterisitics,and the form and style are supposed to have a sense of cultural identity.
-(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
-
-construction and operation costing（pluses）
-Provide cost estimation lists as clear as possible, consider comprehensive cost and the relief effect.
-Building height: Within two storeys (two storeys included) 
-
-4. The outcome requirements:
-A. renderings（model photo included）
-B.Plans，elevations and	sectional drawings.
-C. Construction analysis diagrams。
-D．Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)
-Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
-5.Instructions of submission.
-The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
-Electronic documentaries  are required in duplicate.
-a, In jpg format: Candidates can submit the electronic documents to the projects collecting platform	of www.ikuku.cn, at the same time he needs to contribute to www.ikuku.cn  by uploading the projects to his own registered user account on ikuku.cn according to the type of his project. Additionally, 	the label “GARS-NEPAL ”needs to be indicated.
-b, In pdf format,300dpi: Please send the results to the organizer’s special email address: gcrs001@gcrs.com.cn with the title in this format：GARS-NEPAL+registration number.
-
-The selection rules:
-1.Forms of selection:All will be completed online.
-2. The selection method:
-Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
-Experts selection：All experts will vote on finalists online to select one first prize,two second prize,five third prize from type A and type B.
 
 
 
 
-Prize-giving ceromony
-We will invite world-famous post-disaster reconstruction experts to present the awards at the live webcast ceremony, and winners deliver their acceptance speech by video.
-Other consultants’ fee ,awards and certificates shall be borne by the organizers and sponsors.
-Designers of the finalists will all get awards and certificates 
-All the authors with submitted works can get a medal of “GCRS Hope Design”.
-Organizers will select the “National Award” and “Institution Award” who are supportive to our activity.
-The time of ceremony to be determined.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Intellectual property rights
 Intellectual property rights belong to the author of the works
@@ -508,10 +531,7 @@ During the process of the use of the works for global public goods free of charg
 Implementation of the construction
 Among the award-winning works(both from network and expert evaluation),several prototypes， adjustments and deepening design can be made from projects emphatically recommended by the judges .And these projects will have the opportunity to be built in disaster areas whose construction cost is responsible by the organizers. 
 
-Exhibition:
-The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The cost of exhibition will be in the charge of the  organizors.
-Online exhibition: permanent exhibition on www.ikuku.cn , cooperative reports on other co-host online media.
-Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).
+
 
 Compliance：
  Individuals and departments that we plans to invite to take part in our activity would all receive electronic official invitations from the organizers. Additionally, confirmations will be made once we receive your electronic and written response.
