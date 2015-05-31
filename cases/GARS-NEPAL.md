@@ -15,7 +15,6 @@ Activities aiming at:
 3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for post-construction.
 
 
-
 奖金及规则
 
 总奖金10万美元。
@@ -27,6 +26,16 @@ Activities aiming at:
 三等奖10位（AB类型各5位），奖金各2000美元，并获得证书及奖牌
 
 入围24位（AB类型各12位），获得证书及奖品
+
+
+Awards
+Total bonus:100,000 dollars.
+Two first prize(each type A and B has one) ,each bonus is ten 10,000 dollars.
+Four second prize(each type A and B has two),each bonus is 7500 dollars.
+Ten third prize(each type A and B has five),each bonus is 3000 dollars.
+Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.
+
+
 
 1、设计内容
 
@@ -454,12 +463,7 @@ The selection rules:
 Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
 Experts selection：All experts will vote on finalists online to select one first prize,two second prize,five third prize from type A and type B.
 
-Awards
-Total bonus:100,000 dollars.
-Two first prize(each type A and B has one) ,each bonus is ten 10,000 dollars.
-Four second prize(each type A and B has two),each bonus is 7500 dollars.
-Ten third prize(each type A and B has five),each bonus is 3000 dollars.
-Twenty-four finalists(each type A and B has twelve),each bonus is 800 dollars.
+
 
 
 Prize-giving ceromony
