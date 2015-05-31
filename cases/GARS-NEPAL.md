@@ -1,14 +1,15 @@
-GARS-NEPAL
-尼泊尔大地震
-全球建筑师灾后重建设计方案紧急援助活动（草案）
-----
+## GARS-NEPAL.TEBIT 
 
+尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动  
+Emergency Aid Operations：calling for designing projects, aiming at post-disaster construction, facing architects globaly（Draft）
 
 主题
 
 1、征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
 2、积累灾后重建建筑设计及建造的经验，为将来应对地震等自然灾害设立专业的设计解决开放式平台。
 3、为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
+
+
 
 奖金及规则
 
@@ -316,8 +317,7 @@ Q&A ikuku问答中心
 
 
 
-## Emergency Aid Operations：calling for designing projects, aiming at post-disaster construction, facing architects globaly.
-（Draft）
+
 
 Activities aiming at:
 1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster construction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
