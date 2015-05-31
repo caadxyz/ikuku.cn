@@ -469,7 +469,7 @@ Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 spokesman for this activity: Bao Qianshi.
 
-活动联系人
+**活动联系人/Contects**
 
 包千石（主办方） 手机：13725104888
 
@@ -483,6 +483,9 @@ spokesman for this activity: Bao Qianshi.
 
 Q&A ikuku问答中心
 
+Bao Qianshi（Sponsor）Tel：13725104888
+Yuan Ye（Initiator，architect）Tel:  13522883926 E-mail: yuanyejianzhu@126.com
+For consultations and online answering, please send E-mails to  nepaltibet@163.com
 
 
 
@@ -531,13 +534,9 @@ Among the award-winning works(both from network and expert evaluation),several p
 
 
 
-Compliance：
- Individuals and departments that we plans to invite to take part in our activity would all receive electronic official invitations from the organizers. Additionally, confirmations will be made once we receive your electronic and written response.
 
-Contects:
-Bao Qianshi（Sponsor）Tel：13725104888
-Yuan Ye（Initiator，architect）Tel:  13522883926 E-mail: yuanyejianzhu@126.com
-For consultations and online answering, please send E-mails to  gcrs001@gcrs.com.cn
+
+
 
 
 
