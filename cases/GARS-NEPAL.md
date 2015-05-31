@@ -228,7 +228,7 @@ Note：All texts are in both Chinese and English.The organizer encourages all fo
 
 **3、注册报名/Registor now**  
 
-报名条件/requirment：
+报名条件/registor requirement：
 
 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。
