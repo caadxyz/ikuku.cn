@@ -226,7 +226,7 @@ Building height: Within two storeys (two storeys included)
 Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
 
 
-**3、注册报名**  
+**3、注册报名/Registor now**  
 
 报名条件：
 
