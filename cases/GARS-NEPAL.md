@@ -295,7 +295,13 @@ GCRS全球铸爱应急救灾物资交易中心
 
 主办专业网络支持平台
 
+Organizers：
+GCRS Global-Building Love disaster-aid material trade center.
+
+
 ikuku.cn|在库言库 www.ikukuk.cn/competition
+The host professional online supporting platform :
+www.ikuku.cn
 
 社会组织支持
 
@@ -352,11 +358,7 @@ Q&A ikuku问答中心
 
 
 
-Organizers：
-GCRS Global-Building Love disaster-aid material trade center.
 
-The host professional online supporting platform :
-www.ikuku.cn
 
 Professional directing units：We plans to invite： Architectural Society of China, Architectural Society of Taiwan, Architectural Society of Hongkong and World Associations of Chinese Architects.
 
