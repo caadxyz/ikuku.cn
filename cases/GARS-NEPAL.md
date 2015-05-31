@@ -234,7 +234,7 @@ Note：All texts are in both Chinese and English.The organizer encourages all fo
 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。
 Architects,students，individuals and groups who are dedicated to post-disaster architectural design and full of sense of social responsibility are all welcomed .Once you sign up you will get a registration number ofqualification for competition and get eligible for the activity. Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and phd students）share equal qualifications. At the same time, upload your individual resume. 
 
-报名方法  
+报名方法/How to registor  
 
 • 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 
