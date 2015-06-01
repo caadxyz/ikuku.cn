@@ -288,7 +288,7 @@ If you are in a team you need to click on "participants" or "team"to fill in the
 
 
 We will invite world-famous post-disaster reconstruction experts to present the awards at the live webcast ceremony, and winners deliver their acceptance speech by video.  
-Other consultants’ fee,awards and certificates shall be provided by the organizers and sponsors.  
+Other consultants’ fee,awards and certificates will be provided by the organizers and sponsors.  
 Designers of the finalists will all get awards and certificates   
 All the authors can get a medal of “GCRS Hope Design”.  
 Organizers will select the “National Award” and “Institution Award” who are supportive to our activity.  
