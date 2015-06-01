@@ -385,11 +385,11 @@ Lamo thpa ：尼泊尔建筑师
 Lamo thpa ： well-known native architect from Nepal.
 
 
-## 主办单位/Organizers    
+### 主办单位/Organizers    
 GCRS全球铸爱应急救灾物资交易中心  
 GCRS Global-Building Love disaster-aid material trade center.  
 
-## 主办专业网络支持平台/Online hosting platform   
+### 主办专业网络支持平台/Online hosting platform   
 ikuku.cn|在库言库 www.ikuku.cn/competition
 
 ### 社会组织支持/Social organizations support     
