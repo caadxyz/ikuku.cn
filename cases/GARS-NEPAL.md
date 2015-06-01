@@ -464,7 +464,7 @@ GCRS全球应急救灾物资云计算展示大厦
 Location of exhibition of the activity results: The exhibition mansion of cloud computing of GCRS.
 
 
-活动发起人/Activity  promotors
+**活动发起人/Activity  promotors**  
 
 包千石 GCRS全球铸爱应急救灾物资交易中心创始人、总裁
 
