@@ -448,10 +448,10 @@ Bao Qianshi：Founder and CEO of GCRS .
 袁野 清华大学建筑学博士 唐山地震遗址纪念公园设计者
 Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
 
-马海东 ikuku.cn|在库言库创始人
+马海东 ikuku.cn|在库言库创始人   
 ma haidong ikuku.cn founder
 
-Sujet 中国-尼泊尔经贸促进会会长
+Sujet 中国-尼泊尔经贸促进会会长  
 Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 
