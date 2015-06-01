@@ -216,7 +216,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 * Construction analysis diagrams.    
 * Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
 
-Note：All texts are in Chinese or English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
+Note：All texts are in Chinese or English.The organizer encourages all forms of representation which helps the better explaining of proposals. 
 
 
 **3、注册报名/Register now**  
