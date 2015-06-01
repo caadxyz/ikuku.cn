@@ -1,7 +1,7 @@
 ## GARS-NEPAL.TEBIT 
 
 尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动  
-Emergent-Aiding：calling on architects all around the world for reconstruction designing projects（Draft)
+Emergent-Aiding：calling on architects all around the world for reconstruction designing projects
 
 ## 主题/theme
 
@@ -94,7 +94,7 @@ A、灾中应急建筑：
 
 尽量提供造价估算清单，综合考虑成本与救灾效果
 
-建筑高度：尽量控制在两层以内，包括两层。
+建筑高度：尽量控制在两层以内，包括两层
 
 B、灾后重建建筑
 灾后居民永久性安居房
@@ -158,9 +158,9 @@ Design requirements:
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.
 Regional characteristics: Fully consider the regional characteristics of architecture.
 Materials，transportation and construction:
-Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
-Easy to obtain local materials within 48 hours.
-Suitable for international air aid by small cargo planes in batch.
+1、Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
+2、Easy to obtain local materials within 48 hours.
+3、Suitable for international air aid by small cargo planes in batch.
 Proper for emergency airdrop aid by domestic helicopters.
 Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.
 Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
@@ -367,7 +367,7 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 
 Start-up：June 1,2015
 Q&A: June 1-10,2015
-Deadline：Jule 10，2015.
+Deadline：July 10，2015.
 Reviewing time : July 11, 2015 –July 20,2015.
 
 Releasing time：July 25，2015
@@ -378,16 +378,16 @@ Releasing time：July 25，2015
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。
 
 朱竞翔： 
-建筑师，学者，东南大学博士，香港中文大学副教授，轻型建筑系统专家。代表作品：盐城卫生学校图书馆，荣获2004年度WA世界建筑奖佳作奖；轻型建筑系列，荣获2010年 WA世界建筑奖优胜奖（最高奖），2010年第二届中国建筑传媒奖组委会特别提名奖。2012 年朱竞翔荣获《 华尔街日报》中文版“2012 年中国创新人物奖”。
+建筑师，学者，东南大学建筑系博士，香港中文大学副教授，轻型建筑系统专家。代表作品：盐城卫生学校图书馆，荣获2004年度WA世界建筑奖佳作奖；轻型建筑系列，荣获2010年 WA世界建筑奖优胜奖（最高奖），2010年第二届中国建筑传媒奖组委会特别提名奖。2012 年朱竞翔荣获《 华尔街日报》中文版“2012 年中国创新人物奖”。
 
 邱文杰： 
 建筑师，1985年淡江大学建筑系毕业，1990年取得哈佛大学设计学院的建筑与都市设计硕士。邱文杰建筑师事务所负责人，大涵学乙设计工程有限公司设计总监。曾荣获三次台湾建筑奖，两次远东建筑奖。2007年荣获“全球华人青年建筑师奖”。代表作品：台湾921地震教育园区，荣获第三届WA世界建筑奖优胜奖（最高奖），第六届远东建筑奖，入围首届中国建筑传媒奖—最佳建筑奖。
 
 袁野 ： 
-建筑师，清华大学博士，中国中建设计集团（总部）副总建筑师，硕士研究生导师。2014年荣获中国建筑学会第十届青年建筑师奖。代表作品：唐山地震遗址纪念公园，2013年荣获中国建筑学会建筑设计奖（景观建筑）金奖，2014年入围WAACA中国建筑奖－建筑成就奖。
+建筑师，清华大学建筑系博士，中国中建设计集团（总部）副总建筑师，硕士研究生导师。2014年荣获中国建筑学会第十届青年建筑师奖。代表作品：唐山地震遗址纪念公园，2013年荣获中国建筑学会建筑设计奖（景观建筑）金奖，2014年入围WAACA中国建筑奖－建筑成就奖。
 
 费毕刚：
-结构工程安全与鉴定专家，清华大学博士、教授，国质（北京）建设工程检测鉴定中心主任。中国住房和城乡建设部建筑工程质量、建筑施工安全、建筑维护加固与房地产等三个标准化技术委员会委员。曾作为住建部专家组成员参加了汶川5.12震后房屋应急鉴定工作。
+结构工程安全与鉴定专家，清华大学土木工程系博士、教授，国质（北京）建设工程检测鉴定中心主任。中国住房和城乡建设部建筑工程质量、建筑施工安全、建筑维护加固与房地产等三个标准化技术委员会委员。曾作为住建部专家组成员参加了汶川5.12震后房屋应急鉴定工作。
 
 孙瑜：
 清华大学社会学系博士，主要研究方向为社区自组织、社会网络关系研究。清华大学社会科学学院信义社区营造研究中心执行顾问。2008年汶川震后深度参与乡村灾后重建，长期观察台湾及大陆地区的社区营造实践经验。供职于中国社会科学院社会科学文献出版社社会政法分社。完成合著《云村重建纪事——一次社区自组织实验的田野记录》。
@@ -401,7 +401,7 @@ We have already invited:
 
 Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far East Outstanding Architectural Design Merit Award; Contribution Award of Reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；Finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural Protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;The 2nd Life Award of the Monthly Magazine The Sound of Man; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
 
-Zhu Jingxiang: Architect, scholar, Doctor of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the Annual WA Award，2004；The highest award of the Annual WA award,2010;Special Mention Award of the 2nd Chinese Media Architecture Committee; “Chinese Innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
+Zhu Jingxiang: Architect, scholar, Doctor of  the Department of Architecture of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the Annual WA Award，2004；The highest award of the Annual WA award,2010;Special Mention Award of the 2nd Chinese Media Architecture Committee; “Chinese Innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
 
 Qiu Wenjie: Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA Award; Finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.
 
@@ -471,11 +471,6 @@ Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 spokesman for this activity: Bao Qianshi.
 
-**活动联系人/Contects**
-
-包千石（主办方） 手机：13725104888
-
-袁野（发起建筑师） 手机：13522883926 邮箱：yuanyejianzhu@126.com
 
 活动咨询与答疑
 
@@ -485,10 +480,7 @@ spokesman for this activity: Bao Qianshi.
 
 Q&A ikuku问答中心
 
-Bao Qianshi（Sponsor）Tel：13725104888
-Yuan Ye（Initiator，architect）Tel:  13522883926        E-mail: yuanyejianzhu@126.com
 For consultations and online answering, please send E-mails to  nepaltibet@163.com
-
 
 
 
