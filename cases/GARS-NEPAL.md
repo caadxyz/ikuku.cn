@@ -248,7 +248,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 ### 4. 成果提交/Submission   
 
 本竞赛只接受电子版本（一式两份）的成果。  
-Electronic documentaries are required in duplicate.
+Electronic documentaries are required(in duplicate).
 
 **ikuku方案格式/ikuku proposal format**  
 * 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
