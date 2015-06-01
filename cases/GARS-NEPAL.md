@@ -464,21 +464,21 @@ GCRS全球应急救灾物资云计算展示大厦
 Location of exhibition of the activity results: The exhibition mansion of cloud computing of GCRS.
 
 
-**活动发起人/Activity  promotors**  
+**活动发起人/initiator of the event**  
 
 包千石 GCRS全球铸爱应急救灾物资交易中心创始人、总裁
+Bao Qianshi：Founder and CEO of GCRS .
 
 袁野 清华大学建筑学博士 唐山地震遗址纪念公园设计者
+Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
 
 马海东 ikuku.cn|在库言库创始人
 
 Sujet 中国-尼泊尔经贸促进会会长
-：
-Bao Qianshi：Founder and CEO of GCRS .
-Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer of The Memorial Park of Tangshan Earthquake Ruins.
 Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
-活动新闻发言人/spokesman for this activity  
+
+**活动新闻发言人/spokesman for this activity**   
 包千石/Bao Qianshi
 
 
