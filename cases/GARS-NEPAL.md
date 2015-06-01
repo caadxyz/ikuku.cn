@@ -90,10 +90,12 @@ calling on architects all around the world for reconstruction designing projects
 **设计要求**  
 
 基地：不局限于特定基地，应具有较强的基地适应性  
-地域性：充分考虑建筑的地域性特征  
+地域性：充分考虑建筑的地域性特征
+
 材料与建造：  
 尽量方便就地取材  
-充分利用环保、节能、新型材料、可再生能源等生态手段  
+充分利用环保、节能、新型材料、可再生能源等生态手段 
+
 安全与舒适： 
 满足结构安全性要求  
 尽量采用防火材料  
@@ -101,18 +103,20 @@ calling on architects all around the world for reconstruction designing projects
 具有良好的建筑物理性能，日照和通风良好，并兼具隔热、保温，散热功能  
 具有防止蚊蝇蛇等害虫侵害的考虑  
 具有雨水收集及循环利用功能  
+
 心理救助与人文关怀：  
 考虑心理疏导和抚慰功能  
 体现人道主义关怀  
 可以考虑使用如世界公民、大爱无疆等主题的图文、音乐等附加要素  
+
 建筑形式与风格：  
 充分考虑建筑地域性特征，建筑形式与风格具有文化认同感  
 
-（说明：参与者可选择A类中的任何一种类型如A1、A2、A3等，可以多选，或者B类，也可参与一种以上乃至所有类型建筑的设计，注册号分别为用户ID-A1、用户ID-A2、用户ID-A3等及用户ID-B）
-
 建造与运行成本（加分项）：  
 尽量提供造价估算清单，综合考虑成本与救灾效果  
-建筑高度：尽量控制在两层以内，包括两层。  
+建筑高度：尽量控制在两层以内，包括两层。
+
+（说明：参与者可选择A类中的任何一种类型如A1、A2、A3等，可以多选，或者B类，也可参与一种以上乃至所有类型建筑的设计，注册号分别为用户ID-A1、用户ID-A2、用户ID-A3等及用户ID-B）
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
