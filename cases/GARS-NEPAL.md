@@ -22,9 +22,10 @@ calling on architects all around the world for reconstruction designing projects
 3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for reconstruction.
 
 
-##奖金及规则/Prizes & Rules
+## 奖金及规则/Prizes & Rules
 
-**奖金/Prizes**  
+### 奖金/Prizes
+
 * 总奖金10万美元。
 * 一等奖2名（AB类型各1位），奖金各20,000美元，并获得证书及奖牌  
 * 二等奖4位（AB类型各2位），奖金各10,000美元，并获得证书及奖牌  
