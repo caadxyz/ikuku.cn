@@ -271,9 +271,6 @@ pdf格式/format
 * Please send the outcome of proposal to  nepaltibet@163.com  with a title in this format：GARS- registration number.
 
 
-
-
-
 **5、评选规则/Forms of selection**  
 
 • 评选形式：全部评选在网络上完成
