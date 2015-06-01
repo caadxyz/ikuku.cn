@@ -120,12 +120,13 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 
 **Design requirements:**  
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
-Regional characteristics: Fully consider the regional characteristics of architecture.    
-Materials，transportation and construction:  
-1、Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.  
-2、Easy to obtain local materials within 48 hours.  
-3、Suitable for international air aid by small cargo planes in batch.  
-Proper for emergency airdrop aid by domestic helicopters.
+Regional characteristics: Fully consider the regional characteristics of architecture.      
+Materials，transportation and construction:    
+Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements:   
+* Easy to obtain local materials within 48 hours.  
+* Suitable for international air aid by small cargo planes in batch.  
+* Proper for emergency airdrop aid by domestic helicopters.
+
 Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.
 Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
 
