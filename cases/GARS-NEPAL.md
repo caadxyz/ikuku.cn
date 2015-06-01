@@ -25,13 +25,14 @@ Emergent-Aiding：calling on architects all around the world for reconstruction 
 * 三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
 * 入围24位（AB类型各12位），获得证书及奖品  
 * Total bonus:100,000 dollars.  
-* Two first prize(each type A and B has one) ,each bonus is 20,000 dollars, the certificate and medal.  
-* Four second prize(each type A and B has two),each bonus is 10,000 dollars, the certificate and medal.
-* Ten third prize(each type A and B has five),each bonus is 2,000 dollars, the certificate and medal. 
-* Twenty-four finalists(each type A and B has twelve),certificates and prizes
+* Two first-prize(one for each type) , 20,000 dollars for each bonus with the certificate and medal.  
+* Four second-prize(two for each type),10,000 dollars for each bonus with the certificate and medal.
+* Ten third-prize(five for each type),2,000 dollars for each bonus with the certificate and medal. 
+* Twenty-four finalists(twelve for each type) with certificates and prizes.
+(Two designing types in all，see below).
 
 
-**1、设计内容/Design content**  
+**1、设计内容/Designing content**  
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
@@ -143,31 +144,32 @@ B、灾后重建建筑
 
 建筑高度：尽量控制在两层以内，包括两层。
 
-Two types are included: emergency buildings in disaster and post-disaster construction. 
-A. emergency buildings in disaster:
-a Emergency shelters for residents.
-b Victims temporary housing
-c.Temporary classrooms for the disaster areas(primary schools and middle schools). 
-d. Temporary kindergartens for the disaster areas.
-(Pick any one or more).
+Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
+A. emergency buildings while-in-disaster:
+a Emergency shelters;
+b Temporary housing;
+c.Temporary classrooms (primary schools and middle schools); 
+d.Temporary kindergartens.
+(Choose one or more).
 
-Design requirements
-Construction base: no specific bases and it should have a strong base adaptability.
+Design requirements:
+Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.
 Regional characteristics: Fully consider the regional characteristics of architecture.
 Materials，transportation and construction:
 Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
-Easy to obtain the building materials locally within 48 hours.
+Easy to obtain local materials within 48 hours.
 Suitable for international air aid by small cargo planes in batch.
-Suitable for emergency airdrop aid by domestic helicopters.Can be rapidly built and massively repreduced,can be constructed with light machine and small tools by local residents or volunteers.
+Proper for emergency airdrop aid by domestic helicopters.
+Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.
 Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
 
 Safety and comfort
 Meet the structure security requirements.
-Consider using fire proof materials as much as possible.
-Favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
-Simple lightning and air fans, temporary power generation.
-Take guarding against insects or snakes into consideration.
-Rainwater collecting and recycling. 
+Consider using fireproof materials as much as possible.
+Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
+Possess simple lighting，air fans and temporary power generation.
+Guard against insects or snakes.
+Collect and recycle rainwater.
 
 Psychological aid and humanistic concern：
 Take Psychological counseling and comforting into consideration.
