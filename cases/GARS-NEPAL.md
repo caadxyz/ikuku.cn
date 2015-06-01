@@ -148,7 +148,7 @@ Construction and operation costing(Additional merits):
 Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
 Building height:No more than two storeys (two storeys included)  
 
-**B. Reconstruction after-disaster:**  
+**B. Reconstruction after-disaster(GARSB):**  
 
 permanent housing.
 
