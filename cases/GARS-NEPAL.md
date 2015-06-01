@@ -209,14 +209,14 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 * 建构分析图
 * 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
 
-注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
+注：所有文字均应采用中文或英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
 
-• Renderings（model photo included）  
-• Plans，elevations and	sectional drawings.  
-• Construction analysis diagrams.    
-• Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
+* Renderings（model photo included）  
+* Plans，elevations and	sectional drawings.  
+* Construction analysis diagrams.    
+* Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
 
-Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
+Note：All texts are in Chinese or English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
 
 
 **3、注册报名/Register now**  
