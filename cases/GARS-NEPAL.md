@@ -377,6 +377,8 @@ Expert of the secure and identification of structural engineering, Doctor of the
 
 孙瑜：
 清华大学社会学系博士，主要研究方向为社区自组织、社会网络关系研究。清华大学社会科学学院信义社区营造研究中心执行顾问。2008年汶川震后深度参与乡村灾后重建，长期观察台湾及大陆地区的社区营造实践经验。供职于中国社会科学院社会科学文献出版社社会政法分社。完成合著《云村重建纪事——一次社区自组织实验的田野记录》。  
+Sun Yu:  
+Doctor of Sociology Department of Tsinghua University. The main research direction is community self-organization and social networks. Executive consultant at Research Center of the Lutheran community in Tsinghua University School of Social Sciences. After 2008 Wenchuan Earthquake deeply involved in rural reconstruction. Long-term observation of Taiwan and the mainland areas of community building experience. Worked in the Chinese Academy of Social Sciences Documentation Publishing House of Politics and Law Society branch. Co-author, "Yunchun village reconstruction Chronicle - a community self-organizing field recording experiments".  
 
 
 Sujet ：中国-尼泊尔经贸促进会会长  
