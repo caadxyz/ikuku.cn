@@ -149,33 +149,36 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 Building height:No more than two storeys (two storeys included)  
 
 **B. Reconstruction after-disaster:**  
+
 permanent housing.
-Design requirements:
-Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.
-Regional characteristics: Fully consider the regional characteristics of architecture.
-Materials and construction: Easy to obtain the materials locally; Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
 
-Safety and comfort
-Meet the structure security requirements.
-Consider using fireproof materials as much as possible.
-Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
+**Design requirements:**  
+
+Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
+Regional characteristics: Fully consider the regional   characteristics of architecture.  
+Materials and construction: Easy to obtain the materials locally; Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.  
+
+Safety and comfort  
+Meet the structure security requirements.  
+Consider using fireproof materials as much as possible.  
+Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system.   
 Possess simple lighting，air fans and temporary power generation.
-Guard against insects or snakes.
-Collect and recycle rainwater.
+Guard against insects or snakes.  
+Collect and recycle rainwater.  
 
-Psychological aid and humanistic concern：
-Take Psychological counseling and comforting into consideration.
-Reflect humanitarianism concern.
-You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
+Psychological aid and humanistic concern：  
+Take Psychological counseling and comforting into consideration.  
+Reflect humanitarianism concern.  
+You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.  
 
-Form and style of architecture 
-Fully consider the regional characterisitics,the form and style are supposed to have a sense of cultural identity.
+Form and style of architecture   
+Fully consider the regional characterisitics,the form and style are supposed to have a sense of cultural identity.  
+
 (Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
 
-Additional merits:Construction and operation costing
-Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.
-
-Building height:No more than two storeys (two storeys included) 
+Construction and operation costing(Additional merits):  
+Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
+Building height:No more than two storeys (two storeys included)   
 
 
 **2、成果要求/The outcome requirements**  
