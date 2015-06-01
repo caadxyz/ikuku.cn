@@ -1,7 +1,7 @@
 ## GARS-NEPAL.TEBIT 
 
 尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动  
-Emergency Aid Operations：calling for designing projects, aiming at post-disaster construction, facing architects globaly（Draft）
+Emergent-Aiding：calling on architects all around the world for reconstruction designing projects（Draft)
 
 ## 主题/theme
 
@@ -11,9 +11,9 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 3. 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
 
-1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster construction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
-2. Accumulating experience for post-disaster architectural designs and construction, setting up an open-ended platform which contains various solutions for replying to the natural disasters like earthquake. 
-3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for post-construction.
+1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster reconstruction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
+2. Accumulating experience for post-disaster architectural designs and construction, setting up an open platform which contains various solutions for responding to the natural disasters like earthquake. 
+3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for reconstruction.
 
 
 ##奖金及规则/Prizes & Rules
