@@ -118,7 +118,7 @@ calling on architects all around the world for reconstruction designing projects
 建造与运行成本: 尽量提供造价估算清单，综合考虑成本与救灾效果    
 
 
-（说明：参与者可选择A类中的任何一种类型如A1、A2、A3等，可以多选，或者B类，也可参与一种以上乃至所有类型建筑的设计，注册号分别为用户ID-A1、用户ID-A2、用户ID-A3等及用户ID-B）
+（说明：参与者可选择A类中的任何一种类型如GARSA1、GARSA2、GARSA3等或GARSB类，可以多选即可以参与一种以上乃至所有类型建筑的设计，注册号分别为用户ID-GARSA1、用户ID-GARSA2、用户ID-GARSA3等及用户ID-GARSB）
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
