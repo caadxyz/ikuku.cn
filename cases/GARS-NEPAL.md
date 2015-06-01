@@ -211,7 +211,8 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 注：
 * 所有文字均应采用中文或英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现(包括不超过1分钟的视频)。
-* 视频需要上传到优酷
+* 如果你上传视频，视频最大不能超过1分钟。请使用字母而不是声音来阐述你的想法（声音不是必须的，你可以使用文字、图像、动画等等。
+* 上传视频：首先你上传视频到youtube（英文）或者优酷（中文），然后在你的用户中心->我的竞赛点击任何一个方案的"更新/update"按钮,跳转到方案编辑页，在这样一页的"关联链接/extr.links"里面粘贴你的youtube或者优酷视频的链接。
 
 * Renderings（model photo included）  
 * Plans，elevations and	sectional drawings.  
@@ -220,8 +221,8 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 Note：  
 * All texts are in Chinese or English.The organizer encourages all forms of representation which helps the better explaining of proposals. even videos can be include.
-* If you submit a video,Please submit a 1 minute (maximun) video to explain in, a few words, the key concepts of your proposal. Please use subtitles even if you are speaking English or Chinese. (It is not mandatory to speak in the video, you may also use text, images, animation etc). Place your ID code at the bottom right of the video. You will find this ID code by logging in to ikuku.cn ucenter->my compettion. 
-* To submit the video: First upload the video to YouTube or Youku, then login in to your competition profile page and paste the YouTube link to the video section of the submission.
+* If you submit a video,Please submit a 1 minute (maximun) video. Please use subtitles even if you are speaking English or Chinese. (It is not mandatory to speak in the video, you may also use text, images, animation etc).  
+* To submit the video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my compettion page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
 
 
 **3、注册报名/Register now**  
