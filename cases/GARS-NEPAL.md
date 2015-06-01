@@ -53,7 +53,7 @@ calling on architects all around the world for reconstruction designing projects
 **设计要求**  
 
 基地：不局限于特定基地，应具有较强的基地适应性  
-地域性：充分考虑建筑的地域性特征
+地域性：充分考虑建筑的地域性特征  
 材料、运输与建造：  
 灵活、组合式、适合储备和运输，应至少满足以下一条要求：  
 * 灾后48小时内方便就地取材建造
@@ -119,12 +119,12 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 (Choose one or more).
 
 **Design requirements:**  
-Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.
-Regional characteristics: Fully consider the regional characteristics of architecture.
-Materials，transportation and construction:
-1、Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.
-2、Easy to obtain local materials within 48 hours.
-3、Suitable for international air aid by small cargo planes in batch.
+Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
+Regional characteristics: Fully consider the regional characteristics of architecture.    
+Materials，transportation and construction:  
+1、Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements.  
+2、Easy to obtain local materials within 48 hours.  
+3、Suitable for international air aid by small cargo planes in batch.  
 Proper for emergency airdrop aid by domestic helicopters.
 Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.
 Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
