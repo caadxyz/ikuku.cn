@@ -1,7 +1,5 @@
-##  尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动
-
-  
-## GARS-NEPAL.TEBIT Earthquake Emergency
+**尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动**  
+**GARS-NEPAL.TEBIT Earthquake Emergency:**  
 calling on architects all around the world for reconstruction designing projects
 
 ## 主题/theme
