@@ -18,18 +18,17 @@ Emergency Aid Operations：calling for designing projects, aiming at post-disast
 
 ##奖金及规则/Prizes & Rules
 
-**Prizes**  
-总奖金10万美元。
-一等奖2名（AB类型各1位），奖金各20,000美元，并获得证书及奖牌  
-二等奖4位（AB类型各2位），奖金各10,000美元，并获得证书及奖牌  
-三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
-入围24位（AB类型各12位），获得证书及奖品  
-
-Total bonus:100,000 dollars.  
-Two first prize(each type A and B has one) ,each bonus is 20,000 dollars, the certificate and medal.  
-Four second prize(each type A and B has two),each bonus is 10,000 dollars, the certificate and medal.
-Ten third prize(each type A and B has five),each bonus is 2,000 dollars, the certificate and medal. 
-Twenty-four finalists(each type A and B has twelve),certificates and prizes
+**奖金/Prizes**  
+* 总奖金10万美元。
+* 一等奖2名（AB类型各1位），奖金各20,000美元，并获得证书及奖牌  
+* 二等奖4位（AB类型各2位），奖金各10,000美元，并获得证书及奖牌  
+* 三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
+* 入围24位（AB类型各12位），获得证书及奖品  
+* Total bonus:100,000 dollars.  
+* Two first prize(each type A and B has one) ,each bonus is 20,000 dollars, the certificate and medal.  
+* Four second prize(each type A and B has two),each bonus is 10,000 dollars, the certificate and medal.
+* Ten third prize(each type A and B has five),each bonus is 2,000 dollars, the certificate and medal. 
+* Twenty-four finalists(each type A and B has twelve),certificates and prizes
 
 
 **1、设计内容/Design content**  
