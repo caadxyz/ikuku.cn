@@ -202,7 +202,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 (Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. )
 
-### 2. 成果要求/The outcome requirements    
+### 2. 成果要求/Documents and Graphic Materials Required    
 
 * 效果图（包括模型照片）
 * 平面图、立面图、剖面图
