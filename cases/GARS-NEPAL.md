@@ -431,7 +431,7 @@ Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 ### 活动咨询与答疑/contacts & QA   
 邮箱/email: nepaltibet@163.com  
-微信号/weixin: ikukucn (人工客服)  
+微信号/weixin: ikukucn (人工客服/Customer Service)  
 Q&A: wenda.ikuku.cn  
 
 
