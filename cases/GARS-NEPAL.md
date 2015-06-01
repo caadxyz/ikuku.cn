@@ -36,7 +36,6 @@ calling on architects all around the world for reconstruction designing projects
 * Four second-prize(two for each type),10,000 dollars for each bonus with the certificate and medal.
 * Ten third-prize(five for each type),2,000 dollars for each bonus with the certificate and medal. 
 * Twenty-four finalists(twelve for each type) with certificates and prizes.
-(Two designing types in all，see below).
 
 
 ### 1. 设计内容/Designing contents  
