@@ -12,7 +12,9 @@ Emergent-Aiding：calling on architects all around the world for reconstruction 
 
 
 1.Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster-hit areas to participate actively in the post-disaster reconstruction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
+
 2.Accumulating experience for post-disaster architectural designs and construction, setting up an open platform which contains various solutions for responding to the natural disasters like earthquake. 
+
 3.Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for reconstruction.
 
 
