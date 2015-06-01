@@ -392,25 +392,25 @@ GCRS Global-Building Love disaster-aid material trade center.
 ## 主办专业网络支持平台/Online hosting platform   
 ikuku.cn|在库言库 www.ikuku.cn/competition
 
-## 社会组织支持/Social organizations support  
+### 社会组织支持/Social organizations support     
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
 China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
 
 
-## 协办建筑媒体/Architectural co-media  
+### 协办建筑媒体/Architectural co-media  
 
 台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑创作杂志、建筑知识杂志、设计家杂志等
 solomo.xinmedia.com, gooood.hk, World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Archicreation;Architectural Knowledge;Designer&Designing,etc.
 
 
-## 活动成果展览展示地点/Location for Exhibition of the results    
+### 活动成果展览展示地点/Location for Exhibition of the results    
 
 GCRS全球应急救灾物资云计算展示大厦
 The exhibition mansion of cloud computing of GCRS.
 
 
-## 活动发起人/initiator   
+### 活动发起人/initiator   
 
 包千石 GCRS全球铸爱应急救灾物资交易中心创始人、总裁
 Bao Qianshi：Founder and CEO of GCRS .
@@ -425,14 +425,14 @@ Sujet 中国-尼泊尔经贸促进会会长
 Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 
-## 活动新闻发言人/spokesman for this activity    
+### 活动新闻发言人/spokesman for this activity    
 包千石/Bao Qianshi
 
 
-## 活动咨询与答疑/contacts & QA   
-邮箱/email: nepaltibet@163.com
-微信号/weixin: ikukucn (有人工客服服务)
-Q&A: ikuku问答中心
+### 活动咨询与答疑/contacts & QA   
+邮箱/email: nepaltibet@163.com  
+微信号/weixin: ikukucn (有人工客服服务)  
+Q&A: wenda.ikuku.cn  
 
 
 
