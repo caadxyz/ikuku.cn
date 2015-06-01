@@ -376,7 +376,8 @@ Fei Bigang:
 Expert of the secure and identification of structural engineering, Doctor of the Department of Civil Engineering, Tsinghua University; professor;director of GUOZHI (Beijing) Construction Engineering Detection and Identification Center. Member of the Standardization Technology Committee of Construction Quality，Building Maintenance and Reinforcement ，Real Estate etc, which all belongs to the  Ministry of Housing and Urban-Rural Development of China. Mr. Fei took part in the emergency identification operation of post-earthquake housing of Wenchuan 5.12 Earthquake as a member of expert group of MOHURD.  
 
 孙瑜：
-清华大学社会学系博士，主要研究方向为社区自组织、社会网络关系研究。清华大学社会科学学院信义社区营造研究中心执行顾问。2008年汶川震后深度参与乡村灾后重建，长期观察台湾及大陆地区的社区营造实践经验。供职于中国社会科学院社会科学文献出版社社会政法分社。完成合著《云村重建纪事——一次社区自组织实验的田野记录》。
+清华大学社会学系博士，主要研究方向为社区自组织、社会网络关系研究。清华大学社会科学学院信义社区营造研究中心执行顾问。2008年汶川震后深度参与乡村灾后重建，长期观察台湾及大陆地区的社区营造实践经验。供职于中国社会科学院社会科学文献出版社社会政法分社。完成合著《云村重建纪事——一次社区自组织实验的田野记录》。  
+
 
 Sujet ：中国-尼泊尔经贸促进会会长  
 Sujet：President of China-Nepal Economy and Trade Promotion Association  
