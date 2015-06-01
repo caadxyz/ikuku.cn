@@ -16,7 +16,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究�
 * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [de talk](cases/detalk.md)
 * [find a new way to design a building](README.md)  
-* [尼泊尔大地震
+* [尼泊尔地震
 全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 
 
