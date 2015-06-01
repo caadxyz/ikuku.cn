@@ -122,7 +122,7 @@ calling on architects all around the world for reconstruction designing projects
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
-### A. emergency buildings while-in-disaster   
+**A. emergency buildings while-in-disaster**     
 * GARSA1. Emergency shelters;
 * GARSAA2. Temporary housing;
 * GARSAA3. Temporary classrooms (primary schools and middle schools); 
