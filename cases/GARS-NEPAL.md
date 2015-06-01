@@ -441,18 +441,6 @@ China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Fou
 台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑知识杂志、设计家杂志等
 
 Architectural media support:xin ARCHI,ARCHITECTURE-www.gooood.hk;World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Architectural Knowledge;Designer&Designing,etc.
-赞助单位
-
-广药集团等
-
-Sponsors: Guangzhou Pharmaceutical Company Limited（Bonus sponsorship）.
-
-策划单位
-
-中国慈展会、特劳斯定位公司
-
-The scheming units：China Charity Fair,Traus positioning company.
-
 
 
 活动成果展览展示地点
