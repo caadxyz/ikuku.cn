@@ -122,7 +122,7 @@ calling on architects all around the world for reconstruction designing projects
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
-**A. emergency buildings while-in-disaster:**  
+### A. emergency buildings while-in-disaster   
 * GARSA1. Emergency shelters;
 * GARSAA2. Temporary housing;
 * GARSAA3. Temporary classrooms (primary schools and middle schools); 
@@ -400,7 +400,7 @@ China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Fou
 
 ### 协办建筑媒体/Architectural co-media  
 
-台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑创作杂志、建筑知识杂志、设计家杂志等
+台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑创作杂志、建筑知识杂志、设计家杂志等  
 solomo.xinmedia.com, gooood.hk, World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Archicreation;Architectural Knowledge;Designer&Designing,etc.
 
 
