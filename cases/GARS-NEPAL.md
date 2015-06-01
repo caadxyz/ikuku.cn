@@ -225,9 +225,9 @@ Note：
 * To submit the video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my compettion page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
 
 
-**3、注册报名/Register now**  
+### 3、注册报名/Register now   
 
-报名条件/register requirements：
+**报名条件/register requirements**    
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
@@ -235,7 +235,7 @@ Note：
 
 * Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and Ph.D students）share equal qualifications in this competition. 
 
-报名方法/How to register 
+**报名方法/How to register**  
 
 * 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 * 在"用户中心->我的竞赛"中点击"立即参加"按钮,立即获得参加资格及注册号。
@@ -246,18 +246,18 @@ Note：
 
 
 
-**4、成果提交/Submission**  
+### 4. 成果提交/Submission   
 
 本竞赛只接受电子版本（一式两份）的设计成果。  
 Electronic documentaries are required in duplicate.
 
-ikuku方案格式/ikuku proposal format
+**ikuku方案格式/ikuku proposal format**  
 * 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
 * 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
 In "user center -> My competition", the user can click on "update"to submit or update each proposal.
 If you are in a team you need to click on "participants" or "team"to fill in the related information.
 
-pdf格式/format
+**pdf格式/format**  
 * 300dpi，不多于5张的A3横构图图纸
 * 每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm
 * 发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
@@ -265,7 +265,7 @@ pdf格式/format
 * Please send the outcome of proposal to  nepaltibet@163.com  with a title in this format：GARS- registration number.
 
 
-**5、评选规则/Forms of selection**  
+### 5. 评选规则/Forms of selection   
 
 * 评选形式：全部评选在网络上完成
 * All will be completed online.
@@ -277,7 +277,7 @@ pdf格式/format
 * Experts selection：All experts will vote on the finalists online to select one first-prize,two second-prize,five third -prize from type A and type B respectively.
 
 
-**6、颁奖方式/Prize-giving ceremony**  
+### 6. 颁奖方式/Prize-giving ceremony    
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。  
 其他顾问费、奖品及证书由主办方及赞助商承担。  
@@ -297,15 +297,13 @@ Organizers will select the “National Award” and “Institution Award” who 
 (The time of ceremony is to be determined).
 
 
-**7、知识产权/Intellectual property rights**  
+### 7. 知识产权/Intellectual property rights  
 
 作品的知识产权属于作者。  
 作者同意无偿授权活动主办方及发起人使用作品的图片、图文进行宣传、重制、修改、出版、展览等权利及公开使用之各项相关权利，不另支付日后使用酬劳或权利金；   
 作者声明报名之相关文件与资料，其内容确实无侵犯他人之著作权，日后若有涉及作品版权之纠纷，以致损毁主办单位之名誉，本人（团队）愿负法律之责任，并退回奖金及奖状。  
 作品无偿供全球公益使用过程中，使用者必须在建筑物适当位置刻上作者简介及创作背景。  
-在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。
-
-
+在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。  
 Intellectual property rights belong to the author of the works.  
 Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and to use other related rights publicly without any other payment or premium.  
 The author need to declare the contents of the related documents and materials of the registered project do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , the author (team) will bear legal responsibility, and return the bonuses and awards.  
@@ -314,14 +312,14 @@ In the process of commercialization, GERS can purchase the right to use the work
 
 
 
-**8、建造实施/Implementation of the construction**    
+### 8. 建造实施/Implementation of the construction     
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
 Further adjustment and perfections will be made to the projects that come from award-winning works(both from network and expert evaluation)which are emphatically recommended by the judges ,and these projects will have the opportunity to be built in disaster-hit areas, the construction fee of which is responsible by the organizers.   
 
 
-9、展览展示/Exhibition:
+### 9. 展览展示/Exhibition  
 
 获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。  
 线上展览：ikuku在库言库网永久展示、各大协办线上媒体合作报道。  
