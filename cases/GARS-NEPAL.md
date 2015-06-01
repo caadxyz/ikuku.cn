@@ -11,7 +11,7 @@ Emergent-Aiding：calling on architects all around the world for reconstruction 
 3. 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
 
-1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster areas to participate actively in the post-disaster reconstruction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
+1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster-hit areas to participate actively in the post-disaster reconstruction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
 2. Accumulating experience for post-disaster architectural designs and construction, setting up an open platform which contains various solutions for responding to the natural disasters like earthquake. 
 3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for reconstruction.
 
@@ -285,12 +285,12 @@ pdf格式/format
 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。
 
 All will be completed online.
-The selection method:
+The selection rules:
 Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
-Experts selection：All experts will vote on finalists online to select one first prize,two second prize,five third prize from type A and type B.
+Experts selection：All experts will vote on the finalists online to select one first-prize,two second-prize,five third -prize from type A and type B respectively.
 
 
-**6、颁奖方式/Prize-giving ceromony**  
+**6、颁奖方式/Prize-giving ceremony**  
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。
 
@@ -306,11 +306,11 @@ Experts selection：All experts will vote on finalists online to select one firs
 
 
 We will invite world-famous post-disaster reconstruction experts to present the awards at the live webcast ceremony, and winners deliver their acceptance speech by video.
-Other consultants’ fee ,awards and certificates shall be borne by the organizers and sponsors.
+Other consultants’ fee,awards and certificates shall be provided by the organizers and sponsors.
 Designers of the finalists will all get awards and certificates 
-All the authors with submitted works can get a medal of “GCRS Hope Design”.
+All the authors can get a medal of “GCRS Hope Design”.
 Organizers will select the “National Award” and “Institution Award” who are supportive to our activity.
-The time of ceremony to be determined.
+(The time of ceremony is to be determined).
 
 
 **7、知识产权/Intellectual property rights**  
@@ -326,10 +326,11 @@ The time of ceremony to be determined.
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。
 
 
-Intellectual property rights belong to the author of the works
-Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and other related rights publicly without any other payment or premium after date.
-The author need to declare the contents of the related documents and materials of registration do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , I (team) will bear legal responsibility, and return the bonuses and awards.
-During the process of the use of the works for global public goods free of charge, the user must carve the author’s introduction and designing background at a proper place of the building. In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, the concrete expense will be negotiated additionally
+Intellectual property rights belong to the author of the works.
+Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and to use other related rights publicly without any other payment or premium.
+The author need to declare the contents of the related documents and materials of the registered project do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , the author (team) will bear legal responsibility, and return the bonuses and awards.
+During the process of the use of works for global public good free of charge, brief introdution of the author and the designing background need to be marked at a proper place of the building. 
+In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.
 
 
 
@@ -337,7 +338,7 @@ During the process of the use of the works for global public goods free of charg
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
-Among the award-winning works(both from network and expert evaluation),several prototypes， adjustments and deepening design can be made from projects emphatically recommended by the judges .And these projects will have the opportunity to be built in disaster areas whose construction cost is responsible by the organizers. 
+Further adjustment and perfections will be made to the projects that come from award-winning works(both from network and expert evaluation)which are emphatically recommended by the judges ,and these projects will have the opportunity to be built in disaster-hit areas, the construction fee of which is responsible by the organizers. 
 
 
 9、展览展示/Exhibition:
@@ -348,11 +349,11 @@ Among the award-winning works(both from network and expert evaluation),several p
 
 线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）
 
-The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The cost of exhibition will be in the charge of the  organizors.
-Online exhibition: permanent exhibition on www.ikuku.cn , cooperative reports on other co-host online media.
+The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The fee will be responsible by the organizer. 
+Online exhibition: permanent exhibition on www.ikuku.cn ,  and other co-host online media will be reporting as well.
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).
 
-**活动时间/Timings**
+**活动时间/Timetable**
 
 活动启动时间：2015年6月1日
 
@@ -366,10 +367,10 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 
 Start-up：June 1,2015
 Q&A: June 1-10,2015
-Activity Deadline：Jule 10，2015.
+Deadline：Jule 10，2015.
 Reviewing time : July 11, 2015 –July 20,2015.
 
-Results releasing time：July 25，2015
+Releasing time：July 25，2015
 
 **专家评审团/Panel of experts**
 
@@ -397,18 +398,20 @@ Lamo thpa ：尼泊尔建筑师
 
 
 We have already invited:
- Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far east outstanding architectural design merit award; Contribution award of reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;he 2nd Life Award of the 《The Sound of Man》monthly magazine; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
 
-Zhu Jingxiang: Architect, scholar, Doctor of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the annual WA award，2004；The highest award of the annual WA award,2010;Special mention award of the 2nd Chinese Media Architecture Committee; “Chinese innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
+Hsieh Ying-chun: Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr.Xie received are as follows: The third  Far East Outstanding Architectural Design Merit Award; Contribution Award of Reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；Finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural Protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;The 2nd Life Award of the Monthly Magazine The Sound of Man; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.
 
-Qiu Wenjie: Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA award; finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.
+Zhu Jingxiang: Architect, scholar, Doctor of Southeast University, associate professor of The Chinese University of Hong Kong, expert of Light building system. Some major awards he received: Excellent Award of the Annual WA Award，2004；The highest award of the Annual WA award,2010;Special Mention Award of the 2nd Chinese Media Architecture Committee; “Chinese Innovator of the year 2012 ” of the Chinese edition of the Wall Street Journal. Representative works: Library of Yancheng Health School; the series of light buildings.
 
-Yuan Ye: Architect, Doctor of the Department of Architecture of Tsinghua University, deputy chief architect of China Construction Engineering Design Group Corporation Limited.（headquarter），postgraduate supervisor, who received the 10th Young Architect Award of Architectural Society of China. Representative works：The Memorial Park of Tangshan Earthquake Ruins，the gold winner in 2013’s Architectural design (Landscape architecture) of Architectural Society of China; finalist of WA Achievement Award ，WAACA Chinese Architectural award,2013.
+Qiu Wenjie: Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA Award; Finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.
 
-Fei Bigang: Expert of the secure and identification of Structural Engineering, Doctor of the Department of Civil Engineering, Tsinghua University; professor;director of GUOZHI (Beijing) Construction Engineering detection and identification center. Member of the Standardization Technology Committee of Construction Quality，Building Maintenance and Reinforcement ，real estate etc, which all belongs to the  Ministry of Housing and Urban-Rural Development of China. Mr. Fei took part in the emergency identification operation of post-earthquake housing of Wenchuan 5.12 Earthquake as a member of expert group of MOHURD.
-Noted Sociologist we invited(uncertain)
+Yuan Ye: Architect, Doctor of the Department of Architecture of Tsinghua University, deputy chief architect of China Construction Engineering Design Group Corporation Limited.（headquarter），postgraduate supervisor, who received the 10th Young Architect Award of Architectural Society of China. Representative works：The Memorial Park of Tangshan Earthquake Ruins，the gold winner in 2013’s Architectural design (Landscape architecture) of Architectural Society of China; Finalist of WA Achievement Award ，WAACA Chinese Architectural award,2013.
+
+Fei Bigang: Expert of the secure and identification of structural engineering, Doctor of the Department of Civil Engineering, Tsinghua University; professor;director of GUOZHI (Beijing) Construction Engineering Detection and Identification Center. Member of the Standardization Technology Committee of Construction Quality，Building Maintenance and Reinforcement ，Real Estate etc, which all belongs to the  Ministry of Housing and Urban-Rural Development of China. Mr. Fei took part in the emergency identification operation of post-earthquake housing of Wenchuan 5.12 Earthquake as a member of expert group of MOHURD.
+
 Sujet：President of China-Nepal Economy and Trade Promotion Association
-Lamo thpa ： native architect from Nepal.
+
+Lamo thpa ： well-known native architect from Nepal.
 
 
 主办单位
@@ -421,7 +424,7 @@ Organizers：
 GCRS Global-Building Love disaster-aid material trade center.
 
 
-ikuku.cn|在库言库 www.ikukuk.cn/competition
+ikuku.cn|在库言库 www.ikuku.cn/competition
 The host professional online supporting platform :
 www.ikuku.cn
 
@@ -429,19 +432,15 @@ www.ikuku.cn
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
 
-Social organizations: China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
+Supportive Social organizations: 
+China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
 
 
 协办建筑媒体
 
 台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑知识杂志、设计家杂志等
 
-Mainstream media support  plans to invite: ifeng.com, People.cn, qq.com, 163.com, baidu.com, Financial Times, The New York Times and the magazine of CRS.
-
-Professional directing units：We plans to invite： Architectural Society of China, Architectural Society of Taiwan, Architectural Society of Hongkong and World Associations of Chinese Architects.
-
-
-
+Architectural media support:xin ARCHI,ARCHITECTURE-www.gooood.hk;World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Architectural Knowledge;Designer&Designing,etc.
 赞助单位
 
 广药集团等
@@ -499,7 +498,7 @@ spokesman for this activity: Bao Qianshi.
 Q&A ikuku问答中心
 
 Bao Qianshi（Sponsor）Tel：13725104888
-Yuan Ye（Initiator，architect）Tel:  13522883926 E-mail: yuanyejianzhu@126.com
+Yuan Ye（Initiator，architect）Tel:  13522883926        E-mail: yuanyejianzhu@126.com
 For consultations and online answering, please send E-mails to  nepaltibet@163.com
 
 
