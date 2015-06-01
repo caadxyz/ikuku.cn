@@ -131,8 +131,10 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 (Choose one or more).
 
 **Design requirements**  
+
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
 Regional characteristics: Fully consider the regional characteristics of architecture.      
+
 Materials，transportation and construction:    
 Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements:   
 * Easy to obtain local materials within 48 hours.  
@@ -169,8 +171,11 @@ permanent housing.
 **Design requirements:**  
 
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
-Regional characteristics: Fully consider the regional   characteristics of architecture.  
-Materials and construction: Easy to obtain the materials locally; Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.  
+Regional characteristics: Fully consider the regional   characteristics of architecture. 
+
+Materials and construction:   
+Easy to obtain the materials locally;  
+Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.    
 
 Safety and comfort  
 Meet the structure security requirements.  
@@ -188,12 +193,14 @@ You may use additional elements like pictures&articles and music with the themes
 Form and style of architecture   
 Fully consider the regional characterisitics,the form and style are supposed to have a sense of cultural identity.  
 
-(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
-
-Construction and operation costing(Additional merits):  
-Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
 Building height:No more than two storeys (two storeys included)   
 
+**Additional merits**  
+Construction and operation costing:    
+Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
+
+
+(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
 
 **2、成果要求/The outcome requirements**  
 
