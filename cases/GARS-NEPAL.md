@@ -32,7 +32,7 @@ Emergent-Aiding：calling on architects all around the world for reconstruction 
 (Two designing types in all，see below).
 
 
-**1、设计内容/Designing content**  
+**1、设计内容/Designing contents**  
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
