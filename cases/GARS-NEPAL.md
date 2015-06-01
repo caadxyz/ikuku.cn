@@ -328,7 +328,7 @@ The awarded projects confirmed by GCRS committee of experts will be exhibited at
 Online exhibition: permanent exhibition on www.ikuku.cn ,  and other online co-media will be reporting as well.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
 
-**活动时间/Timetable**
+## 活动时间/Timetable  
 
 活动启动时间：2015年6月1日  
 活动答疑时间：2015年6月1日-10日  
@@ -342,7 +342,7 @@ Deadline：July 10，2015
 Reviewing time : July 11, 2015 –July 20,2015    
 Releasing time：July 25，2015  
 
-**专家评审团/Panel of experts**
+## 专家评审团/Panel of experts  
 
 谢英俊：
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。  
@@ -385,32 +385,32 @@ Lamo thpa ：尼泊尔建筑师
 Lamo thpa ： well-known native architect from Nepal.
 
 
-**主办单位/Organizers:**  
+## 主办单位/Organizers    
 GCRS全球铸爱应急救灾物资交易中心  
 GCRS Global-Building Love disaster-aid material trade center.  
 
-**主办专业网络支持平台/Online hosting platform:**  
+## 主办专业网络支持平台/Online hosting platform   
 ikuku.cn|在库言库 www.ikuku.cn/competition
 
-**社会组织支持/Social organizations support**  
+## 社会组织支持/Social organizations support  
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
 China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
 
 
-协办建筑媒体/Architectural co-media
+## 协办建筑媒体/Architectural co-media  
 
 台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑创作杂志、建筑知识杂志、设计家杂志等
 solomo.xinmedia.com, gooood.hk, World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Archicreation;Architectural Knowledge;Designer&Designing,etc.
 
 
-**活动成果展览展示地点/Location for Exhibition of the results**   
+## 活动成果展览展示地点/Location for Exhibition of the results    
 
 GCRS全球应急救灾物资云计算展示大厦
 The exhibition mansion of cloud computing of GCRS.
 
 
-**活动发起人/initiator**  
+## 活动发起人/initiator   
 
 包千石 GCRS全球铸爱应急救灾物资交易中心创始人、总裁
 Bao Qianshi：Founder and CEO of GCRS .
@@ -425,11 +425,11 @@ Sujet 中国-尼泊尔经贸促进会会长
 Sujet: President of China-Nepal Economic and Trade Promotion Association.
 
 
-**活动新闻发言人/spokesman for this activity**   
+## 活动新闻发言人/spokesman for this activity    
 包千石/Bao Qianshi
 
 
-**活动咨询与答疑/contacts & QA**  
+## 活动咨询与答疑/contacts & QA   
 邮箱/email: nepaltibet@163.com
 微信号/weixin: ikukucn (有人工客服服务)
 Q&A: ikuku问答中心
