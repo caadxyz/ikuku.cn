@@ -200,7 +200,7 @@ Construction and operation costing:
 Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
 
 
-(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. However,he has to make seperate registrations so as to get seperate registration numbers for each type of design.)
+(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. )
 
 **2、成果要求/The outcome requirements**  
 
