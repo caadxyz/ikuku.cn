@@ -118,7 +118,7 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 * A5.Temporary hospitals.
 (Choose one or more).
 
-Design requirements:
+**Design requirements:**  
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.
 Regional characteristics: Fully consider the regional characteristics of architecture.
 Materials，transportation and construction:
