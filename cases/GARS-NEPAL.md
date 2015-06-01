@@ -231,8 +231,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
-* Architects,students，individuals and groups who are dedicated to architectural design of reconstruction after-disaster and full of sense of social responsibility are all welcomed .
-
+* The competition is opened to architects,students，individuals and groups who are dedicated to architectural design of reconstruction after-disaster and full of sense of social responsibility.  
 * Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and Ph.D students）share equal qualifications in this competition. 
 
 **报名方法/How to register**  
@@ -248,7 +247,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 ### 4. 成果提交/Submission   
 
-本竞赛只接受电子版本（一式两份）的设计成果。  
+本竞赛只接受电子版本（一式两份）的成果。  
 Electronic documentaries are required in duplicate.
 
 **ikuku方案格式/ikuku proposal format**  
