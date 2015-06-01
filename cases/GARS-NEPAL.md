@@ -39,7 +39,7 @@ calling on architects all around the world for reconstruction designing projects
 (Two designing types in all，see below).
 
 
-**1、设计内容/Designing contents**  
+### 1. 设计内容/Designing contents  
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
