@@ -43,11 +43,11 @@ calling on architects all around the world for reconstruction designing projects
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
 **A 灾中应急建筑** 
-* 灾民紧急安置避难所(A1)
-* 灾民过渡安置房(A2)
-* 灾区临时教室（小学、中学）(A3)
-* 灾区临时幼儿园(A4) 
-* 灾区临时医院(A5)  
+* 灾民紧急安置避难所(GARSA1)
+* 灾民过渡安置房(GARSA2)
+* 灾区临时教室（小学、中学）(GARSA3)
+* 灾区临时幼儿园(GARSA4) 
+* 灾区临时医院(GARSA5)  
 （可任选其中一项或多项）
 
 **设计要求**  
@@ -77,7 +77,7 @@ calling on architects all around the world for reconstruction designing projects
 尽量提供造价估算清单，综合考虑成本与救灾效果  
 建筑高度：尽量控制在两层以内，包括两层  
 
-**B 灾后重建建筑**  
+**B 灾后重建建筑(GARSB)**  
 
 灾后居民永久性安居房
 
@@ -118,7 +118,7 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 * A5.Temporary hospitals.
 (Choose one or more).
 
-**Design requirements:**  
+**Design requirements**  
 Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
 Regional characteristics: Fully consider the regional characteristics of architecture.      
 Materials，transportation and construction:    
