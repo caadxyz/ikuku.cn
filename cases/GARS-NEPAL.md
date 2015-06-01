@@ -267,16 +267,15 @@ pdf格式/format
 
 **5、评选规则/Forms of selection**  
 
-• 评选形式：全部评选在网络上完成
+* 评选形式：全部评选在网络上完成
 
-• 评选办法/The selection rules：
-
+* 评选办法/The selection rules：
 网络排名：网络热门评选，从AB两种类型中（A灾中应急建筑，B灾后重建建筑），各评选出20名入围方案，并产生排名。产生的办法是基于方案的热度，其衡量的因素主要包括点击数、分享数、收藏数以及评论数等。
 
 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。
 
-All will be completed online.
-The selection rules:
+* All will be completed online.
+* The selection rules:
 Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
 Experts selection：All experts will vote on the finalists online to select one first-prize,two second-prize,five third -prize from type A and type B respectively.
 
