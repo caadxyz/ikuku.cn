@@ -42,7 +42,7 @@ calling on architects all around the world for reconstruction designing projects
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
-A、灾中应急建筑：
+A 灾中应急建筑：
 * 灾民紧急安置避难所(A1)
 * 灾民过渡安置房(A2)
 * 灾区临时教室（小学、中学）(A3)
