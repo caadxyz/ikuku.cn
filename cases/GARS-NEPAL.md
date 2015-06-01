@@ -457,14 +457,13 @@ China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Fou
 Architectural media support:xin ARCHI,ARCHITECTURE-www.gooood.hk;World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Archicreation;Architectural Knowledge;Designer&Designing,etc.
 
 
-活动成果展览展示地点
+**活动成果展览展示地点/Location for Exhibition of the results**   
 
 GCRS全球应急救灾物资云计算展示大厦
+The exhibition mansion of cloud computing of GCRS.
 
-Location of exhibition of the activity results: The exhibition mansion of cloud computing of GCRS.
 
-
-**活动发起人/initiator of the event**  
+**活动发起人/initiator**  
 
 包千石 GCRS全球铸爱应急救灾物资交易中心创始人、总裁
 Bao Qianshi：Founder and CEO of GCRS .
