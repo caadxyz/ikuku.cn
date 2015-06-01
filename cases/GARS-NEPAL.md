@@ -415,25 +415,16 @@ Lamo thpa ：尼泊尔建筑师
 Lamo thpa ： well-known native architect from Nepal.
 
 
-主办单位
+**主办单位/Organizers:**  
+GCRS全球铸爱应急救灾物资交易中心  
+GCRS Global-Building Love disaster-aid material trade center.  
 
-GCRS全球铸爱应急救灾物资交易中心
-
-主办专业网络支持平台
-
-Organizers：
-GCRS Global-Building Love disaster-aid material trade center.
-
-
+**主办专业网络支持平台/Online hosting platform:**  
 ikuku.cn|在库言库 www.ikuku.cn/competition
-The host professional online supporting platform :
-www.ikuku.cn
 
-社会组织支持
+**社会组织支持/Social organizations support**  
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
-
-Supportive Social organizations: 
 China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
 
 
