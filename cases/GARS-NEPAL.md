@@ -223,7 +223,7 @@ Building height:No more than two storeys (two storeys included)
 
 注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
 
-• renderings（model photo included）  
+• Renderings（model photo included）  
 • Plans，elevations and	sectional drawings.  
 • Construction analysis diagrams.    
 • Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
@@ -231,44 +231,44 @@ Building height:No more than two storeys (two storeys included)
 Note：All texts are in both Chinese and English.The organizer encourages all forms of drawings and notes which helps the better illustrations of proposals. 
 
 
-**3、注册报名/Registor now**  
+**3、注册报名/Register now**  
 
-报名条件/registor requirement：
+报名条件/register requirements：
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
-* Architects,students，individuals and groups who are dedicated to post-disaster architectural design and full of sense of social responsibility are all welcomed .
+* Architects,students，individuals and groups who are dedicated to architectural design of reconstruction after-disaster and full of sense of social responsibility are all welcomed .
 
-* Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and phd students）share equal qualifications. 
+* Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and Ph.D students）share equal qualifications in this competition. 
 
-报名方法/How to registor  
+报名方法/How to register 
 
 * 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 * 在"用户中心->我的竞赛"中点击"立即参加"按钮,立即获得参加资格及注册号。
 * 参加者同时需要填写个人简介。
-* Login to ikuku user center(if you are not ikuku userm you need registor first).
-* After click 'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number ofqualification for competition and get eligible for the activity.
-* Participants need to fill Profile in ikuku user center. 
+* Login to ikuku user center(if you are not an ikuku user you need register first).
+* After clicking the'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number of qualification for competition.
+* Participants need to fill in personal profile in ikuku user center. 
 
 
 
-**4、成果提交/Instructions of submission**  
+**4、成果提交/Submission**  
 
 本竞赛只接受电子版本（一式两份）的设计成果。  
 Electronic documentaries are required in duplicate.
 
-ikuku方案格式/ikuku concept format
+ikuku方案格式/ikuku proposal format
 * 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
 * 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
-In "ucenter -> My competition", user can click on "update" button to submit or  update each proposal.
-In you are in a team you need click on "participants" to fill out each participator.
+In "user center -> My competition", the user can click on "update"to submit or update each proposal.
+If you are in a team you need to click on "participants" or "team"to fill in the related information.
 
 pdf格式/format
 * 300dpi，不多于5张的A3横构图图纸
 * 每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm
 * 发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
-* 300dpi, The results typesetting in no more than five A3 horizontal composition of drawings, and in the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
-* Please send the results to nepaltibet@163.com with the title in this format：GARS-registration number.
+* 300dpi, The results typesetting in no more than five A3 horizontal composition of drawings, and on the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
+* Please send the outcome of proposal to  nepaltibet@163.com  with a title in this format：GARS- registration number.
 
 
 
