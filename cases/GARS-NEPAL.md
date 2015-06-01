@@ -209,14 +209,19 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 * 建构分析图
 * 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
 
-注：所有文字均应采用中文或英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
+注：
+* 所有文字均应采用中文或英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现(包括不超过1分钟的视频)。
+* 视频需要上传到优酷
 
 * Renderings（model photo included）  
 * Plans，elevations and	sectional drawings.  
 * Construction analysis diagrams.    
 * Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
 
-Note：All texts are in Chinese or English.The organizer encourages all forms of representation which helps the better explaining of proposals. 
+Note：  
+* All texts are in Chinese or English.The organizer encourages all forms of representation which helps the better explaining of proposals. even videos can be include.
+* If you submit a video,Please submit a 1 minute (maximun) video to explain in, a few words, the key concepts of your proposal. Please use subtitles even if you are speaking English or Chinese. (It is not mandatory to speak in the video, you may also use text, images, animation etc). Place your ID code at the bottom right of the video. You will find this ID code by logging in to ikuku.cn ucenter->my compettion. 
+* To submit the video: First upload the video to YouTube or Youku, then login in to your competition profile page and paste the YouTube link to the video section of the submission.
 
 
 **3、注册报名/Register now**  
@@ -236,7 +241,7 @@ Note：All texts are in Chinese or English.The organizer encourages all forms of
 * 参加者同时需要填写个人简介。
 * Login to ikuku user center(if you are not an ikuku user you need register first).
 * After clicking the'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number of qualification for competition.
-* Participants need to fill in personal profile in ikuku user center. 
+* Participants need to fill in personal profile in ikuku user center.  
 
 
 
