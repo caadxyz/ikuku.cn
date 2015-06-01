@@ -360,10 +360,11 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 结果发布时间：2015年7月25日
 
 Start-up：June 1,2015
-Activity Deadline：June 30，2015.
-Reviewing time : July 1, 2015 –July 15,2015.
+Q&A: June 1-10,2015
+Activity Deadline：Jule 10，2015.
+Reviewing time : July 11, 2015 –July 20,2015.
 
-Results releasing time：July 20，2015
+Results releasing time：July 25，2015
 
 **专家评审团/Panel of experts**
 
