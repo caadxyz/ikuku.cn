@@ -110,12 +110,12 @@ calling on architects all around the world for reconstruction designing projects
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
-A. emergency buildings while-in-disaster:
-A1. Emergency shelters;
-A2.Temporary housing;
-A3.Temporary classrooms (primary schools and middle schools); 
-A4.Temporary kindergartens.
-A5.Temporary hospitals.
+**A. emergency buildings while-in-disaster:**  
+* A1. Emergency shelters;
+* A2.Temporary housing;
+* A3.Temporary classrooms (primary schools and middle schools); 
+* A4.Temporary kindergartens.
+* A5.Temporary hospitals.
 (Choose one or more).
 
 Design requirements:
