@@ -311,7 +311,7 @@ In the process of commercialization, GERS can purchase the right to use the work
 
 
 
-### 8. 建造实施/Implementation of the construction     
+### 8. 建造实施/Construction     
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
