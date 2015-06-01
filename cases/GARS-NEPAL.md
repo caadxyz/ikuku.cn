@@ -143,8 +143,8 @@ Take Psychological counseling and comforting into consideration.
 Reflect humanitarianism concern.  
 You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.  
 
- 
-Construction and operation costing(Additional merits):  
+**Additional merits**   
+Construction and operation costing:  
 Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
 Building height:No more than two storeys (two storeys included)  
 
