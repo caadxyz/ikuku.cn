@@ -324,7 +324,6 @@ Further adjustment and perfections will be made to the projects that come from a
 获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。  
 线上展览：ikuku在库言库网永久展示、各大协办线上媒体合作报道。  
 线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）  
-
 The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The fee will be responsible by the organizer.   
 Online exhibition: permanent exhibition on www.ikuku.cn ,  and other online co-media will be reporting as well.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
