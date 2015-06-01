@@ -299,22 +299,18 @@ Organizers will select the “National Award” and “Institution Award” who 
 
 **7、知识产权/Intellectual property rights**  
 
-作品的知识产权属于作者。
-
-作者同意无偿授权活动主办方及发起人使用作品的图片、图文进行宣传、重制、修改、出版、展览等权利及公开使用之各项相关权利，不另支付日后使用酬劳或权利金；
-
-作者声明报名之相关文件与资料，其内容确实无侵犯他人之著作权，日后若有涉及作品版权之纠纷，以致损毁主办单位之名誉，本人（团队）愿负法律之责任，并退回奖金及奖状。
-
-作品无偿供全球公益使用过程中，使用者必须在建筑物适当位置刻上作者简介及创作背景。
-
+作品的知识产权属于作者。  
+作者同意无偿授权活动主办方及发起人使用作品的图片、图文进行宣传、重制、修改、出版、展览等权利及公开使用之各项相关权利，不另支付日后使用酬劳或权利金；   
+作者声明报名之相关文件与资料，其内容确实无侵犯他人之著作权，日后若有涉及作品版权之纠纷，以致损毁主办单位之名誉，本人（团队）愿负法律之责任，并退回奖金及奖状。  
+作品无偿供全球公益使用过程中，使用者必须在建筑物适当位置刻上作者简介及创作背景。  
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。
 
 
-Intellectual property rights belong to the author of the works.
-Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and to use other related rights publicly without any other payment or premium.
-The author need to declare the contents of the related documents and materials of the registered project do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , the author (team) will bear legal responsibility, and return the bonuses and awards.
+Intellectual property rights belong to the author of the works.  
+Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and to use other related rights publicly without any other payment or premium.  
+The author need to declare the contents of the related documents and materials of the registered project do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , the author (team) will bear legal responsibility, and return the bonuses and awards.  
 During the process of the use of works for global public good free of charge, brief introdution of the author and the designing background need to be marked at a proper place of the building. 
-In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.
+In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.  
 
 
 
@@ -322,16 +318,14 @@ In the process of commercialization, GERS can purchase the right to use the work
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
-Further adjustment and perfections will be made to the projects that come from award-winning works(both from network and expert evaluation)which are emphatically recommended by the judges ,and these projects will have the opportunity to be built in disaster-hit areas, the construction fee of which is responsible by the organizers. 
+Further adjustment and perfections will be made to the projects that come from award-winning works(both from network and expert evaluation)which are emphatically recommended by the judges ,and these projects will have the opportunity to be built in disaster-hit areas, the construction fee of which is responsible by the organizers.   
 
 
 9、展览展示/Exhibition:
 
-获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。
-
-线上展览：ikuku在库言库网永久展示、各大协办线上媒体合作报道。
-
-线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）
+获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。  
+线上展览：ikuku在库言库网永久展示、各大协办线上媒体合作报道。  
+线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）  
 
 The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The fee will be responsible by the organizer. 
 Online exhibition: permanent exhibition on www.ikuku.cn ,  and other co-host online media will be reporting as well.
