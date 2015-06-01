@@ -127,21 +127,21 @@ Flexibility, modular housing units，suitable for reserve and transportation and
 * Suitable for international air aid by small cargo planes in batch.  
 * Proper for emergency airdrop aid by domestic helicopters.
 
-Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.
-Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.
+Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.  
+Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.  
 
-Safety and comfort:
-Meet the structure security requirements.
-Consider using fireproof materials as much as possible.
-Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system. 
-Possess simple lighting，air fans and temporary power generation.
-Guard against insects or snakes.
-Collect and recycle rainwater.
+Safety and comfort:  
+Meet the structure security requirements.  
+Consider using fireproof materials as much as possible.  
+Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system.   
+Possess simple lighting，air fans and temporary power generation.  
+Guard against insects or snakes.  
+Collect and recycle rainwater.  
 
-Psychological aid and humanistic concern：
+Psychological aid and humanistic concern：  
 Take Psychological counseling and comforting into consideration.
-Reflect humanitarianism concern.
-You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
+Reflect humanitarianism concern.  
+You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.  
 
 Additional merits:Construction and operation costing
 Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief..
