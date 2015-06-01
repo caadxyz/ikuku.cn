@@ -264,7 +264,7 @@ If you are in a team you need to click on "participants" or "team"to fill in the
 * Please send the outcome of proposal to  nepaltibet@163.com  with a title in this format：GARS- registration number.
 
 
-### 5. 评选规则/Forms of selection   
+### 5. 评选规则/selection rules  
 
 * 评选形式：全部评选在网络上完成
 * All will be completed online.
@@ -276,7 +276,7 @@ If you are in a team you need to click on "participants" or "team"to fill in the
 * Experts selection：All experts will vote on the finalists online to select one first-prize,two second-prize,five third -prize from type A and type B respectively.
 
 
-### 6. 颁奖方式/Prize-giving ceremony    
+### 6. 颁奖方式/Awards Ceremony      
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。  
 其他顾问费、奖品及证书由主办方及赞助商承担。  
@@ -327,7 +327,7 @@ The awarded projects confirmed by GCRS committee of experts will be exhibited at
 Online exhibition: permanent exhibition on www.ikuku.cn ,  and other online co-media will be reporting as well.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
 
-## 活动时间/Timetable  
+## 活动时间/calendar  
 
 活动启动时间：2015年6月1日  
 活动答疑时间：2015年6月1日-10日  
