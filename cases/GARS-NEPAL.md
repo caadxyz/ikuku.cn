@@ -227,7 +227,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 ### 3、注册报名/Register now   
 
-**报名条件/register requirements**    
+**报名条件/Eligibility**    
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
