@@ -204,13 +204,10 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 **2、成果要求/The outcome requirements**  
 
-• 效果图（包括模型照片）
-
-• 平面图、立面图、剖面图
-
-• 建构分析图
-
-• 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
+* 效果图（包括模型照片）
+* 平面图、立面图、剖面图
+* 建构分析图
+* 创作说明（包括设计理念，建造指导、技术经济指标、造价估算表）
 
 注：所有文字均采用中英文形式。主办方鼓励有利于阐述提案的任何形式的图纸表现。
 
