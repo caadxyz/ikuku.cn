@@ -438,9 +438,9 @@ China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Fou
 
 协办建筑媒体
 
-台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑知识杂志、设计家杂志等
+台湾欣建筑、谷德建筑网、世界建筑杂志、UED杂志、建筑技艺杂志、建筑师杂志、建筑创作杂志、建筑知识杂志、设计家杂志等
 
-Architectural media support:xin ARCHI,ARCHITECTURE-www.gooood.hk;World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Architectural Knowledge;Designer&Designing,etc.
+Architectural media support:xin ARCHI,ARCHITECTURE-www.gooood.hk;World Architecture(WA);Urban Environment Design(UED);Architecture Technique（AT);The Architect;Archicreation;Architectural Knowledge;Designer&Designing,etc.
 
 
 活动成果展览展示地点
