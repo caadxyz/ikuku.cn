@@ -436,7 +436,7 @@ Q&A: wenda.ikuku.cn
 ### m新闻媒体资料下载/Download media document  
 
 [google drive](https://drive.google.com/folderview?id=0B0zOmRfW3JsUfmNNVEJaQm9PZ0dEUUh1WjNnM0trSzRuTV8tLUhMNFh5bEd4SmtuUUtwa0k&usp=sharing)  
-[新浪微盘]()  
+[新浪微盘](http://vdisk.weibo.com/s/zi8AemgqOQIpd)  
 
 
 
