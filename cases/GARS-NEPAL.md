@@ -124,10 +124,10 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 
 **A. emergency buildings while-in-disaster**     
 * GARSA1. Emergency shelters;
-* GARSAA2. Temporary housing;
-* GARSAA3. Temporary classrooms (primary schools and middle schools); 
-* GARSAA4. Temporary kindergartens;
-* GARSAA5. Temporary hospitals.
+* GARSA2. Temporary housing;
+* GARSA3. Temporary classrooms (primary schools and middle schools); 
+* GARSA4. Temporary kindergartens;
+* GARSA5. Temporary hospitals.
 (Choose one or more).
 
 **Design requirements**  
