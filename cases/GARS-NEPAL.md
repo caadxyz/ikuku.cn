@@ -225,7 +225,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 * To submit the video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my compettion page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
 
 
-### 3、注册报名/Register now   
+### 3. 注册报名/Register now   
 
 **报名条件/Eligibility**    
 
