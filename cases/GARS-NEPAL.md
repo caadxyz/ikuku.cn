@@ -7,7 +7,7 @@ calling on architects all around the world for reconstruction designing projects
 
 ----
 
-## 主题/theme
+## 主题/Theme
 
 
 1. 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
