@@ -15,12 +15,9 @@ calling on architects all around the world for reconstruction designing projects
 3. 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
 
-1. Collecting architects on a global scale, offering a platform for architects with professional competence who have a desire to devote a loving heart for people in the disaster-hit areas to participate actively in the post-disaster reconstruction of Nepal(China Tibet included) to put the architects’ social ideal into practice.
-
-2. Accumulating experience for post-disaster architectural designs and construction, setting up an open platform which contains various solutions for responding to the natural disasters like earthquake. 
-
-3. Providing a professional communicating platforms for global post-disaster construction, promoting the cultivation of the talent and enlarging the talent pool for reconstruction.
-
+1.	To invite knowledgeable and professional architects from all around the world to take part in the  reconstruction works in Nepal (incl. China Tibet) after the earthquakes.
+2.	To gain post-disaster reconstruction experience and establish a open platform among architects for future relevant projects.
+3.	To encourage professional exchange platforms for the public and the future architects.
 
 ## 奖金及规则/Prizes & Rules
 
@@ -30,13 +27,13 @@ calling on architects all around the world for reconstruction designing projects
 * 一等奖2名（AB类型各1位），奖金各20,000美元，并获得证书及奖牌  
 * 二等奖4位（AB类型各2位），奖金各10,000美元，并获得证书及奖牌  
 * 三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
-* 入围24位（AB类型各12位），获得证书及奖品  
-* Total bonus:100,000 dollars.  
-* Two first-prize(one for each type) , 20,000 dollars for each bonus with the certificate and medal.  
-* Four second-prize(two for each type),10,000 dollars for each bonus with the certificate and medal.
-* Ten third-prize(five for each type),2,000 dollars for each bonus with the certificate and medal. 
-* Twenty-four finalists(twelve for each type) with certificates and prizes.
-
+ 入围24位（AB类型各12位），获得证书及奖品  
+* Total Prize:100,000 dollars.
+* Each one of A and B Categories shall receive:
+	•	1no. of First Prize, 20,000 dollars with the certificate and medal for each prize.
+	•	2nos. of Second Prize, 10,000 dollars with the certificate and medal for each prize.
+	•	5nos. of Third Prize, 2,000 dollars with the certificate and medal for each prize.
+	•	12nos. of shortlisted prizes with certificate.
 
 ### 1. 设计内容/Designing contents  
 
@@ -122,7 +119,7 @@ calling on architects all around the world for reconstruction designing projects
 
 Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
 
-**A. emergency buildings while-in-disaster**     
+**Category A. Mid-diaster Emergency Buildings**     
 * GARSA1. Emergency shelters;
 * GARSA2. Temporary housing;
 * GARSA3. Temporary classrooms (primary schools and middle schools); 
@@ -131,78 +128,75 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 (Choose one or more).
 
 **Design requirements**  
+Construction Site: no restriction but the buildings should have high flexibility and adaptability
 
-Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
-Regional characteristics: Fully consider the regional characteristics of architecture.      
+Geographical Constraints: Regional characteristics should be fully considered
 
-Materials，transportation and construction:    
-Flexibility, modular housing units，suitable for reserve and transportation and is supposed to fit at least one piece of the following requirements:   
-* Easy to obtain local materials within 48 hours.  
-* Suitable for international air aid by small cargo planes in batch.  
-* Proper for emergency airdrop aid by domestic helicopters.
+Materials，Logistics and Construction:
+High flexibility and modularity. Suitable for storage and transportation. 
+It is also important to fit at least one piece of the following requirements:
+*	Locally accessible materials within 48 hours.
+*	Fit in small cargo airplanes from international aids in batch.
+*	Suitable for emergency aid by domestic helicopters.
 
-Can be rapidly built and massively reproduced,can be constructed with light machine and small tools by local residents or volunteers.  
-Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.  
+Can be rapidly built and massively reproduced, can be constructed with light machines and small tools by local residents and volunteers.
 
-Safety and comfort:  
-Meet the structure security requirements.  
-Consider using fireproof materials as much as possible.  
-Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system.   
-Possess simple lighting，air fans and temporary power generation.  
-Guard against insects or snakes.  
-Collect and recycle rainwater.  
+Sustainability should be considered by means of environment-friendly,energy-sufficient renewable resources as well as new materials.
 
-Psychological aid and humanistic concern：  
-Take Psychological counseling and comforting into consideration.
-Reflect humanitarianism concern.  
-You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.  
+Safety and Comfort:
+Structural safety requirements should be fulfilled.
+Fireproof materials should be considered.
+Excellent building physics performance including daylight conditions, ventilation system , insulation and cooling system.
+Simple lighting system, ventilation fans and temporary power generation.
+Measures against insects or snakes.
+Rainwater treatment including collection and recycling.
 
-Building height:No more than two storeys (two storeys included)  
+Psychological aid and humanistic concerns：
+Take Psychological counseling and comforting into consideration. Reflect humanitarianism concern.
+Possible to use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
+Building height: restricted to be no more than two storeys high.
 
 **Additional merits**   
-Construction and operation costing:   
-Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
+Construction and operation costing:
+Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief. 
  
 
-**B. Reconstruction after-disaster(GARSB):**  
+**Category B. Post-disaster Reconstruction (GARSB):**  
 
-permanent housing.
+Permanent Housings.
 
 **Design requirements:**  
 
-Construction base: not restricted to specific bases,and the construction should be strongly adaptable to the base.  
-Regional characteristics: Fully consider the regional   characteristics of architecture. 
+Construction Site: no restriction but the buildings should have high flexibility and adaptability
 
-Materials and construction:   
-Easy to obtain the materials locally;  
-Make full use of ecological means such as environment-friendly,energy sufficient and new types of materials and renewable resources.    
+Geographical Constraints: Regional characteristics should be fully considered
 
-Safety and comfort  
-Meet the structure security requirements.  
-Consider using fireproof materials as much as possible.  
-Have favorable architectural physics performance including sunlight conditions ，ventilation system , insulation and cooling system.   
-Possess simple lighting，air fans and temporary power generation.
-Guard against insects or snakes.  
-Collect and recycle rainwater.  
+Materials and construction:
+Locally accessible materials.
+Sustainability should be considered by means of environment-friendly,energy-sufficient renewable resources as well as new materials.
 
-Psychological aid and humanistic concern：  
-Take Psychological counseling and comforting into consideration.  
-Reflect humanitarianism concern.  
-You may use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.  
+Safety and Comfort:
+Structural safety requirements should be fulfilled.
+Fireproof materials should be considered.
+Excellent building physics performance including daylight conditions, ventilation system , insulation and cooling system.
+Simple lighting system, ventilation fans and temporary power generation.
+Rainwater treatment including collection and recycling.
 
-Form and style of architecture   
-Fully consider the regional characterisitics,the form and style are supposed to have a sense of cultural identity.  
-
-Building height:No more than two storeys (two storeys included)   
+Psychological aid and humanistic concern：
+Take Psychological counseling and comforting into consideration. Reflect humanitarianism concern.
+Possible to use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
+Form and style of architecture
+Fully consider the regional characteristics,the form and style should reflect the cultural identities.
+Building height:No more than two storeys
 
 **Additional merits**  
-Construction and operation costing:    
-Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief.  
+Construction and operation costing:
+Clear cost estimates with comprehensive costs and the factual effects of disaster relief should be provided.
 
 
-(Notes:candidates can choose any type of Category A or choose Category B，or esle he can take part in one or more types of architectural design. )
+(Notes:candidates can choose Category A and/or Category B.)
 
-### 2. 成果要求/Documents and Graphic Materials Required    
+### 2. 成果要求/Submission Requirements    
 
 * 效果图（包括模型照片）
 * 平面图、立面图、剖面图
@@ -214,15 +208,15 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 * 如果你上传视频，视频宜最大不能超过1分钟。宜使用字幕而不是声音来阐述你的想法（声音不是必须的，你可以使用文字、图像、动画等等。
 * 上传视频：首先你上传视频到youtube（英文）或者优酷（中文），然后在你的用户中心->我的竞赛点击任何一个方案的"更新/update"按钮,跳转到方案编辑页，在这样一页的"关联链接/extr.links"里面粘贴你的youtube或者优酷视频的链接。
 
-* Renderings（model photo included）  
-* Plans，elevations and	sectional drawings.  
-* Construction analysis diagrams.    
-* Design specification(design concept，construction directions, technical and economic indicators and construction estimation tables are included)  
+* Visualization (incl. model photos and renderings） 
+*	Architectural drawings incl. floor plans，elevations and sections.
+*	Construction analysis diagrams.
+*	Design Descriptions (incl. design concepts, construction directions, technical and economic indicators and construction estimation tables) 
 
 **Note：**    
-* All texts are in English or Engish&Chinese.The organizer encourages all forms of representation which helps the better explaining of proposals. even videos can be include.
-* If you submit a video,Please submit a 1 minute (maximun) video. Please use subtitles even if you are speaking English or Chinese. (It is not mandatory to speak in the video, you may also use text, images, animation etc).  
-* To submit the video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my compettion page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
+* Submissions should be either in English or bilingual (Engish & Chinese). Any additional formats other than those listed above incl. video and animations will be appreciated
+* Should you include a video in the submission, subtitles are required and the video should be no more than one minute long.
+* To submit a video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my competition page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
 
 
 ### 3. 注册报名/Register now   
@@ -231,8 +225,8 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
-* The competition is opened to architects,students，individuals and groups who are dedicated to architectural design of reconstruction after-disaster and full of sense of social responsibility.  
-* Professional architects, architecture teachers and enrolled students （undergraduates, postgraduates and Ph.D students）share equal qualifications in this competition. 
+* The competition is opened to all professional  architects, students. individuals and groups who are dedicated to contribute in architectural design for the post-disaster reconstruction with high social responsibility.
+*	Professional architects, architecture teachers and registered students（incl. undergraduates, postgraduates and doctorate students) share equal qualifications in this competition.
 
 **报名方法/How to register**  
 
@@ -245,7 +239,7 @@ Provide cost estimation as clear as possible, consider comprehensive cost and th
 
 
 
-### 4. 成果提交/Submission   
+### 4. 成果提交/How to submit
 
 本竞赛只接受电子版本（一式两份）的成果。  
 Electronic documentaries are required(in duplicate).
