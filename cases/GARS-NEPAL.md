@@ -2,7 +2,7 @@
 
 ----
 
-**[English]GARS-NEPAL.TEBIT Earthquake Emergency:**  
+**[English]GARS-NEPAL.TIBET Earthquake Emergency:**  
 calling on architects all around the world for reconstruction designing projects
 
 ----
