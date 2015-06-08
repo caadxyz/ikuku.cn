@@ -390,7 +390,7 @@ ikuku.cn|在库言库 www.ikuku.cn/competition
 China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
 
 ### 当地顾问专家小组/Local consultants  
-Rajendra Shrestha,  Saroj  Shrestha  
+[Rajendra Shrestha](#),  [Saroj  Shrestha](#)  
 
 ### 协办建筑媒体/Architectural co-media  
 
