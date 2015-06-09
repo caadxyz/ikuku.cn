@@ -16,7 +16,7 @@ calling on architects all around the world for reconstruction designing projects
 
 
 1.	To invite knowledgeable and professional architects from all around the world to take part in the  reconstruction works in Nepal (incl. China Tibet) after the earthquakes.
-2.	To gain post-disaster reconstruction experience and establish a open platform among architects for future relevant projects.
+2.	To gain post-disaster reconstruction experience and establish an open platform among architects for future relevant projects.
 3.	To encourage professional exchange platforms for the public and the future architects.
 
 ## 奖金及规则/Prizes & Rules
@@ -117,7 +117,7 @@ calling on architects all around the world for reconstruction designing projects
 
 （说明：参与者可选择A类中的任何一种类型如GARSA1、GARSA2、GARSA3等或GARSB类，可以多选即可以参与一种以上乃至所有类型建筑的设计，注册号分别为用户ID-GARSA1、用户ID-GARSA2、用户ID-GARSA3等及用户ID-GARSB）
 
-Two types are included: emergency buildings while-in disaster and reconstruction after-disaster. 
+Two types are included: mid-disaster emergency buildings and post-disaster reconstruction. 
 
 **Category A. Mid-diaster Emergency Buildings**     
 * GARSA1. Emergency shelters;
@@ -128,9 +128,9 @@ Two types are included: emergency buildings while-in disaster and reconstruction
 (Choose one or more).
 
 **Design requirements**  
-Construction Site: no restriction but the buildings should have high flexibility and adaptability
+Construction Site: no restriction but the buildings should have high flexibility and adaptability.
 
-Geographical Constraints: Regional characteristics should be fully considered
+Geographical Constraints: Regional characteristics should be fully considered.
 
 Materials，Logistics and Construction:
 High flexibility and modularity. Suitable for storage and transportation. 
@@ -141,7 +141,7 @@ It is also important to fit at least one piece of the following requirements:
 
 Can be rapidly built and massively reproduced, can be constructed with light machines and small tools by local residents and volunteers.
 
-Sustainability should be considered by means of environment-friendly,energy-sufficient renewable resources as well as new materials.
+Sustainability should be considered by means of environment-friendly,energy-sufficient and renewable resources as well as new materials.
 
 Safety and Comfort:
 Structural safety requirements should be fulfilled.
@@ -214,7 +214,7 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 *	Design Descriptions (incl. design concepts, construction directions, technical and economic indicators and construction estimation tables) 
 
 **Note：**    
-* Submissions should be either in English or bilingual (Engish & Chinese). Any additional formats other than those listed above incl. video and animations will be appreciated
+* Submissions should be either in English or bilingual (Engish & Chinese). Any additional formats other than those listed above incl. video and animations will be appreciated.
 * Should you include a video in the submission, subtitles are required and the video should be no more than one minute long.
 * To submit a video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my competition page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
 
@@ -233,7 +233,7 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 * 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 * 在"用户中心->我的竞赛"中点击"立即参加"按钮,立即获得参加资格及注册号。
 * 参加者同时需要填写个人简介。
-* Login to ikuku user center(if you are not an ikuku user you need register first).
+* Login to ikuku user center(if you are not an ikuku user you need to register first).
 * After clicking the'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number of qualification for competition.
 * Participants need to fill in personal profile in ikuku user center.  
 
