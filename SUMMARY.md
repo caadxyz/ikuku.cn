@@ -23,6 +23,5 @@
 * [团队](team.md)
 * [使用手册](guide.md)
    * [编写规则](guide/editor.md)
-   * [招募&申请实习](guide/find.md)
    * [中英对照](guide/ce.md)
 
