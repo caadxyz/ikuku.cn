@@ -8,7 +8,7 @@ Competitionline（海外）
 http://www.competitionline.com/en/tenders/200823
 
 Architecture Lab（海外）
-http://architecturelab.net/
+http://architecturelab.net/call-for-submission-gars-nepal-tebit-earthquake-emergency/
 
 Akichiatlas（海外）
 http://akichiatlas.com/en/archives/ganpl.php
