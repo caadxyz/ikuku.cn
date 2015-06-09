@@ -7,8 +7,8 @@ calling on architects all around the world for reconstruction designing projects
 
 ----
 
-* [媒体报道/meida report](gars/media.md)
-* [志愿者行动/]
+* [媒体报道/Meida Report](gars/media.md)
+* [志愿者行动/Volunteer Action](gars/volunteer.md)
 
 
 
