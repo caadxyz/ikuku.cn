@@ -9,6 +9,8 @@ calling on architects all around the world for reconstruction designing projects
 
 * [媒体报道/Meida Report](gars/media.md)
 * [港台澳及海外志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76518)
+* [大陆地区志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76249)
+
 
 
 
