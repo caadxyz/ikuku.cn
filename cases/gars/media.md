@@ -16,7 +16,8 @@ http://akichiatlas.com/en/archives/ganpl.php
 Archirama（海外）
 http://archirama.muratorplus.pl/architektura/wspolczesna-architektura-azji-po-katastrofie,67_3950.html
 
-
+Archpaper
+http://blog.archpaper.com/competitions/gars-nepal-tebit-earthquake-emergency-calling-on-architects-all-around-the-world-for-reconstruction-registersubmit-friday-july-10-2015/
 
 
 UED
