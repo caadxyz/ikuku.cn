@@ -40,8 +40,7 @@ http://www.urcities.com/designCompet/20150602/17234.html
 domus中国：
 
 建筑师的非建筑：
-http://mp.weixin.qq.com/s?__biz=MjM5MDEyNDE4MQ==&mid=207922281&idx=2
-
+http://mp.weixin.qq.com/s?__biz=MjM5MDEyNDE4MQ==&mid=207922281&idx=2&sn=2761d26d30aa76bc2e303f68009ab453
 
 微博媒体
 
