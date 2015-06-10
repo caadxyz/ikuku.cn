@@ -90,6 +90,10 @@ http://mp.weixin.qq.com/s?__biz=MzA5NTQ2MDMyNg==&mid=206485780&idx=2&sn=34c5ac28
 北京城市学院大学城校区传媒中心
 http://mp.weixin.qq.com/s?__biz=MzA5MjAzMzYwNA==&mid=206617629&idx=1&sn=06276d9370b84f33d79a53b975a60642
 
+辽宁工业大学土建学院
+http://mp.weixin.qq.com/s?__biz=MzAxODEyMjIwOA==&mid=208095512&idx=2&sn=a3c518909f5b7b93ba83d3166d5f736c  
+
+
 
 深圳市土木再生城乡营造研究所是08年汶川大地震后由深港等地建筑师等专业人士发起、旨在为灾区／乡村／受忽略社区提供专业支持的民间机构，同时也是推动城市／乡村营造设计研究的资源平台
 http://mp.weixin.qq.com/s?__biz=MjM5Njg1MjgyMg==&mid=206591745&idx=1&sn=39fbe3b8cd15a7f6d853388702acc20b
