@@ -19,6 +19,9 @@ http://archirama.muratorplus.pl/architektura/wspolczesna-architektura-azji-po-ka
 Archpaper
 http://blog.archpaper.com/competitions/gars-nepal-tebit-earthquake-emergency-calling-on-architects-all-around-the-world-for-reconstruction-registersubmit-friday-july-10-2015/
 
+Archdaily
+http://www.archdaily.com/640481/open-call-gars-nepal-tibet-earthquake-emergency-reconstruction-competition/  
+
 
 UED
 http://www.archreport.com.cn/show-11-3319-1.html
