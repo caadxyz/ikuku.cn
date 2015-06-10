@@ -1,3 +1,5 @@
+**建筑类媒体**  
+
 欣建筑(台湾)
 http://solomo.xinmedia.com/archi/21759-ikuku
 
