@@ -5,19 +5,18 @@ academy.ikuku.cn是建立在ikuku.cn平台上的开放性（open）学术研究�
  **项目列表**
 -----  
 
-
-* [90年代建筑群体观察](cases/90s.md)
+* [尼泊尔地震
+全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 * [各年级在校生作业展](cases/study.md)
 * [影像工作室(image studio)](cases/imagestudio.md)
 * [百年华人建筑库](cases/100.md)
 * [乡村工具包](cases/vallage.md)
+* [90年代建筑群体观察](cases/90s.md)
+* [find a new way to design a building](README.md)  
 * [BIM & CAAD](https://github.com/caadxyz/bim)
 * [eth caad alumni](cases/ethcaad.md)
 * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [de talk](cases/detalk.md)
-* [find a new way to design a building](README.md)  
-* [尼泊尔地震
-全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 
 
 
