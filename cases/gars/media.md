@@ -30,6 +30,9 @@ http://blog.archpaper.com/competitions/gars-nepal-tebit-earthquake-emergency-cal
 Archdaily
 http://www.archdaily.com/640481/open-call-gars-nepal-tibet-earthquake-emergency-reconstruction-competition/  
 
+Competitions.archi
+http://competitions.archi/competition/gars-nepal-tebit-earthquake-emergency/
+
 
 UED
 http://www.archreport.com.cn/show-11-3319-1.html
