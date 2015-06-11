@@ -337,11 +337,13 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 方案评审时间：2015年7月11日——2015年7月20日  
 结果发布时间：2015年7月25日  
 
-Start-up：June 1,2015  
-Q&A: June 1-10,2015  
-Deadline：July 10，2015    
-Selection : July 11, 2015 –July 20,2015    
-Results：July 25，2015  
+Timeline:
+Launch: 1st June, 2015
+Deadline for Q&As: 10th June, 2015
+Submission Deadline. 10th July, 2015
+Selection Period: 11-20th July, 2015
+Winner Announced: 25th July, 2015
+
 
 ## 专家评审团/Jury  
 
