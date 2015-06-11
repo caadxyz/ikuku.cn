@@ -307,7 +307,7 @@ There shall be “National Award” and “Institution Award” given to the sel
 作品无偿供全球公益使用过程中，使用者必须在建筑物适当位置刻上作者简介及创作背景。  
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。  
 Intellectual property rights belong to each candidate.
-The organizers and sponsors should be authorized by the candidate to use all the submissions for promotion, re-production, modification, publication and exhibition for free of charge. No further payment will be charged by using images and texts of all the submissions.
+The organizers and initiators should be authorized by the candidate to use all the submissions for promotion, re-production, modification, publication and exhibition for free of charge. No further payment will be charged by using images and texts of all the submissions.
 Each candidate should declare the contents of all the related documents and materials of their submission have no conflict to any plagiarism. If there are any disputes involving copyright and legal conflicts in the future that might damage reputation of the organizers, the candidates involved should be disqualified from the competition and be responsible for all the legal consequences.
 During the competition, all the uses of works for organizer’s publication should be free of charge, brief introduction of the candidates and the design backgrounds will be shown at a proper place of the building. For the advertising purposes, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.
 
