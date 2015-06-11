@@ -423,8 +423,8 @@ Yuan Ye: Doctor of the Department of Architecture, Tsinghua University,;designer
 马海东 ikuku.cn|在库言库创始人   
 Ma Haidong ikuku.cn founder
 
-Sujet 中国-尼泊尔经贸促进会会长  
-Sujet: President of China-Nepal Economic and Trade Promotion Association.
+Sujeet 中国-尼泊尔经贸促进会会长  
+Sujeet: President of China-Nepal Economic and Trade Promotion Association.
 
 
 ### 活动新闻发言人/spokesman for this activity    
