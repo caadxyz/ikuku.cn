@@ -243,7 +243,7 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 * 参加者同时需要填写个人简介。
 * Login to ikuku user center(if you are not an ikuku user you need to register first).
 * After clicking the'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number of qualification for competition.
-* Participants need to fill in personal profile in ikuku user center.  
+* Each candidate need to fill in personal profile in ikuku user center.  
 
 
 
@@ -256,29 +256,30 @@ Electronic documentaries are required(in duplicate).
 * 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
 * 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
 In "user center -> My competition", the user can click on "update"to submit or update each proposal.
-If you are in a team you need to click on "participants" or "team"to fill in the related information.
+Applications can be individual or in groups, each candidate should select either "participants" or "team" while filling in the information.
 
 **pdf格式/format**  
 * 300dpi，不多于5张的A3横构图图纸
 * 每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm
 * 发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
-* 300dpi, The results typesetting in no more than five A3 horizontal composition of drawings, and on the top right corner of every drawing, the registration number is supposed to be clearly indicated in 40×10mm.
-* Please send the outcome of proposal to  nepaltibet@163.com  with a title in this format：GARS- registration number.
+* 300dpi with no more than 5nos. of sheets submission, all should be in A3 Landscape pdf format.
+* Candidates's registration number should be clearly shown at the top right hand corner of each sheet, font size in 40X10mm.
+* Submissions should be sent via email to nepaltibet@163.com with subject title as 'GARS-XXX', XXX is the candidate's registration number'
 
 
 ### 5. 评选规则/selection rules  
 
 * 评选形式：全部评选在网络上完成
-* All will be completed online.
+* All shall be completed online.
 
 * 评选办法/The selection rules：
 * 网络排名：网络热门评选，从AB两种类型中（A灾中应急建筑，B灾后重建建筑），各评选出20名入围方案，并产生排名。产生的办法是基于方案的热度，其衡量的因素主要包括点击数、分享数、收藏数以及评论数等。
 * 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。  
-* Online ranking:  Based on the popularity which is related to the number of clicks, shares, favorites and comments, 20 projects from each type will come into the finalists, and the ranking comes out at the same time.
-* Experts selection：All experts will vote on the finalists online to select one first-prize,two second-prize,five third -prize from type A and type B respectively.
+* Online ranking:  Based on the popularity which is related to the number of votes, shares, favorites and comments, 20 projects from each category shall enter the finalists with the ranking shown.
+* Experts selection：All experts will vote for the finalists online to select 1no. of first-prize,2nos. of second-prize, 5nos. of third-prize for both categories A and B respectively.
 
 
-### 6. 颁奖方式/Awards Ceremony      
+### 6. 颁奖方式/Awards     
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。  
 其他顾问费、奖品及证书由主办方及赞助商承担。  
@@ -289,13 +290,13 @@ If you are in a team you need to click on "participants" or "team"to fill in the
 （颁奖典礼时间待定）
 
 
-We will invite world-famous post-disaster reconstruction experts to present the awards at the live webcast ceremony, and winners deliver their acceptance speech by video.  
-Other consultants’ fee,awards and certificates will be provided by the organizers and sponsors.  
-Designers of the finalists will all get awards and certificates   
-All the authors can get a medal of “GCRS Hope Design”.  
-Organizers will select the “National Award” and “Institution Award” who are supportive to our activity.  
+Well-known post-disaster reconstruction experts shall be invited to present the awards in live webcast ceremony, and winners will deliver their acceptance speeches in front of the camera.
+All consultancy fees,prizes and certificates shall be provided by the organizers and sponsors.  
+Designers of the finalists shall receive their certificates and prizes.
+Every candidate shall be awarded with a medal of “GCRS Hope Design”.  
+There shall be “National Award” and “Institution Award” given to the selected candidates who show the biggest support the event.  
 
-(The time of ceremony is to be determined).
+(Date and time of award ceremony to be confirmed).
 
 
 ### 7. 知识产权/Intellectual property rights  
@@ -305,19 +306,18 @@ Organizers will select the “National Award” and “Institution Award” who 
 作者声明报名之相关文件与资料，其内容确实无侵犯他人之著作权，日后若有涉及作品版权之纠纷，以致损毁主办单位之名誉，本人（团队）愿负法律之责任，并退回奖金及奖状。  
 作品无偿供全球公益使用过程中，使用者必须在建筑物适当位置刻上作者简介及创作背景。  
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。  
-Intellectual property rights belong to the author of the works.  
-Authors authorize the organizers and sponsors to use the rights of promoting ，remaking ,modifying, publishing, exhibition free of charge by using images and texts of the works and to use other related rights publicly without any other payment or premium.  
-The author need to declare the contents of the related documents and materials of the registered project do not infringe the copyright of others. If there are any disputes involving copyright works in the future that makes damage to the reputation of the organizer , the author (team) will bear legal responsibility, and return the bonuses and awards.  
-During the process of the use of works for global public good free of charge, brief introdution of the author and the designing background need to be marked at a proper place of the building. 
-In the process of commercialization, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.  
+Intellectual property rights belong to each candidate.
+The organizers and sponsors should be authorized by the candidate to use all the submissions for promotion, re-production, modification, publication and exhibition for free of charge. No further payment will be charged by using images and texts of all the submissions.
+Each candidate should declare the contents of all the related documents and materials of their submission have no conflict to any plagiarism. If there are any disputes involving copyright and legal conflicts in the future that might damage reputation of the organizers, the candidates involved should be disqualified from the competition and be responsible for all the legal consequences.
+During the competition, all the uses of works for organizer’s publication should be free of charge, brief introduction of the candidates and the design backgrounds will be shown at a proper place of the building. For the advertising purposes, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.
 
 
 
-### 8. 建造实施/Construction     
+### 8. 建造实施/post-competition Real Construction     
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
-Further adjustment and perfections will be made to the projects that come from award-winning works(both from network and expert evaluation)which are emphatically recommended by the judges ,and these projects will have the opportunity to be built in disaster-hit areas, the construction fee of which is responsible by the organizers.   
+There will be opportunity for all the winners (both from network and expert evaluation) to realize their deisgn projects in real construction in disaster-hit areas, with further amendments recommended by the jury and organizers. All the costs shall be provided by the organizers.
 
 
 ### 9. 展览展示/Exhibition  
@@ -325,8 +325,8 @@ Further adjustment and perfections will be made to the projects that come from a
 获奖作品经GCRS专家委员会确认后，在GCRS全球应急救灾物资云计算永久性展示大厦建造陈列。建造成本由主办方负责。  
 线上展览：ikuku在库言库网永久展示、各大协办线上媒体合作报道。  
 线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）  
-The awarded projects confirmed by GCRS committee of experts will be exhibited at the exhibition mansion of cloud computing of GCRS permanently. The fee will be responsible by the organizer.   
-Online exhibition: permanent exhibition on www.ikuku.cn ,  and other online co-media will be reporting as well.  
+The awarded projects confirmed by GCRS committee of experts will be displayed permanently at the exhibition mansion of cloud computing of GCRS. All the costs shall be provided by the organizers.   
+Online publication: permanently published on www.ikuku.cn and reported by other online co-media.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
 
 ## 活动时间/Calendar  
