@@ -379,10 +379,10 @@ Doctor of Sociology Department of Tsinghua University. The main research directi
 
 
 Sujeet Babu Shrestha ：中国-尼泊尔经贸促进会会长  
-Sujeet Babu Shrestha ：President of China-Nepal Economy and Trade Promotion Association  
+Sujeet Babu Shrestha ：President of China-Nepal Economy and Trade Promotion Association.  
 
 Lamo thpa ：尼泊尔建筑师
-Lamo thpa ： well-known native architect from Nepal.
+Lamo thpa ：Native architect from Nepal.
 
 
 ### 主办单位/Organizers    
@@ -396,9 +396,6 @@ ikuku.cn|在库言库 www.ikuku.cn/competition
 
 中国扶贫基金会、中国红十字基金—抗震公益基金
 China Foundation of Poverty Alleviation, Chinese Red Cross Foundation-Public Foundation for resisting earthquake.
-
-### 当地顾问专家小组/Local consultants  
-[Rajendra Shrestha](#),  [Saroj  Shrestha](#)  
 
 ### 协办建筑媒体/Architectural co-media  
 
@@ -427,9 +424,21 @@ Sujeet 中国-尼泊尔经贸促进会会长
 Sujeet: President of China-Nepal Economic and Trade Promotion Association.
 
 
+### 尼泊尔当地协调人/Coordinator from Nepal
+Rajendra Shrestha :  Entrepreneur 
+Business Development Director: ESTS Pvt. Ltd. Director: Citizen Hydropower Pvt. Ltd.
+Academics: MBA from Tribhuvan University, Nepal
+Resource/Strength: Has reliable contacts with important suppliers of Infrastructure related industries/projects as well as other supplier of goods and services at domestic and Int’l front. Major supplier of goods and services to many projects including Hydro Power Projects, hotels and Apartments.
+
+### 结构专业顾问/ Structural consultant 
+Saroj  Shrestha: Structural Engineer
+Davis, Bowen & Friedel, Inc., Salisbury, Maryland, USA 
+Masters of Science in Structural Engineering,University of Mississippi, University, Mississippi, USA (Aug 99 – May 02)
+Bachelor of Science in Civil Engineering, Kuvempu University, Karnataka, India. (Aug 92 - Nov 96)
+15+ years of cumulative experience in structural design, analysis, and construction of Building Structures, Bridges, Baseball Stadiums, and Retaining Walls.
+
 ### 活动新闻发言人/spokesman for this activity    
 包千石/Bao Qianshi
-
 
 ### 活动咨询与答疑/contacts & QA   
 邮箱/email: nepaltibet@163.com  
