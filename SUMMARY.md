@@ -10,6 +10,7 @@
 * [案例](cases.md)
    * [90年代建筑群体观察](cases/90s.md)
        * [问题汇总](cases/90s/q.md)
+       * [合肥工业大学](cases/90s/hgd.md)
    * [各年级在校生作业展](cases/study.md)
    * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
    * [影像工作室(image studio)](cases/imagestudio.md)
