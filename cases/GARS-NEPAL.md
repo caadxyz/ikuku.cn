@@ -329,7 +329,7 @@ The awarded projects confirmed by GCRS committee of experts will be displayed pe
 Online publication: permanently published on www.ikuku.cn and reported by other online co-media.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
 
-## 活动时间/Calendar  
+## 活动时间/Timeline  
 
 活动启动时间：2015年6月1日  
 活动答疑时间：2015年6月1日-10日  
@@ -337,7 +337,6 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 方案评审时间：2015年7月11日——2015年7月20日  
 结果发布时间：2015年7月25日  
 
-Timeline:
 Launch: 1st June, 2015
 Deadline for Q&As: 10th June, 2015
 Submission Deadline. 10th July, 2015
