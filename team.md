@@ -36,4 +36,4 @@ interns
 [晁酷酷](http://www.ikuku.cn/name/9551)：交大事务  
 [万林潇谊](http://www.ikuku.cn/name/9549)：ETH-caad  
 [张琳](http://www.ikuku.cn/name/9555)： 央美事务  
-[]
+[徐传语](https://github.com/colormaco) 90s  
