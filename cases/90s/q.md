@@ -3,7 +3,7 @@
 与自己相关的问题:   
 * 求学过程  
 * 实践过程   
-可以在[wenda.ikuku.cn]()上提以上问题。
+可以在[wenda.ikuku.cn](http://wenda.ikuku.cn/index.php?qa=4670)上提以上问题。
 
 影响到自己的问题:  
 * 对教育的看法   
