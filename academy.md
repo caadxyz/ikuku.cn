@@ -25,10 +25,9 @@ academy.ikuku.cn是建立在ikuku.cn平台上的[开放只要（open source）](
 **什么是academy.ikuku.cn**
 --------
 
+academy.ikuku.cn is a open source and non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions.   
 
-academy.ikuku.cn is a non-profit making association of institutions and individuals with a common interest in promoting good practice and sharing information in relation to the use of internet in research and education in urban strategy and related professions.   
-
-website: http://academy.ikuku.cn
+website: http://academy.ikuku.cn hosting at github and support by www.ikuku.cn
 
 开放学院是一个跨学科和非盈利的城市研究组织。它由建筑实践的参与者，IT工程师及相关其他专业人士发起，旨在通过搭建一个基于网络技术来共享和传播知识与见解的研究平台，针对当下中国的城镇化进程中的问题进行主动性反思和预见性研究，并通过组织跨学科、多领域的论证，准确地提出问题，全面地分析问题，和系统化地提出解决方案，借此推动全社会关于建筑与城市的讨论。
 
