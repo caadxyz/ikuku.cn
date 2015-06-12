@@ -1,6 +1,7 @@
 #team   
 
-我们相信开放是一种力量，象磁铁一样吸引着优秀的人才    
+我们相信开放是一种力量，象磁铁一样吸引着优秀的人才   
+We believe that opening up is a force, like a magnet to attract talents.  
 
 O2O coummunity
 ------
@@ -35,3 +36,4 @@ interns
 [晁酷酷](http://www.ikuku.cn/name/9551)：交大事务  
 [万林潇谊](http://www.ikuku.cn/name/9549)：ETH-caad  
 [张琳](http://www.ikuku.cn/name/9555)： 央美事务  
+[]
