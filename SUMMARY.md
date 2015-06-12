@@ -14,6 +14,7 @@
    * [各年级在校生作业展](cases/study.md)
    * [90年代建筑群体观察](cases/90s.md)
        * [相关问题汇总](cases/90s/q.md)
+       * [小组组建教程](cases/90s/team-setup.md)
        * [视频制作教程](cases/90s/video-tutorial.md)
    * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
    * [影像工作室(image studio)](cases/imagestudio.md)
