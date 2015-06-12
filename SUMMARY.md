@@ -25,7 +25,6 @@
    * [de talk](cases/detalk.md)
    * [在库言库使用手册](cases/ikuku-guide.md)
 * [团队](team.md)
-* [使用手册](guide.md)
-   * [编写规则](guide/editor.md)
+* [编写规则](guide.md)
    * [中英对照](guide/ce.md)
 
