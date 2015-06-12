@@ -99,7 +99,7 @@ There are many advantages to being a member of academy.ikuku.cn that include:
     学术机构  
     规划部门  
     民间团体  
-    众筹 追梦网  众筹网  腾讯公益  
+    (拟)众筹 追梦网  众筹网  腾讯公益  
 
 **academy.ikuku.cn已经与哪些研究机构一起合作过？**  
 -----
