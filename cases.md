@@ -18,14 +18,21 @@ DotGeek，不只是一家咖啡馆。在不同领域中最专注和追求极致�
 
 ## 开放学院 
 
-* [尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
-* [90年代建筑群体观察](cases/90s.md)
-* [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
-* [影像工作室(image studio)](cases/imagestudio.md)
-* [百年华人建筑库](cases/100.md)
-* [BIM & CAAD](https://github.com/caadxyz/bim)
-* [eth caad alumni](cases/ethcaad.md)
-* [乡村工具包](cases/vallage.md)
-* [de talk](cases/detalk.md)  
+   * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
+       * [媒体报道](cases/gars/media.md)
+       * [志愿者行动](cases/gars/volunteer.md)
+   * [各年级在校生作业展](cases/study.md)
+   * [90年代建筑群体观察](cases/90s.md)
+       * [相关问题汇总](cases/90s/q.md)
+       * [小组组建教程](cases/90s/team-setup.md)
+       * [视频制作教程](cases/90s/video-tutorial.md)
+   * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
+   * [影像工作室(image studio)](cases/imagestudio.md)
+   * [百年华人建筑库](cases/100.md)
+   * [BIM & CAAD](https://github.com/caadxyz/bim)
+   * [eth caad alumni](cases/ethcaad.md)
+   * [乡村工具包](cases/vallage.md)
+   * [de talk](cases/detalk.md)
+   * [在库言库使用手册](cases/ikuku-guide.md)
 
 
