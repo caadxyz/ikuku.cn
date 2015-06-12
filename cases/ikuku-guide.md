@@ -1,6 +1,6 @@
 # 在库言库使用手册
 
-图片版本
+[图片版本](https://www.gitbook.com/book/caad/guide-ikuku-cn)
 
 使用ikuku的一句话流程：注册/登陆账号，在用户中心上传/修改项目，推送给ikuku，项目被ikuku收录。
 
