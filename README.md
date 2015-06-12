@@ -8,9 +8,9 @@ alpha version
 **events**  
 
 2012.1.1 ikuku.cn|在库言库上线。  
-2015.4.18 第一个由ikuku.cn匹配而完成的建筑项目开业。  
-2015.4.22 ikuku.cns上用户上传的作品达到[6666件]()。     
-2015.6.1 开放学院的第一个全球互联网竞赛项目发布。
+2015.4.18 第一个由ikuku.cn匹配而完成的[建筑项目]()开业。  
+2015.4.22 ikuku.cns上用户上传的作品达到[6666件](http://www.ikuku.cn/project)。     
+2015.6.1 开放学院的第一个[全球互联网竞赛项目](http://www.ikuku.cn/competition)发布。
 
 
 **version**   
