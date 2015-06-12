@@ -1,6 +1,6 @@
-# 商业行为：建筑及装修
+# 商业行为：建筑及装修行业
 
-architectures and interior decoration
+architectures and interior decoration  
 云工作室凭借互联网及数字技术协助需求方发展项目，参与到设计及生产流程中去，与建筑师、施工单位及相关产品、厂家对接，提高项目完成度。
 
 **大数据服务：**  
