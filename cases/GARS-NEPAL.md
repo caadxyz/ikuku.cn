@@ -427,15 +427,12 @@ Sujeet: President of China-Nepal Economic and Trade Promotion Association.
 
 ### 尼泊尔当地协调人/Coordinator from Nepal.
 Rajendra Shrestha :  Entrepreneur.  
-Business Development Director: ESTS Pvt. Ltd. Director: Citizen Hydropower Pvt. Ltd.
-Academics: MBA from Tribhuvan University, Nepal.
-Resource/Strength: Has reliable contacts with important suppliers of Infrastructure related industries/projects as well as other supplier of goods and services at domestic and Int’l front. Major supplier of goods and services to many projects including Hydro Power Projects, hotels and Apartments.
+MBA from Tribhuvan University, Nepal.
 
 ### 结构专业顾问/ Structural consultant.  
 Saroj  Shrestha: Structural Engineer.
 Davis, Bowen & Friedel, Inc., Salisbury, Maryland, USA. 
-Masters of Science in Structural Engineering,University of Mississippi, University, Mississippi, USA (Aug 99 – May 02).
-Bachelor of Science in Civil Engineering, Kuvempu University, Karnataka, India. (Aug 92 - Nov 96).
+Masters of Science in Structural Engineering,University of Mississippi, University, Mississippi, USA.
 15+ years of cumulative experience in structural design, analysis, and construction of Building Structures, Bridges, Baseball Stadiums, and Retaining Walls.
 
 ### 活动新闻发言人/spokesman for this activity    
