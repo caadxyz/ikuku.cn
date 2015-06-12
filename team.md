@@ -11,17 +11,12 @@ xin huang
 academy members
 --------
 
-**person**  
-
-[dimitry demin](http://www.ikuku.cn/name/8929)  
-dengyaya  
-[ma haidong](http://www.ikuku.cn/name/7673)  
-  
-linafan  
-yucam  
-
-**supporter by**  
-mat office
+* [dimitry demin](http://www.ikuku.cn/name/8929)  
+* dengyaya  
+* [ma haidong](http://www.ikuku.cn/name/7673)  
+* linafan  
+* yucam 
+* mat office
 
 cloud studio
 -----
