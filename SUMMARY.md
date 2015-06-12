@@ -23,6 +23,7 @@
    * [eth caad alumni](cases/ethcaad.md)
    * [乡村工具包](cases/vallage.md)
    * [de talk](cases/detalk.md)
+   * [在库言库使用手册](cases/ikuku-guide.md)
 * [团队](team.md)
 * [使用手册](guide.md)
    * [编写规则](guide/editor.md)
