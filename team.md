@@ -11,12 +11,17 @@ xin huang
 academy members
 --------
 
-* [dimitry demin](https://github.com/2D)  
-* dengyaya  
-* [ma haidong](http://www.ikuku.cn/name/7673)  
-* linafan  
-* yucam 
-* [mat office]()
+* https://github.com/2D
+* https://github.com/chaokuku  
+* https://github.com/charmings  
+* https://github.com/colormaco  
+* https://github.com/dengyaya   
+* https://github.com/linyalinya  
+* https://github.com/mahaidong  
+* https://github.com/matoffice  
+* https://github.com/nana7989  
+* https://github.com/QSILENTIDE  
+* https://github.com/yuanyejianzhu
 
 cloud studio
 -----
