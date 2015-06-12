@@ -8,13 +8,10 @@
 
 **服务项目：**  
 * 基于大数据的项目可行性研究、任务书起草及项目委托或者招标。
+* project hosting 项目托管 
+* Product Sourcing 产品采购 
 * 基于众创的概念设计工作、产品设计流程。 
-* CAAD  
-
-
-
-1. project hosting 项目托管 
-2. Product Sourcing 产品采购   
+* CAAD 
 
 
 **产品(products)**  
