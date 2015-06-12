@@ -13,10 +13,7 @@ architectures and interior decoration
 * CAAD 
 
 **衍生产品**  
-基于生态圈的理念与线上及线下的团队或者平台一起合作完成将商业行为延伸到产品中的设计环节（生态链上的合作对象如： [加意](http://jiae.com/)、[太火鸟](http://www.taihuoniao.com/)、[造作](http://zaozuo.com)等）
-
-* 家具设计  
-* 生活产品设计  
+* 基于生态圈的理念与线上及线下的团队或者平台一起合作完成将商业行为延伸到产品中的设计环节（生态链上的合作对象如： [加意](http://jiae.com/)、[太火鸟](http://www.taihuoniao.com/)、[造作](http://zaozuo.com)等）
 
 
 **问答：**
