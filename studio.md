@@ -16,7 +16,7 @@ architectures and interior decoration
 * 基于生态圈的理念与线上及线下的团队或者平台一起合作完成将商业行为延伸到产品中的设计环节（生态链上的合作对象如： [加意](http://jiae.com/)、[太火鸟](http://www.taihuoniao.com/)、[造作](http://zaozuo.com)等）。
 
 
-**问答：**
+**相关问答：**
 
 1. 甲方如何能信任ikuku.cn?  
    答：ikuku相信——建筑设计行业好ikuku好，ikuku好建筑设计行业好。
@@ -25,5 +25,5 @@ architectures and interior decoration
 ikuku基于大数据及云办公的优势，在合理的成本范围内，协助建筑师提高项目的完成度。
 
 
-**[相关案例](cases.md)**  
+点击这里查看**[相关案例](cases.md)**。  
 
