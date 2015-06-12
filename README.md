@@ -9,7 +9,7 @@ alpha version
 
 2012.1.1 ikuku.cn|在库言库上线。  
 2015.4.18 第一个由ikuku.cn匹配而完成的建筑项目开业。  
-2015.4.22 ikuku.cns上用户上传的作品达到6666件。     
+2015.4.22 ikuku.cns上用户上传的作品达到[6666件]()。     
 2015.6.1 开放学院的第一个全球互联网竞赛项目发布。
 
 
@@ -30,6 +30,7 @@ alpha version
 5. [地图](http://www.ikuku.cn/map.php)  
 6. [案例](cases.md)
 7. [团队](team.md)  
+8. [编写手册](guide.md)
 
 
 &copy;academy.ikuku.cn 2015
