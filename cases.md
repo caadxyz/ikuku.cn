@@ -18,6 +18,7 @@ DotGeek，不只是一家咖啡馆。在不同领域中最专注和追求极致�
 
 ## 开放学院 
 
+* [尼泊尔大地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 * [90年代建筑群体观察](cases/90s.md)
 * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [影像工作室(image studio)](cases/imagestudio.md)
@@ -26,6 +27,5 @@ DotGeek，不只是一家咖啡馆。在不同领域中最专注和追求极致�
 * [eth caad alumni](cases/ethcaad.md)
 * [乡村工具包](cases/vallage.md)
 * [de talk](cases/detalk.md)  
-* [尼泊尔大地震
-全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
+
 
