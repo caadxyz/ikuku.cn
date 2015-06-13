@@ -30,7 +30,6 @@ http://ikuku.caad.xyz
 5. [地图](http://www.ikuku.cn/map.php)  
 6. [案例](cases.md)
 7. [团队](team.md)  
-8. [编写手册](guide.md)
 
 
 &copy;academy.ikuku.cn 2015 alpha version 
