@@ -378,12 +378,9 @@ Expert of the secure and identification of structural engineering, Doctor of the
  
 Doctor of Sociology Department of Tsinghua University. The main research direction is community self-organization and social networks. Executive consultant at Research Center of the Lutheran community in Tsinghua University School of Social Sciences. After 2008 Wenchuan Earthquake deeply involved in rural reconstruction. Long-term observation of Taiwan and the mainland areas of community building experience. Worked in the Chinese Academy of Social Sciences Documentation Publishing House of Politics and Law Society branch. Co-author, "Yunchun village reconstruction Chronicle - a community self-organizing field recording experiments".  
 
+Sujeet Babu Shrestha ：工商管理博士，中国-尼泊尔经贸促进会会长.
+Sujeet Babu Shrestha ：Doctor of Business Administration. President of China-Nepal Economy and Trade Promotion Association.  
 
-Sujeet Babu Shrestha ：中国-尼泊尔经贸促进会会长  
-Sujeet Babu Shrestha ：President of China-Nepal Economy and Trade Promotion Association.  
-
-Lamo thpa ：尼泊尔建筑师
-Lamo thpa ：Native architect from Nepal.
 
 
 ### 主办单位/Organizers    
