@@ -5,7 +5,7 @@ architectures and interior decoration
 
 **大数据服务：**  
 * 基于的项目可行性研究、任务书起草及项目委托或者招标。
-* project hosting 项目托管 
+* project hosting [项目托管](cases.md) 
 * Product Sourcing 产品采购 
  
 **数字技术服务：**  
