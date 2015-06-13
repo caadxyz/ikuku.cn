@@ -11,6 +11,7 @@
    * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
        * [媒体报道](cases/gars/media.md)
        * [志愿者行动](cases/gars/volunteer.md)
+       * [评委寄语](cases/gars/jury.md)
    * [各年级在校生作业展](cases/study.md)
    * [90年代建筑群体观察](cases/90s.md)
        * [相关问题汇总](cases/90s/q.md)
