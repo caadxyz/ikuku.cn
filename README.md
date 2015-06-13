@@ -19,7 +19,7 @@ http://ikuku.caad.xyz
 
 **scope**    
 
-涉及O2O社区、开放学院、云工作室，每一部分都与互联网或移动互联网有深度的融合，"互联网+"正在静悄悄的推进着由柯布西埃、格罗皮乌斯、密斯、赖特等[现代主义建筑](https://en.wikipedia.org/wiki/Modern_architecture)先锋发展起来的传统线下建筑设计行为。
+线上线下/O2O, 开源/open source, 云/cloud "互联网+"正在静悄悄的推进着由柯布西埃、格罗皮乌斯、密斯、赖特等[现代主义建筑](https://en.wikipedia.org/wiki/Modern_architecture)先锋发展起来的传统线下建筑设计行为。
 
 
 **topic**  
