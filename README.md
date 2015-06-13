@@ -1,8 +1,6 @@
 find a new way to design a building 
 ========
 
-alpha version 
-
 **gitbook**  
 http://ikuku.caad.xyz
 
@@ -35,5 +33,5 @@ http://ikuku.caad.xyz
 8. [编写手册](guide.md)
 
 
-&copy;academy.ikuku.cn 2015
+&copy;academy.ikuku.cn 2015 alpha version 
  
