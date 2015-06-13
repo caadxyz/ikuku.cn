@@ -1,7 +1,7 @@
 find a new way to design a building 
 ========
 
-**gitbook**  
+**GitBook**  
 http://ikuku.caad.xyz
 
 **事件/events**  
