@@ -1,9 +1,10 @@
 find a new way to design a building 
 ========
 
-gitbook: http://ikuku.caad.xyz
+alpha version 
 
-alpha version  
+**gitbook**  
+http://ikuku.caad.xyz
 
 **events**  
 
