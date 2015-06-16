@@ -1,4 +1,10 @@
 {
-    "plugins": [],
-    "pluginsConfig": {}
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "ikukucaadxyz"
+        }
+    }
 }
