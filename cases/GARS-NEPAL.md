@@ -11,6 +11,7 @@ calling on architects all around the world for reconstruction designing projects
 * [港台澳及海外志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76518)
 * [大陆地区志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76249)
 * [评委寄语/Message from Jury ](gars/jury.md)
+* [选手地域分布/geographical distribution ](http://www.ikuku.cn/competition/map.php)
 
 
 
