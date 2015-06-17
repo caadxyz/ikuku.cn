@@ -316,7 +316,7 @@ During the competition, all forms of uses of the designs for organizer’s publi
 
 
 
-### 8. 建造实施/post-competition Real Construction     
+### 8. 建造实施/Post-competition Real Construction     
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
@@ -332,7 +332,7 @@ The awarded projects confirmed by GCRS committee of experts will be displayed pe
 Online publication: permanently published on www.ikuku.cn and reported by other online co-media.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
 
-## 活动时间/Calendar  
+## 活动时间/Dates 
 
 活动启动时间：2015年6月1日  
 活动答疑时间：2015年6月1日-10日  
@@ -340,11 +340,11 @@ Location of offline exhibition: the exhibition mansion of cloud computing of GCR
 方案评审时间：2015年7月11日——2015年7月20日  
 结果发布时间：2015年7月25日  
 
-Launch: 1st June, 2015
-Deadline for Q&As: 10th June, 2015
-Submission Deadline. 10th July, 2015
-Selection Period: 11-20th July, 2015
-Winner Announced: 25th July, 2015
+Launch: June 1, 2015
+Deadline for Q&As: June 1-10, 2015
+Submission Deadline: July 10, 2015
+Selection Period: July 11-20, 2015
+Winner Announced: July 25, 2015
 
 
 ## 专家评审团/Jury  
