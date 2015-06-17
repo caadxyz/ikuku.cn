@@ -178,6 +178,8 @@ Permanent Housing.
 
 **Design requirements:**  
 
+Building height: No more than two stories high
+
 Construction Site: no restriction but the buildings should have high flexibility and adaptability
 
 Geographical Constraints: Regional characteristics should be fully considered
@@ -198,7 +200,7 @@ Take Psychological counseling and comforting into consideration. Reflect humanit
 Possible to use additional elements like pictures & articles and music with the themes such as Global Citizen and Boundless Love.
 Form and style of architecture
 Fully consider the regional characteristics; the form and style should reflect cultural identities
-Building height: No more than two stories high
+
 
 **Additional merits**  
 Construction and operation costing:
@@ -219,7 +221,7 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 * 如果你上传视频，视频宜最大不能超过1分钟。宜使用字幕而不是声音来阐述你的想法（声音不是必须的，你可以使用文字、图像、动画等等。
 * 上传视频：首先你上传视频到youtube（英文）或者优酷（中文），然后在你的用户中心->我的竞赛点击任何一个方案的"更新/update"按钮,跳转到方案编辑页，在这样一页的"关联链接/extr.links"里面粘贴你的youtube或者优酷视频的链接。
 
-* Visualization (incl. model photos and renderings） 
+* Visualization (incl. model photos and renderings. Size requirement will at 4.How to submit） 
 *	Architectural drawings incl. floor plans，elevations and sections.
 *	Construction analysis diagrams.
 *	Design Descriptions (incl. design concepts, construction directions, technical and economic indicators, and construction estimation tables) 
@@ -319,7 +321,7 @@ During the competition, all forms of uses of the designs for organizer’s publi
 
 在获奖（网络及专家评审）作品中，经过评委重点推荐，遴选出若干个原型，经过设计调整和深化，将有机会在灾区建造实施，建造成本由主办方负责。
 
-There will be an opportunity for all the winners (both from network and expert evaluation) to realize their deisgn projects through real construction in disaster-hit areas, with further amendments recommended by the jury and organizers. All the costs shall be provided by the organizers.
+There will be an opportunity for all the winners (both from network and expert evaluation) to realize their deisgn projects through real construction in disaster-hit areas, with further amendments recommended by the jury and organizers. Organizers will provide all the costs.
 
 
 ### 9. 展览展示/Exhibition  
@@ -329,7 +331,7 @@ There will be an opportunity for all the winners (both from network and expert e
 线下展示地点：GCRS全球应急救灾物资云计算展示大厦（中国无锡市城南路29号无锡中粮大厦）  
 The awarded projects confirmed by GCRS committee of experts will be displayed permanently at the exhibition mansion of cloud computing of GCRS. All the costs shall be provided by the organizers.   
 Online publication: permanently published on www.ikuku.cn and reported by other online co-media.  
-Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(mansion of COFCO,NO.29, Chengnan Road,Wuxi,China).  
+Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(NO.29, mansion of COFCO, Chengnan Road,Wuxi,China).  
 
 ## 活动时间/Dates 
 
@@ -350,7 +352,7 @@ Winner Announced: July 25, 2015
 
 谢英俊/Ying-chun Hsieh:
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。 
-Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Some major awards Mr. Xie received are as follows: The third  Far East Outstanding Architectural Design Merit Award; Contribution Award of Reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service;Taiwan China Architecture Award，2002；Finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural Protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;The 2nd Life Award of the Monthly Magazine The Sound of Man; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.    
+Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Major awards Mr. Xie received are as follows: The third  Far East Outstanding Architectural Design Merit Award; Contribution Award of Reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service; Taiwan China Architecture Award，2002；Finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural Protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;The 2nd Life Award of the Monthly Magazine The Sound of Man; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.    
 
 朱竞翔/Jingxiang Zhu:   
 建筑师，学者，东南大学建筑系博士，香港中文大学副教授，轻型建筑系统专家。代表作品：盐城卫生学校图书馆，荣获2004年度WA世界建筑奖佳作奖；轻型建筑系列，荣获2010年 WA世界建筑奖优胜奖（最高奖），2010年第二届中国建筑传媒奖组委会特别提名奖。2012 年朱竞翔荣获《 华尔街日报》中文版“2012 年中国创新人物奖”。  
@@ -361,7 +363,7 @@ Architect, scholar, Doctor of Southeast University, associate professor of The C
 邱文杰/Wen-Chieh Chiu:     
 建筑师，1985年淡江大学建筑系毕业，1990年取得哈佛大学设计学院的建筑与都市设计硕士。邱文杰建筑师事务所负责人，大涵学乙设计工程有限公司设计总监。曾荣获三次台湾建筑奖，两次远东建筑奖。2007年荣获“全球华人青年建筑师奖”。代表作品：台湾921地震教育园区，荣获第三届WA世界建筑奖优胜奖（最高奖），第六届远东建筑奖，入围首届中国建筑传媒奖—最佳建筑奖。   
   
-Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985,earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award,2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA Award; Finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.  
+Architect, graduated from The Architecture Department of Taiwan Tamkang University at 1985, earned the degree of the Master of Architecture and Urban Planning of Havard University. The principle responsible person of Qiu Wenjie architect business office, design director of A+B design group. Some major awards he received: Taiwan Architecture Award for 3 times; Far East Architecture Award for twice; Global Chinese Young Architects Award, 2007.  Representative works: The Education Park of Taiwan 921 earthquake; the highest award of the third annual WA Award; Finalists of the Best Architecture Award of the 1st Chinese Media Architecture Award.  
 
 
 袁野/Ye Yuan:    
