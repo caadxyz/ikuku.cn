@@ -13,6 +13,7 @@
        * [志愿者行动](cases/gars/volunteer.md)
        * [评委寄语](cases/gars/jury.md)
        * [海外宣传](cases/gars/op.md)
+       * [当地需求](cases/gars/local-story.md)
    * [各年级在校生作业展](cases/study.md)
    * [90年代建筑群体观察](cases/90s.md)
        * [相关问题汇总](cases/90s/q.md)
