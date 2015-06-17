@@ -27,7 +27,26 @@ best,
 initiator: Bao Qianshi,Yuan Ye,Ma Haidong,Sujeet Babu Shrestha
 2015.6
 
-第二步 由志愿者发邮件给给学习及他们能联系到的资源
+第二步 由志愿者发邮件给学校及他们能联系到的资源，并且forward给举办方
+
+Dear 【XXX】,
+
+I am a student at 【XXX】. I am writing to share the following information:
+
+GCRS Global-Building Love disaster-aid material trade centre together with Dr. Yuan Ye from Tsinghua University, China, Mr. Haidong Ma, founder of Ikuku.cn and Sujet, China/Nepal Economic and Trade Promotion Association have launched an international architectural competition for the reconstruction design projects for NEPAL TIBET Earthquake happened this year. They would like to kindly invite students at all levels and staffs at the University of 【XXX】 to participate in the competitions.
+
+May I ask if you can kindly pass the following email on to the whole department for this invitation?  It would be great for our students and staffs to take part in it now. The competition is currently open to submission and the closing date is 10th July 2015.
+
+Timeline:
+Launch: 1st June, 2015
+Submission Deadline. 10th July, 2015
+Selection Period: 11-20th July, 2015
+Winner Announced: 25th July, 2015
+
+Thank you very much and I sincerely lookf forward to your very kind help and reply shortly.
+
+Kind Regards,
+XXX
 
 
 
