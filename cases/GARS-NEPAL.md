@@ -3,21 +3,21 @@
 ----
 
 **[English]GARS-NEPAL.TIBET Earthquake Emergency:**  
-calling on architects all around the world for reconstruction designing projects
+calling on architects all around the world for reconstruction designs
 
 ----
 
-* [媒体报道/Meida Report](gars/media.md)
+* [媒体报道/Media Report](gars/media.md)
 * [港台澳及海外志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76518)
-* [大陆地区志愿者行动/Volunteer Action](http://www.ikuku.cn/post/76249)
-* [评委寄语/Message from Jury ](gars/jury.md)
-* [选手地域分布/geographical distribution ](http://www.ikuku.cn/competition/map.php)
+* [大陆地区志愿者行动/Volunteer Action (China)](http://www.ikuku.cn/post/76249)
+* [评委寄语/Message from the Juries ](gars/jury.md)
+* [选手地域分布/Geographical Distribution ](http://www.ikuku.cn/competition/map.php)
 
 
 
 
 
-## 主题/Theme
+## 主题/Objectives
 
 
 1. 征集全球建筑师，积极参与尼泊尔-西藏地震灾后重建的设计，以建筑师的名义和专业力量，为尼泊尔-西藏地震灾区奉献爱心，实践建筑师的社会理想。
@@ -25,7 +25,7 @@ calling on architects all around the world for reconstruction designing projects
 3. 为全球自然灾害灾后重建提供专业的交流平台，促进灾后重建建筑人才的培养和储备。
 
 
-1.	To invite knowledgeable and professional architects from all around the world to take part in the  reconstruction works in Nepal (incl. China Tibet) after the earthquakes.
+1.	To invite knowledgeable and professional architects from around the world to take part in the  reconstruction works in Nepal and Tibet after the earthquake.
 2.	To gain post-disaster reconstruction experience and establish an open platform among architects for future relevant projects.
 3.	To encourage professional exchange platforms for the public and the future architects.
 
@@ -38,14 +38,14 @@ calling on architects all around the world for reconstruction designing projects
 * 二等奖4位（AB类型各2位），奖金各10,000美元，并获得证书及奖牌  
 * 三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
  入围24位（AB类型各12位），获得证书及奖品  
-* Total Prize:100,000 dollars.
-* Each one of A and B Categories shall receive:
-	•	1no. of First Prize, 20,000 dollars with the certificate and medal for each prize.
-	•	2nos. of Second Prize, 10,000 dollars with the certificate and medal for each prize.
-	•	5nos. of Third Prize, 2,000 dollars with the certificate and medal for each prize.
-	•	12nos. of shortlisted prizes with certificate.
+* US$100,000 Total Prize
+* Each categories (A&B) shall receive:
+	•	1st Prize: $20,000 with a certificate and medal (1 per category)
+	•	2nd Prize: $10,000 with a certificate and medal (2 per category)
+	•	3rd Prize: $2,000 with a certificate and medal (5 per category)
+	•	Shortlisted Entries: certificate and a prize. (12 per category)
 
-### 1. 设计内容/Designing contents  
+### 1. 设计内容/Categories 
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
 
@@ -130,11 +130,11 @@ calling on architects all around the world for reconstruction designing projects
 Two types are included: mid-disaster emergency buildings and post-disaster reconstruction. 
 
 **Category A. Mid-diaster Emergency Buildings**     
-* GARSA1. Emergency shelters;
-* GARSA2. Temporary housing;
-* GARSA3. Temporary classrooms (primary schools and middle schools); 
-* GARSA4. Temporary kindergartens;
-* GARSA5. Temporary hospitals.
+* GARSA1: Emergency shelters
+* GARSA2: Temporary housing
+* GARSA3: Temporary classrooms (primary schools and middle schools)
+* GARSA4: Temporary kindergartens
+* GARSA5: Temporary hospitals
 (Choose one or more).
 
 **Design requirements**  
@@ -151,29 +151,30 @@ It is also important to fit at least one piece of the following requirements:
 
 Can be rapidly built and massively reproduced, can be constructed with light machines and small tools by local residents and volunteers.
 
-Sustainability should be considered by means of environment-friendly,energy-sufficient and renewable resources as well as new materials.
+Sustainability should be considered by means of eco-friendliness, energy-sufficiency, and renewable resources as well as new materials.
 
 Safety and Comfort:
 Structural safety requirements should be fulfilled.
 Fireproof materials should be considered.
-Excellent building physics performance including daylight conditions, ventilation system , insulation and cooling system.
+Excellent building physics performance including daylight conditions, ventilation system, and insulation and cooling system.
 Simple lighting system, ventilation fans and temporary power generation.
 Measures against insects or snakes.
 Rainwater treatment including collection and recycling.
 
 Psychological aid and humanistic concerns：
-Take Psychological counseling and comforting into consideration. Reflect humanitarianism concern.
-Possible to use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
-Building height: restricted to be no more than two storeys high.
+Take psychological counseling and comforting into consideration. Reflect on humanitarianism concerns.
+Possible to use additional elements like pictures & articles and music with the themes such as Global Citizen and Boundless Love.
 
-**Additional merits**   
+Building height: No more than two stories high.
+
+**Additional Merits**   
 Construction and operation costing:
-Provide cost estimation as clear as possible, consider comprehensive cost and the factual effect of disaster relief. 
+Cost estimation should be provided as clear as possible; consider comprehensive cost and the factual effect of disaster relief. 
  
 
 **Category B. Post-disaster Reconstruction (GARSB):**  
 
-Permanent Housings.
+Permanent Housing.
 
 **Design requirements:**  
 
@@ -182,29 +183,29 @@ Construction Site: no restriction but the buildings should have high flexibility
 Geographical Constraints: Regional characteristics should be fully considered
 
 Materials and construction:
-Locally accessible materials.
-Sustainability should be considered by means of environment-friendly,energy-sufficient renewable resources as well as new materials.
+Locally accessible.
+Sustainability should be considered by means of eco-friendliness, energy-sufficiency, renewable resources as well as new materials.
 
 Safety and Comfort:
 Structural safety requirements should be fulfilled.
 Fireproof materials should be considered.
-Excellent building physics performance including daylight conditions, ventilation system , insulation and cooling system.
+Excellent building physics performance including daylight conditions, ventilation system, and insulation and cooling system.
 Simple lighting system, ventilation fans and temporary power generation.
 Rainwater treatment including collection and recycling.
 
 Psychological aid and humanistic concern：
 Take Psychological counseling and comforting into consideration. Reflect humanitarianism concern.
-Possible to use additional elements like pictures&articles and music with the themes such as Global Citizen and Boundless Love.
+Possible to use additional elements like pictures & articles and music with the themes such as Global Citizen and Boundless Love.
 Form and style of architecture
-Fully consider the regional characteristics,the form and style should reflect the cultural identities.
-Building height:No more than two storeys
+Fully consider the regional characteristics; the form and style should reflect cultural identities
+Building height: No more than two stories high
 
 **Additional merits**  
 Construction and operation costing:
 Clear cost estimates with comprehensive costs and the factual effects of disaster relief should be provided.
 
 
-(Notes:candidates can choose Category A and/or Category B.)
+(Notes: candidates can choose Category A and/or Category B.)
 
 ### 2. 成果要求/Submission Requirements    
 
@@ -221,12 +222,12 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 * Visualization (incl. model photos and renderings） 
 *	Architectural drawings incl. floor plans，elevations and sections.
 *	Construction analysis diagrams.
-*	Design Descriptions (incl. design concepts, construction directions, technical and economic indicators and construction estimation tables) 
+*	Design Descriptions (incl. design concepts, construction directions, technical and economic indicators, and construction estimation tables) 
 
 **Note：**    
 * Submissions should be either in English or bilingual (Engish & Chinese). Any additional formats other than those listed above incl. video and animations will be appreciated.
 * Should you include a video in the submission, subtitles are required and the video should be no more than one minute long.
-* To submit a video: First upload the video to YouTube(English) or YouKu(Chinese), then login in to your ikuku.cn ucenter->my competition page, click on "update" of any proposal, it will jump to the propsal editting page. In this page you can paste the YouTube or YouKu link to the "extr.links" section.
+* To submit a video: First upload the video to YouTube or YouKu(Chinese), then log in to your ikuku.cn account. Go to "ucenter," then "My Competition Page," and click on "update" of any proposal. It will lead to the proposal editing page. On this page you can paste your YouTube or YouKu link to the "extr.links" section.
 
 
 ### 3. 注册报名/Register now   
@@ -235,21 +236,21 @@ Clear cost estimates with comprehensive costs and the factual effects of disaste
 
 * 有志于灾后重建设计、富有社会责任感的全球各国建筑师及建筑学生，个人及团队均可参加。
 * 职业建筑师、建筑教师和在校学生（本科、硕士及博士研究生）具有平等参加资格。  
-* The competition is opened to all professional  architects, students. individuals and groups who are dedicated to contribute in architectural design for the post-disaster reconstruction with high social responsibility.
-*	Professional architects, architecture teachers and registered students（incl. undergraduates, postgraduates and doctorate students) share equal qualifications in this competition.
+* The competition is opened to all professional  architects, students, individuals, or groups who are dedicated to contribute in architectural design for the post-disaster reconstruction with high social responsibility.
+*	Professional architects, architecture academics and registered students（incl. undergraduates, graduates, and doctorate students) share equal qualifications in this competition.
 
-**报名方法/How to register**  
+**报名方法/How to Register**  
 
 * 点击并登陆到ikuku用户中心(非注册用户需要先注册)。
 * 在"用户中心->我的竞赛"中点击"立即参加"按钮,立即获得参加资格及注册号。
 * 参加者同时需要填写个人简介。
 * Login to ikuku user center(if you are not an ikuku user you need to register first).
-* After clicking the'apply now' or 'apply more' button in 'user center->my competition', you will get a registration number of qualification for competition.
-* Each candidate need to fill in personal profile in ikuku user center.  
+* After clicking the "Apply Now" or "Apply More" button in "User Center->My Competition," you will get a registration number of qualification for competition.
+* Each candidate will need to complete the "Personal Profile" in ikuku user center.  
 
 
 
-### 4. 成果提交/How to submit
+### 4. 成果提交/How to Submit
 
 本竞赛只接受电子版本（一式两份）的成果。  
 Electronic documentaries are required(in duplicate).
@@ -257,31 +258,30 @@ Electronic documentaries are required(in duplicate).
 **ikuku方案格式/ikuku proposal format**  
 * 参加者通过点击"用户中心->我的竞赛"的"更新/update"按钮完成对每个方案的提交与更新。
 * 多人参加需要在“参与人员 Participants”或 “参与团队/企业 team”栏中填写相关参与信息。
-In "user center -> My competition", the user can click on "update"to submit or update each proposal.
-Applications can be individual or in groups, each candidate should select either "participants" or "team" while filling in the information.
+In "User Center -> My Competition," the user can click on "Update" to submit or update each proposal.
+Applications can be individual or in groups. Each candidate should select either "participants" or "team" while filling in the information.
 
-**pdf格式/format**  
+**pdf格式/Format**  
 * 300dpi，不多于5张的A3横构图图纸
 * 每张图纸右上角需要清晰注明注册号码，尺寸为40×10mm
 * 发送到nepaltibet@163.com邮箱，邮件标题为GARS-注册号。
-* 300dpi with no more than 5nos. of sheets submission, all should be in A3 Landscape pdf format.
-* Candidates's registration number should be clearly shown at the top right hand corner of each sheet, font size in 40X10mm.
-* Submissions should be sent via email to nepaltibet@163.com with subject title as 'GARS-XXX', XXX is the candidate's registration number'
+* 300dpi. All should be in A3 Landscape pdf format with no more than 5 pages.
+* Candidates' registration number should be clearly shown at the top right hand corner of each sheet (font size in 40X10mm).
+* Submissions should be sent via email to nepaltibet@163.com with subject title as "GARS-XXX" (XXX is the candidate's registration number).
 
 
-### 5. 评选规则/selection rules  
+### 5. 评选规则/Selection Rules  
 
 * 评选形式：全部评选在网络上完成
 * All shall be completed online.
 
-* 评选办法/The selection rules：
+* 评选办法
 * 网络排名：网络热门评选，从AB两种类型中（A灾中应急建筑，B灾后重建建筑），各评选出20名入围方案，并产生排名。产生的办法是基于方案的热度，其衡量的因素主要包括点击数、分享数、收藏数以及评论数等。
 * 专家评选：所有专家评委通过网络，对入围方案进行终评投票，从AB两种类型中各自选出一等奖1名，二等奖2名，三等奖5名。  
-* Online ranking:  Based on the popularity which is related to the number of votes, shares, favorites and comments, 20 projects from each category shall enter the finalists with the ranking shown.
-* Experts selection：All experts will vote for the finalists online to select 1no. of first-prize,2nos. of second-prize, 5nos. of third-prize for both categories A and B respectively.
+* Online ranking: 20 shortlisted entries from each category will be chosen and ranked based on popularity (votes, shares, favorites, and comments).
+* Jury selection：Juries will vote from the shortlisted entries for each category.
 
-
-### 6. 颁奖方式/Awards     
+### 6. 颁奖方式/Award Ceremony   
 
 网络直播颁奖仪式，并邀请世界知名灾后重建专家颁奖，获奖者视频发表获奖感言。  
 其他顾问费、奖品及证书由主办方及赞助商承担。  
@@ -292,16 +292,16 @@ Applications can be individual or in groups, each candidate should select either
 （颁奖典礼时间待定）
 
 
-Well-known post-disaster reconstruction experts shall be invited to present the awards in live webcast ceremony, and winners will deliver their acceptance speeches in front of the camera.
-All consultancy fees,prizes and certificates shall be provided by the organizers and sponsors.  
-Designers of the finalists shall receive their certificates and prizes.
-Every candidate shall be awarded with a medal of “GCRS Hope Design”.  
-There shall be “National Award” and “Institution Award” given to the selected candidates who show the biggest support the event.  
+Well-known post-disaster reconstruction experts shall be invited to present the awards in a live webcast ceremony, and winners will deliver their acceptance speeches in front of the camera.
+All consultancy fees, prizes, and certificates shall be provided by the organizers and sponsors.  
+Candidates of shortlisted entries shall receive their certificates and prizes.
+All participating candidates shall be awarded with a medal “GCRS Hope Design”.
+A “National Award” and “Institution Award” will be awarded by the organisers to candidates who has shown the biggest support for the event.
 
-(Date and time of award ceremony to be confirmed).
+(Date and time of the award ceremony are to be confirmed).
 
 
-### 7. 知识产权/Intellectual property rights  
+### 7. 知识产权/Intellectual Property Rights  
 
 作品的知识产权属于作者。  
 作者同意无偿授权活动主办方及发起人使用作品的图片、图文进行宣传、重制、修改、出版、展览等权利及公开使用之各项相关权利，不另支付日后使用酬劳或权利金；   
@@ -310,8 +310,9 @@ There shall be “National Award” and “Institution Award” given to the sel
 在商业化过程中，GERS可以购买作品的知识产权的使用权，具体费用另行协商。  
 Intellectual property rights belong to each candidate.
 The organizers and initiators should be authorized by the candidate to use all the submissions for promotion, re-production, modification, publication and exhibition for free of charge. No further payment will be charged by using images and texts of all the submissions.
-Each candidate should declare the contents of all the related documents and materials of their submission have no conflict to any plagiarism. If there are any disputes involving copyright and legal conflicts in the future that might damage reputation of the organizers, the candidates involved should be disqualified from the competition and be responsible for all the legal consequences.
-During the competition, all the uses of works for organizer’s publication should be free of charge, brief introduction of the candidates and the design backgrounds will be shown at a proper place of the building. For the advertising purposes, GERS can purchase the right to use the work of intellectual property rights, and the fees will be negotiated additionally.
+Each candidate should declare that the contents of all related documents and materials of their submission have no conflict to plagiarism. If there are any disputes involving copyright and legal issues in the future that might damage the organizer's reputation, the candidates involved should be disqualified from the competition and be responsible for all the legal consequences.
+
+During the competition, all forms of uses of the designs for organizer’s publication should be free of charge, brief introduction of the candidates and the design backgrounds will be shown at a proper place of the building. GERS can purchase the right to use the design's intellectual property rights for advertising purposes, and the fees are negotiable.
 
 
 
