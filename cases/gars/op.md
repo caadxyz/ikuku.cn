@@ -5,6 +5,23 @@ facebook: https://www.facebook.com/GarsCompetition
 维护人员: 马海东, 徐传语, Jesme Zhang
 
 
+------
+
+
+感谢你参与这次竞赛的志愿者工作，成为你所在院校的联络员。请把微信名改为姓名+学校。目前志愿者可开展如下工作：
+1. 张贴海报。根据学校橱窗大小下载、打印A1或A2尺寸海报，张贴后发送微博照片@ikuku建筑网，相关费用后续将用微信支付的方式转给你。（海报共14张中英、文版，可选1--2张打印）
+海报下载地址： google drive: https://drive.google.com/folderview?id=0B0zOmRfW3JsUfmNNVEJaQm9PZ0dEUUh1WjNnM0trSzRuTV8tLUhMNFh5bEd4SmtuUUtwa0k&usp=sharing
+2. 群发邮件
+3. 协助联系参赛选手联系及答疑工作（后续活动发起人 袁野 马海东会联系你）。
+4. 有兴趣者，还可参与灾后重建项目的背景资料的整理与研究，分享到 www.ikuku.cn
+5.协助网络投票、整理、公布竞赛结果。
+
+前期宣传反馈：
+志愿者在完成1、2、两项宣传工作后，将【所在院校名称】、【志愿者姓名】、【海报张贴照片】、【网络平台宣传页面链接】，整合到一个word文档中，发送至 nepaltibet@ikuku.cn ，完成后可以@琳(︶^︶) 。
+
+-------
+
+
 群发邮件流程：
 第一步 由活动举办方发邮件给志愿者。
 
