@@ -1,5 +1,7 @@
 # 当地需求
 
+**Nuwakot地区一所学校震后故事集锦**
+
 这是我们当地的尼泊尔志愿者口述的故事：
       这是位于Nuwakot地区的一所学校，学校名字是Shree Dupcheswor Higher Secondary School。这是一所建在山区的中学，学校学生总数700人，在我们去的那天只出席了100人，有600人缺席。
       我的名字是Kabit，在6月3号这天，我和C-Center的吴老师，还有几个当地的尼泊尔志愿者，一起来到了Nuwakot地区。我们的任务是要考察震后Nuwakot地区学校和学生的实际情况。在吉普车里颠簸了将近三个小时后，我们来到了Nuwakot地区， Samundratar VDC-7，当地的一个叫 Ramawati 的村庄。
