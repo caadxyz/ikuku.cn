@@ -5,7 +5,9 @@ facebook: https://www.facebook.com/GarsCompetition
 维护人员: 马海东, 徐传语, Jesme Zhang
 
 
-邮件：
+群发邮件流程：
+第一步 由活动举办方发邮件给志愿者。
+
 Dear XXX,
 
 We organised a reconstruction design competition for Nepal Tibet Earthquake. 
@@ -23,4 +25,9 @@ I expect you can forward this letter to your architectural school and all your f
 
 best,
 initiator: Bao Qianshi,Yuan Ye,Ma Haidong,Sujeet Babu Shrestha
-2015.6.17
+2015.6
+
+第二步 由志愿者发邮件给给学习及他们能联系到的资源
+
+
+
