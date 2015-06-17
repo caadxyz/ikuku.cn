@@ -1,12 +1,5 @@
 # 海外宣传
 
-facebook: https://www.facebook.com/GarsCompetition
-
-维护人员: 马海东, 徐传语, Jesme Zhang
-
-
-------
-
 
 感谢你参与这次竞赛的志愿者工作，成为你所在院校的联络员。请把微信名改为姓名+学校。目前志愿者可开展如下工作：
 1. 张贴海报。根据学校橱窗大小下载、打印A1或A2尺寸海报，张贴后发送微博照片@ikuku建筑网，相关费用后续将用微信支付的方式转给你。（海报共14张中英、文版，可选1--2张打印）
@@ -64,6 +57,15 @@ Thank you very much and I sincerely lookf forward to your very kind help and rep
 
 Kind Regards,
 XXX
+
+
+--------
+
+facebook: https://www.facebook.com/GarsCompetition
+
+维护人员: 马海东, 徐传语, Jesme Zhang
+
+
 
 
 
