@@ -6,6 +6,7 @@
 
 **二年级**  
  * [山地小别墅 北京交通大学](http://www.ikuku.cn/article/jiaoxueshilu)  
+ * [小型公共空间——CAFA建筑学院二年级课题](http://www.ikuku.cn/article/xiaoxinggonggongkongjianeeeecafajianzhuxueyuanernianjiketi)  
 
 **三年级**  
  * [胡同邻里中心——CAFA室内专业课题](http://www.ikuku.cn/article/hutonglinlizhongxineeeecafasannianjishineizhuanyeketi)     
