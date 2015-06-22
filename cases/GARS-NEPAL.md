@@ -39,7 +39,7 @@ calling on architects all around the world for reconstruction designing projects
 * 三等奖10位（AB类型各5位），奖金各2,000美元，并获得证书及奖牌  
  入围24位（AB类型各12位），获得证书及奖品  
 
-Total bonus: 100,000 USD
+Total bonus: 100,000 USD  
 * Each one of A and B Categories shall receive:
 * 1no. of First Prize, $20,000 with the certificate and medal for each prize. 
 * 2nos. of Second Prize, $10,000 with the certificate and medal for each prize. 
