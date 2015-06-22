@@ -45,6 +45,14 @@ calling on architects all around the world for reconstruction designing projects
 	•	3rd Prize: $2,000 with a certificate and medal (5 per category)
 	•	Shortlisted Entries: certificate and a prize. (12 per category)
 
+Total bonus: 100,000 USD
+
+Each one of A and B Categories shall receive:
+* 1no. of First Prize, $20,000 with the certificate and medal for each prize. 
+* 2nos. of Second Prize, $10,000 with the certificate and medal for each prize. 
+* 5nos. of Third Prize, $2,000 with the certificate and medal for each prize. 
+* 12nos. of shortlisted prizes with certificate.
+
 
 ## 活动时间/Dates 
 
