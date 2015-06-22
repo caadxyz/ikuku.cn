@@ -45,6 +45,22 @@ calling on architects all around the world for reconstruction designing projects
 	•	3rd Prize: $2,000 with a certificate and medal (5 per category)
 	•	Shortlisted Entries: certificate and a prize. (12 per category)
 
+
+## 活动时间/Dates 
+
+活动启动时间：2015年6月1日  
+活动答疑时间：2015年6月1日-10日  
+方案征集截止时间：2015年7月10日  
+方案评审时间：2015年7月11日——2015年7月20日  
+结果发布时间：2015年7月25日  
+
+Launch: June 1, 2015
+Deadline for Q&As: June 1-10, 2015
+Submission Deadline: July 10, 2015
+Selection Period: July 11-20, 2015
+Winner Announced: July 25, 2015
+
+
 ### 1. 设计内容/Categories 
 
 设计内容分为灾中应急建筑和灾后重建项目两种类型。
@@ -333,19 +349,6 @@ The awarded projects confirmed by GCRS committee of experts will be displayed pe
 Online publication: permanently published on www.ikuku.cn and reported by other online co-media.  
 Location of offline exhibition: the exhibition mansion of cloud computing of GCRS(NO.29, mansion of COFCO, Chengnan Road,Wuxi,China).  
 
-## 活动时间/Dates 
-
-活动启动时间：2015年6月1日  
-活动答疑时间：2015年6月1日-10日  
-方案征集截止时间：2015年7月10日  
-方案评审时间：2015年7月11日——2015年7月20日  
-结果发布时间：2015年7月25日  
-
-Launch: June 1, 2015
-Deadline for Q&As: June 1-10, 2015
-Submission Deadline: July 10, 2015
-Selection Period: July 11-20, 2015
-Winner Announced: July 25, 2015
 
 
 ## 专家评审团/Jury  
