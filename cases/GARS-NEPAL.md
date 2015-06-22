@@ -29,6 +29,22 @@ calling on architects all around the world for reconstruction designing projects
 2.	To gain post-disaster reconstruction experience and establish an open platform among architects for future relevant projects.
 3.	To encourage professional exchange platforms for the public and the future architects.
 
+
+## 活动时间/Dates 
+
+活动启动时间：2015年6月1日  
+活动答疑时间：2015年6月1日-10日  
+方案征集截止时间：2015年7月10日  
+方案评审时间：2015年7月11日——2015年7月20日  
+结果发布时间：2015年7月25日  
+
+Launch: June 1, 2015
+Deadline for Q&As: June 1-10, 2015
+Submission Deadline: July 10, 2015
+Selection Period: July 11-20, 2015
+Results: July 25, 2015
+
+
 ## 奖金及规则/Prizes & Rules
 
 ### 奖金/Prizes
@@ -47,19 +63,7 @@ Total bonus: 100,000 USD
 * 12nos. of shortlisted prizes with certificate.
 
 
-## 活动时间/Dates 
 
-活动启动时间：2015年6月1日  
-活动答疑时间：2015年6月1日-10日  
-方案征集截止时间：2015年7月10日  
-方案评审时间：2015年7月11日——2015年7月20日  
-结果发布时间：2015年7月25日  
-
-Launch: June 1, 2015
-Deadline for Q&As: June 1-10, 2015
-Submission Deadline: July 10, 2015
-Selection Period: July 11-20, 2015
-Results: July 25, 2015
 
 
 ### 1. 设计内容/Categories 
