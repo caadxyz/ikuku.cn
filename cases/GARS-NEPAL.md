@@ -350,7 +350,7 @@ Winner Announced: July 25, 2015
 
 ## 专家评审团/Jury  
 
-谢英俊/Ying-chun Hsieh:
+谢英俊/Hsieh Ying-chun:
 建筑师，毕业于台湾淡江大学建筑系，“永续建筑，协力造屋”理念创立者。荣获第三届远东杰出建筑设计佳作奖，2002年，中国台湾9·21重建委员会重建贡献奖，2003年，中国台湾建筑奖社会服务贡献奖，2004年入围联合国最佳人居环境奖，2005年，侯金堆文教基金会环境保护杰出荣誉奖，2008年，第10届杰出建筑师公共服务贡献奖，中国建筑传媒奖组委会特别奖，第十二届台北市文化奖，利氏学舍第二届《人籁》月刊生命永续奖，2011年荣获柯里史东设计奖（Curry Stone Design Prize —2011 Grand Prize）。代表作品：乡村建筑系列。 
 Architect, graduated from The Architecture Department of Taiwan Tamkang University, founder of the concept of “Sustainable Architecture, Solidary Construction”. Major awards Mr. Xie received are as follows: The third  Far East Outstanding Architectural Design Merit Award; Contribution Award of Reconstruction of Taiwan，China 9.21 Reconstruction Committee; Contribution Award of Taiwan-Social Service; Taiwan China Architecture Award，2002；Finalists of the Habitat Scroll of Honor Award，2004；Distinguished Honor Award of Natural Protection，The Hou Jindui Foundation ，2005；The 10th Contribution Award of Public Services of Distinguished Architects; Special Award of Chinese Media Architecture Committee；The12th Taipei Culture Award;The 2nd Life Award of the Monthly Magazine The Sound of Man; Curry Stone Design Prize —2011 Grand Prize. Representative work：The series of Rural Architecture.    
 
