@@ -58,7 +58,7 @@ Launch: June 1, 2015
 Deadline for Q&As: June 1-10, 2015
 Submission Deadline: July 10, 2015
 Selection Period: July 11-20, 2015
-Winner Announced: July 25, 2015
+Results: July 25, 2015
 
 
 ### 1. 设计内容/Categories 
