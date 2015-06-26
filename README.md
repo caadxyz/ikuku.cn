@@ -23,7 +23,7 @@ http://ikuku.caad.xyz
 2. [开放学院](academy.md)   
 3. [云工作室](studio.md)     
 5. [地图](http://www.ikuku.cn/map.php)  
-6. [案例](cases.md)
+6. [案例](cases.md)  
 7. [团队](team.md)  
 
 
