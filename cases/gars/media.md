@@ -33,6 +33,9 @@ http://www.archdaily.com/640481/open-call-gars-nepal-tibet-earthquake-emergency-
 Competitions.archi
 http://competitions.archi/competition/gars-nepal-tebit-earthquake-emergency/
 
+architectsjournal.co.uk  
+http://www.architectsjournal.co.uk/competitions/contest-opens-for-nepal-earthquake-relief-structures/8685036.article  
+
 
 UED
 http://www.archreport.com.cn/show-11-3319-1.html
