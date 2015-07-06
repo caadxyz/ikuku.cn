@@ -17,7 +17,7 @@
 
 5.添加ikuku90s公众号，关注你自己以及所有同龄人的发声。
 
-备注：视频制作教程地址：http://www.ikuku.cn/user/18651/feed
+备注：视频制作教程地址：http://www.ikuku.cn/post/80963  
 
       第一批视频范例：http://www.ikuku.cn/user/18651/video
 
