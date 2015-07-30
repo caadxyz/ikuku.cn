@@ -32,6 +32,10 @@ xin huang
 
 [徐传语](https://github.com/colormaco) 90s  
 
+ikuku学院实习机会申请: http://www.ikuku.cn/activity/ikukuxueyuantigongshixijihui  
+ikuku总部实习机会申请: http://www.ikuku.cn/activity/ikuku-cneezaikuyankushixishengzhaomu  
+
+
 
 学院/academy members
 --------
