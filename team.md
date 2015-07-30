@@ -1,4 +1,4 @@
-#team   
+#团队/team   
 
 我们相信开放是一种力量，象磁铁一样吸引着优秀的人才   
 We believe that opening up is a force, like a magnet to attract talents.  
