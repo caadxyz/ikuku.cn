@@ -33,7 +33,21 @@ cloud studio
 interns
 --------
 
-[晁酷酷](http://www.ikuku.cn/name/9551)：交大事务  
-[万林潇谊](http://www.ikuku.cn/name/9549)：ETH-caad  
+[梁诗维](http://www.ikuku.cn/name/9703)  
+“因为我十分希望和建筑业前辈交流，而ikuku可以提供这样的机会”  
+
+[杨慧琳](http://www.ikuku.cn/name/9675)   
+“跳出大师梦的桎梏，ikuku让我看到更真实的建筑，听到更多行业的声音，认识更全面的自己。”  
+
+[晁华绪](http://www.ikuku.cn/name/9551)：交大事务  
+“我热爱建筑，我想从另一个侧面去看看她”  
+
+[万林潇谊](http://www.ikuku.cn/name/9549)：ETH-caad    
+“因为觉得建筑以后的走势一定是跟计算机紧密结合的，而ikuku的海报上明确写着与数字建筑有关，所以我来了”   
+
+
+
 [张琳](http://www.ikuku.cn/name/9555)： 央美事务  
+
+
 [徐传语](https://github.com/colormaco) 90s  
