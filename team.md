@@ -8,7 +8,7 @@ We believe that opening up is a force, like a magnet to attract talents.
 [马海东](http://www.ikuku.cn/name/7673)   产品开发 运营  
 刘非  运营  
 黄鑫  产品开发  
-门文龙 运营 客服  
+门文龙 编辑 客服  
 
 
 实习生/interns
