@@ -12,7 +12,7 @@
        * [媒体报道](cases/gars/media.md)
        * [志愿者行动](cases/gars/volunteer.md)
        * [评委寄语](cases/gars/jury.md)  
-       * [评委感言](cases/gars/jury-comments.md)
+       * [评审感言](cases/gars/jury-comments.md)
        * [海外宣传](cases/gars/op.md)
        * [当地需求](cases/gars/local-story.md)
    * [各年级在校生作业展](cases/study.md)
