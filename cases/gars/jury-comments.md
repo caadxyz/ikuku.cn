@@ -154,77 +154,110 @@ Sujeet Babu Shrestha
 
 
 
-AWARDS LIST (Publicity for 15 days)
-First-prize of Category A：19432: http://www.ikuku.cn/post/81847
-First-prize of Category B：12356: http://www.ikuku.cn/post/80013
-Second-prize
-19505 http://www.ikuku.cn/post/81091 
-19539 http://www.ikuku.cn/post/83345 
-18094 http://www.ikuku.cn/post/75561 
-19626 http://www.ikuku.cn/post/81341
-Third-prize
-17671 http://www.ikuku.cn/post/76740 
-18459 http://www.ikuku.cn/post/77072 
-19493 http://www.ikuku.cn/post/81611 
-19592 http://www.ikuku.cn/post/81194 
-18260 http://www.ikuku.cn/post/81111 
-19102 http://www.ikuku.cn/post/81609 
-18834 http://www.ikuku.cn/post/80107 
-19469 http://www.ikuku.cn/post/80625 
-17840 http://www.ikuku.cn/post/75702 
-18470 http://www.ikuku.cn/post/77936
-Nominees
-17856 http://ikuku.cn/post/74602 
-19465 http://ikuku.cn/post/80624 
-19106 http://ikuku.cn/post/82085 
-18980 http://www.ikuku.cn/post/79081 
-17725 http://www.ikuku.cn/post/76071 
-19536 http://www.ikuku.cn/post/81094 
-19054 http://www.ikuku.cn/post/79392 
-4093 http://www.ikuku.cn/post/85214 
-19392 http://www.ikuku.cn/post/80424 
-18845 http://www.ikuku.cn/post/81908 
-18978 http://www.ikuku.cn/post/79254 
-19666 http://www.ikuku.cn/post/81623 
-19608 http://www.ikuku.cn/post/81217 
-18807 http://www.ikuku.cn/post/81291 
-19549 http://www.ikuku.cn/post/81108 
-19769 http://www.ikuku.cn/post/82576 
-19280 http://www.ikuku.cn/post/87356 
-12706 http://www.ikuku.cn/post/81179 
-18017 http://www.ikuku.cn/post/75343 
-18610 http://www.ikuku.cn/post/80944 
-18133 http://www.ikuku.cn/post/75744 
-18550 http://www.ikuku.cn/post/77449 
-18625 http://www.ikuku.cn/post/78685 
-9419 http://www.ikuku.cn/post/78556
-The praise of the judges:
-The reconstruction after the earthquake is not only to solve the problem that happening at the moment,but also to solve the questions in the old time.So the degree of difficulty increased because the limits.
-This is the hardest point to judge the first prize because we need to seriously consider the implementation capacity.The second prize,the third prize,and the prize for the shortlist own their more imaginary space.Though they got their weak points.The still have chance to improve.We are looking forward to finding out more creative projects act as the pre-arranged planning for catastrophe in the future.
+**AWARDS LIST (Publicity for 15 days)**  
+
+First-prize of Category A：19432: http://www.ikuku.cn/post/81847  
+First-prize of Category B：12356: http://www.ikuku.cn/post/80013  
+
+Second-prize  
+19505 http://www.ikuku.cn/post/81091   
+19539 http://www.ikuku.cn/post/83345   
+18094 http://www.ikuku.cn/post/75561   
+19626 http://www.ikuku.cn/post/81341  
+
+Third-prize  
+17671 http://www.ikuku.cn/post/76740   
+18459 http://www.ikuku.cn/post/77072   
+19493 http://www.ikuku.cn/post/81611   
+19592 http://www.ikuku.cn/post/81194   
+18260 http://www.ikuku.cn/post/81111   
+19102 http://www.ikuku.cn/post/81609  
+18834 http://www.ikuku.cn/post/80107   
+19469 http://www.ikuku.cn/post/80625   
+17840 http://www.ikuku.cn/post/75702   
+18470 http://www.ikuku.cn/post/77936  
+
+Nominees  
+17856 http://ikuku.cn/post/74602   
+19465 http://ikuku.cn/post/80624   
+19106 http://ikuku.cn/post/82085   
+18980 http://www.ikuku.cn/post/79081   
+17725 http://www.ikuku.cn/post/76071   
+19536 http://www.ikuku.cn/post/81094   
+19054 http://www.ikuku.cn/post/79392   
+4093 http://www.ikuku.cn/post/85214   
+19392 http://www.ikuku.cn/post/80424   
+18845 http://www.ikuku.cn/post/81908   
+18978 http://www.ikuku.cn/post/79254   
+19666 http://www.ikuku.cn/post/81623   
+19608 http://www.ikuku.cn/post/81217   
+18807 http://www.ikuku.cn/post/81291   
+19549 http://www.ikuku.cn/post/81108   
+19769 http://www.ikuku.cn/post/82576   
+19280 http://www.ikuku.cn/post/87356   
+12706 http://www.ikuku.cn/post/81179   
+18017 http://www.ikuku.cn/post/75343   
+18610 http://www.ikuku.cn/post/80944   
+18133 http://www.ikuku.cn/post/75744   
+18550 http://www.ikuku.cn/post/77449   
+18625 http://www.ikuku.cn/post/78685   
+9419 http://www.ikuku.cn/post/78556  
+
+The praise of the judges:  
+The reconstruction after the earthquake is not only to solve the problem that happening at the moment,but also to solve the questions in the old time.So the degree of difficulty increased because the limits.  
+
+This is the hardest point to judge the first prize because we need to seriously consider the implementation capacity.The second prize,the third prize,and the prize for the shortlist own their more imaginary space.Though they got their weak points.The still have chance to improve.We are looking forward to finding out more creative projects act as the pre-arranged planning for catastrophe in the future.  
+
 Big family who won the first prize got their own opinion about the society relationship but not a small family.Although we got the opposite ideas,the still won by their clear space planning,the executable architecture system.The high possibility for equipment,especially for the open platform for the resident.
+
 Another project GARSA3 which won the prize show us the concept of "complementary main body "between the intervention and the victims .The also got the advantages ,simple panel point,convenient transportation.So that the victims can do the reconstruction quickly.Recycling bamboo and wood which can be used in the reconstruction and temporary construction is a superiority
+
 —Ying jun, Xie
+
+
 The issue and technology of after earthquake rescue and reconstruction was summarized by the discussion of cross professional judges. The great earthquake of Nepal directly make many competitors focus on the usage of light weight architecture system. The reconstruction after earthquake usually consists three stages. The first stage is rescue reconstruction, usually using -tents. The selection strategy of house products of this stage focus on the concentrated construction in a short time, which is vitally important. The second stage is resettling reconstruction, light architecture system with some stiffness will be powerful tools. The third stage is perpetual reconstruction, in which stage the diversity and society meaning will influence long-term life quality of the residents. The combination of temporary and perpetual reconstruction will bring new inspirations to rescue construction and save architecture materials. Many works in the reconstruction competition of Nepal great earthquake can also be applied in the reconstruction of disasters like tsunami, flood inundation, fire hazard.
+
 Some competitors also notice the poetic dwelling of remote area, but as many crucial materials and tools cannot be provided in short time after the disaster, the reconstruction quality face the challenge of local situation. An interesting attempt deserves attention: the tool case and materials are left for the locals to reconstruct.
+
 The last suggestion is: when the competitors work in Nepal as foreigners, at that time, local people are observing the team. Only by the results of the reconstruction work can build their trust with native people. Therefore, the prize-winners’ first project is supposed to be highly concentrated and skillful, and can bring hope to locals using its beauty in shape and form. In an ideal condition, the team can set a standard for future development.
+
 ----Jingxiang Zhu
+
 Nepal has experienced a nightmare. An earthquake greater than the earthquake in Wenchuan hit Barpak, during the time people were enjoying their weekend. Houses of tens of millions families were swept to the ground. Thousands died during the disaster. Many rural area nearly turned to ruins. It is unbelievable terrifying. At this time GARS start a campaign to reconstruct houses for thousands of Nepal residents, appealing architects and designers around the world. The total process is warming and fair. I am impressed by so many lovely people try their best to help the residents to build their home. I believe those works will help Nepal to rise again!
+
 ----Sujeet Babu Shrestha
+
 Those wonderful pictures of each work expressed their own quality and quantity, which I learn a lot through this emergency review. It let me feel closer to real from these thoughtful works. Professional like a luxury.
+
 Chosen progression is hard since there is always some regret. However, it is interesting that regret dismissed during the review between logical, rational and perceptual body recognition of cross validation! The value judgment and orientation form gradually.
-BIG FAMILY, in permanent works, there are three small settlements built by different post-earthquake group or individual combination relations. This building form gives a real reaction about home location materials using and construction rationality. Then integration of family values specific will be fully involved social issues into architecture, which provide disaster model state building!
+
+BIG FAMILY, in permanent works, there are three small settlements built by different post-earthquake group or individual combination relations. This building form gives a real reaction about home location materials using and construction rationality. Then integration of family values specific will be fully involved social issues into architecture, which provide disaster model state building!  
+
 In temporary works, insulation in the shortest time at the remote mountainous area is the most important task. This includes aerial object of "stability" and of “convenience" and the temporary residence of critical thinking is "joint" design. Winning success of the factor squeezed into the design of a joint, which is lightweight and easy to install a light structural providing at least five different needs. "Simple, convenient, stable" make this talent work shows from competitors.
 Hexagonal - honeycomb - Multi - highlights prefabs has flexible using tactics. L type, Located at upland areas, use stone as the main building material works. Its moving also create interactive corner space. Organic bamboo can be adjusted with the terrain to the heart-shaped settlement. Delicate bamboo arch monomer platform is delicate, which can random layout easily. After several rounds of discussion, these works are in the ranks as second prize .
+
 We are glad to see so many works are creative, relaxing and happy. Holland rainbow house, as a good example, is not a easy feasible but so inspire people. Congratulations to these prize-winners and thank all participating teams or individuals. Hope this meaningful activity can do contribute to the victims!
+
 — Wenjie Qiu
+
 Disaster shelter construction have to consider not only about human body or provide habitat for the victims of the shelter, but also human soul ,the spiritual homeland become victims. These buildings can not only help restore production and living order, but also to soothe the trauma of people, inspire people to rebuild the affected areas power better homes. As a witness of confusion and helplessness after the earthquake, I know disaster buildings should not only have "easy construction, rapid construction, reasonable structure" structural characteristics, but also need to have consensus culture, easy to read and accept the ordinary, having a mutual sharing of social significance and giving new life to the scene to face the future. The current reconstruction work is still relatively far away from this requirement. One reason is the lack of good post-disaster reconstruction. The competition made a lot of creative solutions , to promote reconstruction work is undoubtedly a step forward.
+
 Excitement and tangled our main state past few days of judging since there are so many talented programs. So many people concerned about the reconstruction work, give us the work of the judges provide infinite power. From a large number of very good programs to the selection of the most creative and value of the program, the wisdom of the judges is a huge challenge. Although some specific programs we tangled, also tangled a long time. Fortunately we carefully discussed, fair and democratic vote for what we consider the most representative works , believe it our disaster reconstruction has a very good guide.
 Very honored to work with the judges together to complete a very meaningful work.
+
 -Bigang Fee
+
 As the only social scientist in the jury, it’s my duty to analyze and provide social conditions, concerning reconstruction in Nepal-Tibet area, as much as possible. In other words, it’ my duty to check the sociality and rationality of the work, to make sure that the award-winning works present everyday needs of people in the disaster-stricken area. Then it demands participants’ sharp eyes to the particular natural environment, complicated social reality, different humanity and mutual emotions. It demands consideration about the function and quality of the buildings. It demands the use of social network as well.
+
 These ideas are easy to understand. The next problem is to carry them out and find entry points that can work in concern with those ideas in different aspects. This is the reason why many works lost the competition. It’s the distinguishing feature of the winners as well. For example, Big Family, winning the first prize, integrates semi-open units that only satisfy the needs of nuclear family life into an architectural complex that can provide social support with an ingenious layout, which I personally regard as a good combination of general and specific characters, family units and social network. Another designer who has also won the first prize, focused on emergency school building of the hard-hit specific mountains, and created an operating system - transporting related equipments by air, gaining material in situ, assembling conveniently and setting up the school districts openly, which resolved problems about the accessibility, emergency and sustainability and many other issues. Among all the advantages, the greatest one of this program lies in its grasp of the key point - the appropriate reflection of nodes, which is perfect interpretation of swiftness This is simple and elegant.
+
 There’s another term to measure in my judgment, and I also showed this to other judges through an exciting and uncontrolled discussion. Facing each works of the competitor, I would always ask myself a question “Am I willing to move in this?” And this question assisted me to catch the possibility of a balanced coexistence between concepts and experiences, reality and imagination, scientific means and man-based significance, inexcitable thinking and philanthropic concern. Building, it all kind of boils down to the answer to human and life. Even after heavy disasters, it’ll be still like that.
+
 Contestants from all over the world, your talents, wisdom and creativity impressed me a lot. History has proven that it is because of the design competition that develops the future of architecture, including those works which failed to be chosen. (Ando Tadao ). So whether it is the winner or Not yet winning architects, please believe that you are the future.{版本二Competitors from all over the world, you have impressed me with your capabilities, wisdom and creativeness. “The history has proved that it is design contests, including those works that lose the matches, that make the future of architecture brighter.”(Tadao Ando) So it doesn’t matter whether you win the competiton or not. Architects, please do believe that you are the future.}
+
 It’s not that we, judges, want to normalize or direct, but that we expect all of you to see the insistence on value when facing hard hit on human society, that is love, respect, awe and profession.
+
 Thank you
+
 ---Sun Yu
+
