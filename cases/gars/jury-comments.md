@@ -200,7 +200,8 @@ Nominees
 18625 http://www.ikuku.cn/post/78685   
 9419 http://www.ikuku.cn/post/78556  
 
-The praise of the judges:  
+**The praise of the judges:**  
+
 The reconstruction after the earthquake is not only to solve the problem that happening at the moment,but also to solve the questions in the old time.So the degree of difficulty increased because the limits.  
 
 This is the hardest point to judge the first prize because we need to seriously consider the implementation capacity.The second prize,the third prize,and the prize for the shortlist own their more imaginary space.Though they got their weak points.The still have chance to improve.We are looking forward to finding out more creative projects act as the pre-arranged planning for catastrophe in the future.  
