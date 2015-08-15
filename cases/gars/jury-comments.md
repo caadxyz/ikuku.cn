@@ -212,7 +212,7 @@ Big family who won the first prize got their own opinion about the society relat
 
 Another project GARSA3 which won the prize show us the concept of "complementary main body "between the intervention and the victims .The also got the advantages ,simple panel point,convenient transportation.So that the victims can do the reconstruction quickly.Recycling bamboo and wood which can be used in the reconstruction and temporary construction is a superiority
 
-—Ying jun, Xie
+——Hsieh Ying-chun  
 
 
 The issue and technology of after earthquake rescue and reconstruction was summarized by the discussion of cross professional judges. The great earthquake of Nepal directly make many competitors focus on the usage of light weight architecture system. The reconstruction after earthquake usually consists three stages. The first stage is rescue reconstruction, usually using -tents. The selection strategy of house products of this stage focus on the concentrated construction in a short time, which is vitally important. The second stage is resettling reconstruction, light architecture system with some stiffness will be powerful tools. The third stage is perpetual reconstruction, in which stage the diversity and society meaning will influence long-term life quality of the residents. The combination of temporary and perpetual reconstruction will bring new inspirations to rescue construction and save architecture materials. Many works in the reconstruction competition of Nepal great earthquake can also be applied in the reconstruction of disasters like tsunami, flood inundation, fire hazard.
@@ -221,11 +221,8 @@ Some competitors also notice the poetic dwelling of remote area, but as many cru
 
 The last suggestion is: when the competitors work in Nepal as foreigners, at that time, local people are observing the team. Only by the results of the reconstruction work can build their trust with native people. Therefore, the prize-winners’ first project is supposed to be highly concentrated and skillful, and can bring hope to locals using its beauty in shape and form. In an ideal condition, the team can set a standard for future development.
 
-----Jingxiang Zhu
+——Zhu Jingxiang  
 
-Nepal has experienced a nightmare. An earthquake greater than the earthquake in Wenchuan hit Barpak, during the time people were enjoying their weekend. Houses of tens of millions families were swept to the ground. Thousands died during the disaster. Many rural area nearly turned to ruins. It is unbelievable terrifying. At this time GARS start a campaign to reconstruct houses for thousands of Nepal residents, appealing architects and designers around the world. The total process is warming and fair. I am impressed by so many lovely people try their best to help the residents to build their home. I believe those works will help Nepal to rise again!
-
-----Sujeet Babu Shrestha
 
 Those wonderful pictures of each work expressed their own quality and quantity, which I learn a lot through this emergency review. It let me feel closer to real from these thoughtful works. Professional like a luxury.
 
@@ -238,14 +235,14 @@ Hexagonal - honeycomb - Multi - highlights prefabs has flexible using tactics. L
 
 We are glad to see so many works are creative, relaxing and happy. Holland rainbow house, as a good example, is not a easy feasible but so inspire people. Congratulations to these prize-winners and thank all participating teams or individuals. Hope this meaningful activity can do contribute to the victims!
 
-— Wenjie Qiu
+——Wen-Chieh Chiu  
 
 Disaster shelter construction have to consider not only about human body or provide habitat for the victims of the shelter, but also human soul ,the spiritual homeland become victims. These buildings can not only help restore production and living order, but also to soothe the trauma of people, inspire people to rebuild the affected areas power better homes. As a witness of confusion and helplessness after the earthquake, I know disaster buildings should not only have "easy construction, rapid construction, reasonable structure" structural characteristics, but also need to have consensus culture, easy to read and accept the ordinary, having a mutual sharing of social significance and giving new life to the scene to face the future. The current reconstruction work is still relatively far away from this requirement. One reason is the lack of good post-disaster reconstruction. The competition made a lot of creative solutions , to promote reconstruction work is undoubtedly a step forward.
 
 Excitement and tangled our main state past few days of judging since there are so many talented programs. So many people concerned about the reconstruction work, give us the work of the judges provide infinite power. From a large number of very good programs to the selection of the most creative and value of the program, the wisdom of the judges is a huge challenge. Although some specific programs we tangled, also tangled a long time. Fortunately we carefully discussed, fair and democratic vote for what we consider the most representative works , believe it our disaster reconstruction has a very good guide.
 Very honored to work with the judges together to complete a very meaningful work.
 
--Bigang Fee
+——Fei Bigang   
 
 As the only social scientist in the jury, it’s my duty to analyze and provide social conditions, concerning reconstruction in Nepal-Tibet area, as much as possible. In other words, it’ my duty to check the sociality and rationality of the work, to make sure that the award-winning works present everyday needs of people in the disaster-stricken area. Then it demands participants’ sharp eyes to the particular natural environment, complicated social reality, different humanity and mutual emotions. It demands consideration about the function and quality of the buildings. It demands the use of social network as well.
 
@@ -259,5 +256,9 @@ It’s not that we, judges, want to normalize or direct, but that we expect all 
 
 Thank you
 
----Sun Yu
+——Sun Yu 
+
+Nepal has experienced a nightmare. An earthquake greater than the earthquake in Wenchuan hit Barpak, during the time people were enjoying their weekend. Houses of tens of millions families were swept to the ground. Thousands died during the disaster. Many rural area nearly turned to ruins. It is unbelievable terrifying. At this time GARS start a campaign to reconstruct houses for thousands of Nepal residents, appealing architects and designers around the world. The total process is warming and fair. I am impressed by so many lovely people try their best to help the residents to build their home. I believe those works will help Nepal to rise again!
+
+——Sujeet Babu Shrestha
 
