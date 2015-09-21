@@ -1,5 +1,8 @@
 # ikuku.cn|在库言库
 
+   * [社交媒体](o2o_sn/social_media.md)
+   * [线上社区](o2o_sn/social_network.md)
+   * [O2O](o2o_sn/o2o.md)
 
 O2O社区建设（信息透明）+ O2O信用机制（第三方担保） online  
 //在建筑设计这个市场上，天下没有难做的生意 
