@@ -1,7 +1,7 @@
 # Summary
 
 * [概述](README.md)
-* [O2O社区](o2o_sn.md)
+* [ikuku.cn|在库言库](o2o_sn.md)
    * [社区](o2o_sn/social_network.md)
    * [O2O](o2o_sn/o2o.md)
 * [开放学院](academy.md)
