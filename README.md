@@ -19,7 +19,7 @@ http://ikuku.caad.xyz
 
 
 **主题/topic**  
-1. [O2O社区](o2o_sn.md)  
+1. [ikuku.cn|在库言库](o2o_sn.md)  
 2. [开放学院](academy.md)   
 3. [云工作室](studio.md)     
 5. [地图](http://www.ikuku.cn/map.php)  
