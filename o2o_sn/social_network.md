@@ -29,6 +29,8 @@ O2O社区建设（信息透明）+ O2O信用机制（第三方担保） online
 
 # 社区建设  SOLOMO
 
+![ikuku网络效应](../images/social_network/neteffect.jpg)  
+
 
 **设计师及项目数据库**  
 
