@@ -33,6 +33,9 @@ http://www.archdaily.com/640481/open-call-gars-nepal-tibet-earthquake-emergency-
 Competitions.archi
 http://competitions.archi/competition/gars-nepal-tebit-earthquake-emergency/
 
+architectsjournal.co.uk  
+http://www.architectsjournal.co.uk/competitions/contest-opens-for-nepal-earthquake-relief-structures/8685036.article  
+
 
 UED
 http://www.archreport.com.cn/show-11-3319-1.html
@@ -55,7 +58,10 @@ http://www.urcities.com/designCompet/20150602/17234.html
 domus中国：
 
 建筑师的非建筑：
-http://mp.weixin.qq.com/s?__biz=MjM5MDEyNDE4MQ==&mid=207922281&idx=2&sn=2761d26d30aa76bc2e303f68009ab453
+http://mp.weixin.qq.com/s?__biz=MjM5MDEyNDE4MQ==&mid=207922281&idx=2&sn=2761d26d30aa76bc2e303f68009ab453  
+
+ethz  
+http://www.arch.ethz.ch/news-und-veranstaltungen/externe-angebote/studentenwettbewerbe.html  
 
 
 **微博媒体**  
@@ -116,5 +122,11 @@ http://mp.weixin.qq.com/s?__biz=MjM5ODgzMjI3NA==&mid=207467984&idx=1&sn=89595b2a
 http://mp.weixin.qq.com/s?__biz=MzA3NjU4NTAwOA==&mid=209425846&idx=1&sn=b258f77de8a48a5724949bf8ff885281  
 
 
+同浙建筑系  
+
+http://mp.weixin.qq.com/s?__biz=MzAxNTM1MzU0NQ==&mid=206566287&idx=1&sn=433407ad0c23d2bb5245a2fd4ba4fc8d
+
 深圳市土木再生城乡营造研究所是08年汶川大地震后由深港等地建筑师等专业人士发起、旨在为灾区／乡村／受忽略社区提供专业支持的民间机构，同时也是推动城市／乡村营造设计研究的资源平台
 http://mp.weixin.qq.com/s?__biz=MjM5Njg1MjgyMg==&mid=206591745&idx=1&sn=39fbe3b8cd15a7f6d853388702acc20b
+
+
