@@ -7,8 +7,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](
  **项目列表**
 -----  
 
-* [尼泊尔地震
-全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
+* [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动](cases/GARS-NEPAL.md)
 * [各年级在校生作业展](cases/study.md)
 * [影像工作室(image studio)](cases/imagestudio.md)
 * [百年华人建筑库](cases/100.md)
