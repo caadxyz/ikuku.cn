@@ -27,6 +27,7 @@
    * [BIM & CAAD](https://github.com/caadxyz/bim)
    * [eth caad alumni](cases/ethcaad.md)
    * [乡村工具包](cases/vallage.md)
+   * [China1000](cases/china1000.md)
    * [de talk](cases/detalk.md)
    * [在库言库使用手册](cases/ikuku-guide.md)
 * [团队](team.md)
