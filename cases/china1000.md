@@ -39,3 +39,6 @@ Meanwhile, the Architecture China 1000 Book containing all of the 1,000 projects
 [于佳涵](http://www.ikuku.cn/user/16843)  
 刘欣彤    
 Orry  
+
+
+**ikuku对志愿者的感谢函**  
