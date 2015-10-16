@@ -1,8 +1,8 @@
 # 开放学院(academy.ikuku.cn)
 academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](https://en.wikipedia.org/wiki/Open_source)学术研究机构，资金来自专项的公益基金。  
 
-开放协议： [MIT License](http://opensource.org/licenses/MIT)
-发起人: 马海东  
+开放协议： [MIT License](http://opensource.org/licenses/MIT)   
+发起人: 马海东   
 
  **项目列表**
 -----  
