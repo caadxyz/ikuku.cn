@@ -1,6 +1,6 @@
-# 开放学院(academy.ikuku.cn)
+<img src="http://www.ikuku.cn/wp-includes/images/openschool.jpg" width=200 /># 开放学院(academy.ikuku.cn)
 -----
-<img src="http://www.ikuku.cn/wp-includes/images/openschool.jpg" width=200 />   
+  
 
 
 academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](https://en.wikipedia.org/wiki/Open_source)学术研究机构，资金来自专项的公益基金。  
