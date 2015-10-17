@@ -1,4 +1,4 @@
-<img src="http://www.ikuku.cn/wp-includes/images/openschool_scale.jpg" width=50 />开放学院(academy.ikuku.cn)
+<img src="http://www.ikuku.cn/wp-includes/images/openschool_scale.jpg" width=50 />  开放学院(academy.ikuku.cn)
 -----
   
 
