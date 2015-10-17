@@ -22,7 +22,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](
 * [eth caad alumni](cases/ethcaad.md)
 * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [China1000](cases/china1000.md)
-* [de talk](cases/detalk.md)  
+* [de talk](cases/detalk.md)    
 
 
 
