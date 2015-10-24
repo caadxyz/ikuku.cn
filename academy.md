@@ -1,8 +1,12 @@
-# 开放学院(academy.ikuku.cn)
+<img src="http://www.ikuku.cn/wp-includes/images/openschool_scale.jpg" width=50 />  开放学院(academy.ikuku.cn)
+-----
+  
+
+
 academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](https://en.wikipedia.org/wiki/Open_source)学术研究机构，资金来自专项的公益基金。  
 
-开放协议： [MIT License](http://opensource.org/licenses/MIT)
-
+开放协议： [MIT License](http://opensource.org/licenses/MIT)   
+发起人: [马海东](http://www.ikuku.cn/user/1510)   
 
  **项目列表**
 -----  
@@ -18,7 +22,7 @@ academy.ikuku.cn是建立在ikuku.cn平台上的[开放资源（open source）](
 * [eth caad alumni](cases/ethcaad.md)
 * [Simulation Algorithm of Macro Thinking & Micro action](https://github.com/caadxyz/Macro-Thinking-Micro-action)
 * [China1000](cases/china1000.md)
-* [de talk](cases/detalk.md)  
+* [de talk](cases/detalk.md)    
 
 
 
