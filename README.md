@@ -2,7 +2,7 @@ find a new way to design a building
 ========
 
 **GitBook**  
-http://ikuku.caad.xyz
+http://www.caad.xyz
  
 **事件/events**  
 2012.1.1 [ikuku.cn|在库言库](http://www.ikuku.cn)上线。    
