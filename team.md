@@ -26,7 +26,7 @@ We believe that opening up is a force, like a magnet to attract talents.
 [万林潇谊](http://www.ikuku.cn/name/9549)：ETH-caad    
 “因为觉得建筑以后的走势一定是跟计算机紧密结合的，而ikuku的海报上明确写着与数字建筑有关，所以我来了”   
 
-杨婧：北京工业大学
+[杨婧](http://www.ikuku.cn/user/17592)：北京工业大学
 “建筑是我的事业和世界，ikuku是一双带我看世界的眼睛～”
 
 
