@@ -44,6 +44,7 @@ ikuku总部实习机会申请: http://www.ikuku.cn/activity/ikuku-cneezaikuyanku
 --------
 * [尼泊尔地震全球建筑师灾后重建设计方案紧急援助活动志愿者](cases/gars/volunteer.md)
 * [China1000志愿者](cases/china1000.md)
+* [ikuku.cn|在库言库不粘贴设计征集活动](http://www.ikuku.cn/article/ikuku-cnzaikuyankubuzhantieshejizhengjitougaozuopingongbu)
 
 
 学院/academy members
